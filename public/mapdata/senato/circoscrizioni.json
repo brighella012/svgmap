@@ -1,0 +1,4423 @@
+{
+    "11": {
+        "risultati": [
+            {
+                "perc": 35.22,
+                "liste": [
+                    {
+                        "perc": 35.22,
+                        "num_voti": 289374,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 3,
+                "num_voti": 289374,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 32.98,
+                "liste": [
+                    {
+                        "perc": 17.6,
+                        "num_voti": 144623,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 9.9,
+                        "num_voti": 81358,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 4.59,
+                        "num_voti": 37758,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.87,
+                        "num_voti": 7223,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 270962,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 24.53,
+                "liste": [
+                    {
+                        "perc": 21.91,
+                        "num_voti": 180032,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 1.75,
+                        "num_voti": 14430,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.5,
+                        "num_voti": 4126,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.35,
+                        "num_voti": 2956,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 201544,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 2.81,
+                "liste": [
+                    {
+                        "perc": 2.81,
+                        "num_voti": 23117,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 23117,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 0.93,
+                "liste": [
+                    {
+                        "perc": 0.93,
+                        "num_voti": 7684,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 7684,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.93,
+                "liste": [
+                    {
+                        "perc": 0.93,
+                        "num_voti": 7669,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 7669,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.86,
+                "liste": [
+                    {
+                        "perc": 0.86,
+                        "num_voti": 7066,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 7066,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.69,
+                "liste": [
+                    {
+                        "perc": 0.69,
+                        "num_voti": 5683,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5683,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.55,
+                "liste": [
+                    {
+                        "perc": 0.55,
+                        "num_voti": 4546,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4546,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.26,
+                "liste": [
+                    {
+                        "perc": 0.26,
+                        "num_voti": 2137,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2137,
+                "id_coalizione": "partito-valore-umano"
+            },
+            {
+                "perc": 0.1,
+                "liste": [
+                    {
+                        "perc": 0.1,
+                        "num_voti": 874,
+                        "id_lista": "lista-del-popolo-per-la-costituzione",
+                        "label": "LISTA DEL POPOLO PER LA COSTITUZIONE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11400-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 874,
+                "id_coalizione": "lista-del-popolo-per-la-costituzione"
+            },
+            {
+                "perc": 0.1,
+                "liste": [
+                    {
+                        "perc": 0.1,
+                        "num_voti": 871,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 871,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "10": {
+        "risultati": [
+            {
+                "perc": 37.26,
+                "liste": [
+                    {
+                        "perc": 20.28,
+                        "num_voti": 96080,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 11.63,
+                        "num_voti": 55131,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 4.87,
+                        "num_voti": 23115,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.46,
+                        "num_voti": 2200,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 2,
+                "num_voti": 176526,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 27.88,
+                "liste": [
+                    {
+                        "perc": 25.47,
+                        "num_voti": 120714,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 1.69,
+                        "num_voti": 8008,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.35,
+                        "num_voti": 1694,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.35,
+                        "num_voti": 1678,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 132094,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 27.03,
+                "liste": [
+                    {
+                        "perc": 27.03,
+                        "num_voti": 128101,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 128101,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 2.99,
+                "liste": [
+                    {
+                        "perc": 2.99,
+                        "num_voti": 14204,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 14204,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.22,
+                "liste": [
+                    {
+                        "perc": 1.22,
+                        "num_voti": 5825,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5825,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 1.15,
+                "liste": [
+                    {
+                        "perc": 1.15,
+                        "num_voti": 5470,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5470,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.86,
+                "liste": [
+                    {
+                        "perc": 0.86,
+                        "num_voti": 4099,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4099,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.78,
+                "liste": [
+                    {
+                        "perc": 0.78,
+                        "num_voti": 3718,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3718,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.46,
+                "liste": [
+                    {
+                        "perc": 0.46,
+                        "num_voti": 2220,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2220,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.22,
+                "liste": [
+                    {
+                        "perc": 0.22,
+                        "num_voti": 1064,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1064,
+                "id_coalizione": "partito-valore-umano"
+            },
+            {
+                "perc": 0.09,
+                "liste": [
+                    {
+                        "perc": 0.09,
+                        "num_voti": 442,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 442,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "13": {
+        "risultati": [
+            {
+                "perc": 39.29,
+                "liste": [
+                    {
+                        "perc": 39.29,
+                        "num_voti": 274185,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 1,
+                "num_voti": 274185,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 36.38,
+                "liste": [
+                    {
+                        "perc": 15.86,
+                        "num_voti": 110665,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 13.93,
+                        "num_voti": 97196,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 4.75,
+                        "num_voti": 33157,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 1.84,
+                        "num_voti": 12871,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 1,
+                "num_voti": 253889,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 17.63,
+                "liste": [
+                    {
+                        "perc": 13.97,
+                        "num_voti": 97531,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 1.66,
+                        "num_voti": 11606,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 1.53,
+                        "num_voti": 10740,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    },
+                    {
+                        "perc": 0.45,
+                        "num_voti": 3175,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 123052,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 2.55,
+                "liste": [
+                    {
+                        "perc": 2.55,
+                        "num_voti": 17826,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 17826,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.17,
+                "liste": [
+                    {
+                        "perc": 1.17,
+                        "num_voti": 8211,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 8211,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.92,
+                "liste": [
+                    {
+                        "perc": 0.92,
+                        "num_voti": 6442,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 6442,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.76,
+                "liste": [
+                    {
+                        "perc": 0.76,
+                        "num_voti": 5325,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5325,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.62,
+                "liste": [
+                    {
+                        "perc": 0.62,
+                        "num_voti": 4358,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4358,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.46,
+                "liste": [
+                    {
+                        "perc": 0.46,
+                        "num_voti": 3215,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3215,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.17,
+                "liste": [
+                    {
+                        "perc": 0.17,
+                        "num_voti": 1214,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1214,
+                "id_coalizione": "partito-valore-umano"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "12": {
+        "risultati": [
+            {
+                "perc": 35.78,
+                "liste": [
+                    {
+                        "perc": 13.88,
+                        "num_voti": 389951,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 13.8,
+                        "num_voti": 387698,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 7.58,
+                        "num_voti": 213012,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.75,
+                        "num_voti": 21268,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 6,
+                "num_voti": 1016891,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 32.86,
+                "liste": [
+                    {
+                        "perc": 32.86,
+                        "num_voti": 922823,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 6,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 3,
+                "num_voti": 933783,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 22.79,
+                "liste": [
+                    {
+                        "perc": 18.56,
+                        "num_voti": 521395,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 4,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 3.04,
+                        "num_voti": 85448,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.57,
+                        "num_voti": 16182,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.43,
+                        "num_voti": 12117,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 1,
+                "num_voti": 647764,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 3.61,
+                "liste": [
+                    {
+                        "perc": 3.58,
+                        "num_voti": 100563,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 102760,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.49,
+                "liste": [
+                    {
+                        "perc": 1.48,
+                        "num_voti": 41738,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 42522,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 1.46,
+                "liste": [
+                    {
+                        "perc": 1.45,
+                        "num_voti": 40950,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 41513,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.55,
+                "liste": [
+                    {
+                        "perc": 0.55,
+                        "num_voti": 15591,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 15825,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.51,
+                "liste": [
+                    {
+                        "perc": 0.51,
+                        "num_voti": 14425,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 14745,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.41,
+                "liste": [
+                    {
+                        "perc": 0.42,
+                        "num_voti": 11802,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 11927,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.19,
+                "liste": [
+                    {
+                        "perc": 0.19,
+                        "num_voti": 5407,
+                        "id_lista": "democrazia-cristiana",
+                        "label": "DEMOCRAZIA CRISTIANA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-3142-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5518,
+                "id_coalizione": "democrazia-cristiana"
+            },
+            {
+                "perc": 0.11,
+                "liste": [
+                    {
+                        "perc": 0.11,
+                        "num_voti": 3296,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3378,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            },
+            {
+                "perc": 0.08,
+                "liste": [
+                    {
+                        "perc": 0.08,
+                        "num_voti": 2326,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2407,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            },
+            {
+                "perc": 0.08,
+                "liste": [
+                    {
+                        "perc": 0.08,
+                        "num_voti": 2319,
+                        "id_lista": "lista-del-popolo-per-la-costituzione",
+                        "label": "LISTA DEL POPOLO PER LA COSTITUZIONE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11400-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2379,
+                "id_coalizione": "lista-del-popolo-per-la-costituzione"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "15": {
+        "risultati": [
+            {
+                "perc": 48.74,
+                "liste": [
+                    {
+                        "perc": 48.74,
+                        "num_voti": 1306465,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 9,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 11,
+                "num_voti": 1306465,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 29.02,
+                "liste": [
+                    {
+                        "perc": 19.78,
+                        "num_voti": 530333,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 4,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 4.58,
+                        "num_voti": 123006,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 3.31,
+                        "num_voti": 88784,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 1.33,
+                        "num_voti": 35736,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 777859,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 16.18,
+                "liste": [
+                    {
+                        "perc": 13.77,
+                        "num_voti": 369151,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 1.1,
+                        "num_voti": 29514,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.75,
+                        "num_voti": 20199,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    },
+                    {
+                        "perc": 0.55,
+                        "num_voti": 14822,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 433686,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 2.57,
+                "liste": [
+                    {
+                        "perc": 2.57,
+                        "num_voti": 68919,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 68919,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.37,
+                "liste": [
+                    {
+                        "perc": 1.37,
+                        "num_voti": 36957,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 36957,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.57,
+                "liste": [
+                    {
+                        "perc": 0.57,
+                        "num_voti": 15529,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 15529,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.49,
+                "liste": [
+                    {
+                        "perc": 0.49,
+                        "num_voti": 13315,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 13315,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.42,
+                "liste": [
+                    {
+                        "perc": 0.42,
+                        "num_voti": 11432,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 11432,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.2,
+                "liste": [
+                    {
+                        "perc": 0.2,
+                        "num_voti": 5480,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5480,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.15,
+                "liste": [
+                    {
+                        "perc": 0.15,
+                        "num_voti": 4205,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4205,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            },
+            {
+                "perc": 0.12,
+                "liste": [
+                    {
+                        "perc": 0.12,
+                        "num_voti": 3378,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3378,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            },
+            {
+                "perc": 0.11,
+                "liste": [
+                    {
+                        "perc": 0.11,
+                        "num_voti": 3046,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3046,
+                "id_coalizione": "partito-valore-umano"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "14": {
+        "risultati": [
+            {
+                "perc": 44.49,
+                "liste": [
+                    {
+                        "perc": 44.49,
+                        "num_voti": 71067,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 1,
+                "num_voti": 71067,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 30.86,
+                "liste": [
+                    {
+                        "perc": 15.81,
+                        "num_voti": 25265,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 8.37,
+                        "num_voti": 13374,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 3.9,
+                        "num_voti": 6233,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    },
+                    {
+                        "perc": 2.76,
+                        "num_voti": 4422,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 49294,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 17.66,
+                "liste": [
+                    {
+                        "perc": 15.07,
+                        "num_voti": 24076,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 0.92,
+                        "num_voti": 1472,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.84,
+                        "num_voti": 1350,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.82,
+                        "num_voti": 1314,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 28212,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 3.73,
+                "liste": [
+                    {
+                        "perc": 3.73,
+                        "num_voti": 5962,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5962,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.15,
+                "liste": [
+                    {
+                        "perc": 1.15,
+                        "num_voti": 1847,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1847,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.89,
+                "liste": [
+                    {
+                        "perc": 0.89,
+                        "num_voti": 1427,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1427,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.76,
+                "liste": [
+                    {
+                        "perc": 0.76,
+                        "num_voti": 1216,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1216,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.38,
+                "liste": [
+                    {
+                        "perc": 0.38,
+                        "num_voti": 608,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 608,
+                "id_coalizione": "partito-valore-umano"
+            },
+            {
+                "perc": 0.05,
+                "liste": [
+                    {
+                        "perc": 0.05,
+                        "num_voti": 86,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 86,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "17": {
+        "risultati": [
+            {
+                "perc": 43.0,
+                "liste": [
+                    {
+                        "perc": 43.0,
+                        "num_voti": 123118,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 1,
+                "num_voti": 123118,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 26.03,
+                "liste": [
+                    {
+                        "perc": 12.65,
+                        "num_voti": 36226,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 7.19,
+                        "num_voti": 20591,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 3.71,
+                        "num_voti": 10628,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 2.47,
+                        "num_voti": 7083,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 74528,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 21.37,
+                "liste": [
+                    {
+                        "perc": 17.25,
+                        "num_voti": 49406,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 1.45,
+                        "num_voti": 4163,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    },
+                    {
+                        "perc": 1.38,
+                        "num_voti": 3975,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 1.27,
+                        "num_voti": 3659,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 61203,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 5.69,
+                "liste": [
+                    {
+                        "perc": 5.69,
+                        "num_voti": 16305,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 16305,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.24,
+                "liste": [
+                    {
+                        "perc": 1.24,
+                        "num_voti": 3554,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3554,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.63,
+                "liste": [
+                    {
+                        "perc": 0.63,
+                        "num_voti": 1831,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1831,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.58,
+                "liste": [
+                    {
+                        "perc": 0.58,
+                        "num_voti": 1674,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1674,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.53,
+                "liste": [
+                    {
+                        "perc": 0.53,
+                        "num_voti": 1520,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1520,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.48,
+                "liste": [
+                    {
+                        "perc": 0.48,
+                        "num_voti": 1384,
+                        "id_lista": "sms-stato-moderno-solidale",
+                        "label": "SMS - STATO MODERNO SOLIDALE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11382-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1384,
+                "id_coalizione": "sms-stato-moderno-solidale"
+            },
+            {
+                "perc": 0.41,
+                "liste": [
+                    {
+                        "perc": 0.41,
+                        "num_voti": 1192,
+                        "id_lista": "lista-del-popolo-per-la-costituzione",
+                        "label": "LISTA DEL POPOLO PER LA COSTITUZIONE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11400-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1192,
+                "id_coalizione": "lista-del-popolo-per-la-costituzione"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "16": {
+        "risultati": [
+            {
+                "perc": 44.11,
+                "liste": [
+                    {
+                        "perc": 44.11,
+                        "num_voti": 873237,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 6,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 8,
+                "num_voti": 873237,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 32.88,
+                "liste": [
+                    {
+                        "perc": 19.47,
+                        "num_voti": 385450,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 6.59,
+                        "num_voti": 130548,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 3.8,
+                        "num_voti": 75251,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 3.01,
+                        "num_voti": 59665,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 650914,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 16.55,
+                "liste": [
+                    {
+                        "perc": 14.22,
+                        "num_voti": 281639,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 1.13,
+                        "num_voti": 22567,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.61,
+                        "num_voti": 12269,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.56,
+                        "num_voti": 11269,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 327744,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 3.04,
+                "liste": [
+                    {
+                        "perc": 3.04,
+                        "num_voti": 60269,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 60269,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 0.92,
+                "liste": [
+                    {
+                        "perc": 0.92,
+                        "num_voti": 18404,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 18404,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.68,
+                "liste": [
+                    {
+                        "perc": 0.68,
+                        "num_voti": 13601,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 13601,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.61,
+                "liste": [
+                    {
+                        "perc": 0.61,
+                        "num_voti": 12094,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 12094,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.59,
+                "liste": [
+                    {
+                        "perc": 0.59,
+                        "num_voti": 11753,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 11753,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.38,
+                "liste": [
+                    {
+                        "perc": 0.38,
+                        "num_voti": 7585,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 7585,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.11,
+                "liste": [
+                    {
+                        "perc": 0.11,
+                        "num_voti": 2269,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2269,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            },
+            {
+                "perc": 0.08,
+                "liste": [
+                    {
+                        "perc": 0.08,
+                        "num_voti": 1741,
+                        "id_lista": "lista-del-popolo-per-la-costituzione",
+                        "label": "LISTA DEL POPOLO PER LA COSTITUZIONE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11400-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1741,
+                "id_coalizione": "lista-del-popolo-per-la-costituzione"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "19": {
+        "risultati": [
+            {
+                "perc": 48.08,
+                "liste": [
+                    {
+                        "perc": 48.08,
+                        "num_voti": 1055015,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 8,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 9,
+                "num_voti": 1055015,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 32.09,
+                "liste": [
+                    {
+                        "perc": 20.65,
+                        "num_voti": 453117,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 5.44,
+                        "num_voti": 119512,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 3.79,
+                        "num_voti": 83189,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 2.2,
+                        "num_voti": 48360,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 704178,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 13.67,
+                "liste": [
+                    {
+                        "perc": 11.63,
+                        "num_voti": 255196,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 1.15,
+                        "num_voti": 25246,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.58,
+                        "num_voti": 12925,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    },
+                    {
+                        "perc": 0.3,
+                        "num_voti": 6734,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 300101,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 2.96,
+                "liste": [
+                    {
+                        "perc": 2.96,
+                        "num_voti": 64975,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 64975,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.02,
+                "liste": [
+                    {
+                        "perc": 1.02,
+                        "num_voti": 22542,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 22542,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.71,
+                "liste": [
+                    {
+                        "perc": 0.71,
+                        "num_voti": 15666,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 15666,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.57,
+                "liste": [
+                    {
+                        "perc": 0.57,
+                        "num_voti": 12569,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 12569,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.49,
+                "liste": [
+                    {
+                        "perc": 0.49,
+                        "num_voti": 10895,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 10895,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.17,
+                "liste": [
+                    {
+                        "perc": 0.17,
+                        "num_voti": 3753,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3753,
+                "id_coalizione": "partito-valore-umano"
+            },
+            {
+                "perc": 0.11,
+                "liste": [
+                    {
+                        "perc": 0.11,
+                        "num_voti": 2498,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2498,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            },
+            {
+                "perc": 0.08,
+                "liste": [
+                    {
+                        "perc": 0.08,
+                        "num_voti": 1863,
+                        "id_lista": "lista-del-popolo-per-la-costituzione",
+                        "label": "LISTA DEL POPOLO PER LA COSTITUZIONE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11400-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1863,
+                "id_coalizione": "lista-del-popolo-per-la-costituzione"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "18": {
+        "risultati": [
+            {
+                "perc": 43.56,
+                "liste": [
+                    {
+                        "perc": 43.56,
+                        "num_voti": 369365,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 3,
+                "num_voti": 369365,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 32.99,
+                "liste": [
+                    {
+                        "perc": 21.44,
+                        "num_voti": 181849,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 5.87,
+                        "num_voti": 49797,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 4.11,
+                        "num_voti": 34863,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 1.55,
+                        "num_voti": 13197,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 1,
+                "num_voti": 279706,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 16.49,
+                "liste": [
+                    {
+                        "perc": 14.53,
+                        "num_voti": 123206,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 0.81,
+                        "num_voti": 6870,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.64,
+                        "num_voti": 5438,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.5,
+                        "num_voti": 4298,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 139812,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 2.72,
+                "liste": [
+                    {
+                        "perc": 2.72,
+                        "num_voti": 23101,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 23101,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.02,
+                "liste": [
+                    {
+                        "perc": 1.02,
+                        "num_voti": 8692,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 8692,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.69,
+                "liste": [
+                    {
+                        "perc": 0.69,
+                        "num_voti": 5872,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5872,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.61,
+                "liste": [
+                    {
+                        "perc": 0.61,
+                        "num_voti": 5187,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5187,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.54,
+                "liste": [
+                    {
+                        "perc": 0.54,
+                        "num_voti": 4612,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4612,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.48,
+                "liste": [
+                    {
+                        "perc": 0.48,
+                        "num_voti": 4103,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4103,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.34,
+                "liste": [
+                    {
+                        "perc": 0.34,
+                        "num_voti": 2922,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2922,
+                "id_coalizione": "partito-valore-umano"
+            },
+            {
+                "perc": 0.2,
+                "liste": [
+                    {
+                        "perc": 0.2,
+                        "num_voti": 1769,
+                        "id_lista": "destre-unite-forconi",
+                        "label": "DESTRE UNITE - FORCONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11389-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1769,
+                "id_coalizione": "destre-unite-forconi"
+            },
+            {
+                "perc": 0.16,
+                "liste": [
+                    {
+                        "perc": 0.16,
+                        "num_voti": 1371,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1371,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            },
+            {
+                "perc": 0.15,
+                "liste": [
+                    {
+                        "perc": 0.15,
+                        "num_voti": 1272,
+                        "id_lista": "lista-del-popolo-per-la-costituzione",
+                        "label": "LISTA DEL POPOLO PER LA COSTITUZIONE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11400-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1272,
+                "id_coalizione": "lista-del-popolo-per-la-costituzione"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "20": {
+        "risultati": [
+            {
+                "perc": 42.15,
+                "liste": [
+                    {
+                        "perc": 42.15,
+                        "num_voti": 341177,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 3,
+                "num_voti": 341177,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 31.06,
+                "liste": [
+                    {
+                        "perc": 14.08,
+                        "num_voti": 114003,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 11.59,
+                        "num_voti": 93812,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 4.29,
+                        "num_voti": 34722,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 1.09,
+                        "num_voti": 8852,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 251389,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 17.85,
+                "liste": [
+                    {
+                        "perc": 15.3,
+                        "num_voti": 123887,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 1.56,
+                        "num_voti": 12694,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.59,
+                        "num_voti": 4806,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.38,
+                        "num_voti": 3124,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 144511,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 2.95,
+                "liste": [
+                    {
+                        "perc": 2.95,
+                        "num_voti": 23952,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 23952,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 2.52,
+                "liste": [
+                    {
+                        "perc": 2.52,
+                        "num_voti": 20468,
+                        "id_lista": "autodeterminatzione",
+                        "label": "AUTODETERMINATZIONE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11408-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 20468,
+                "id_coalizione": "autodeterminatzione"
+            },
+            {
+                "perc": 0.92,
+                "liste": [
+                    {
+                        "perc": 0.92,
+                        "num_voti": 7480,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 7480,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.83,
+                "liste": [
+                    {
+                        "perc": 0.83,
+                        "num_voti": 6775,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 6775,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.68,
+                "liste": [
+                    {
+                        "perc": 0.68,
+                        "num_voti": 5531,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5531,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.63,
+                "liste": [
+                    {
+                        "perc": 0.63,
+                        "num_voti": 5140,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5140,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.36,
+                "liste": [
+                    {
+                        "perc": 0.36,
+                        "num_voti": 2929,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2929,
+                "id_coalizione": "partito-valore-umano"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "1": {
+        "risultati": [
+            {
+                "perc": 40.97,
+                "liste": [
+                    {
+                        "perc": 22.6,
+                        "num_voti": 513676,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 13.98,
+                        "num_voti": 317688,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 3.72,
+                        "num_voti": 84616,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.65,
+                        "num_voti": 14938,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 7,
+                "num_voti": 930918,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 26.25,
+                "liste": [
+                    {
+                        "perc": 26.25,
+                        "num_voti": 596438,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 4,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 596438,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 25.39,
+                "liste": [
+                    {
+                        "perc": 20.89,
+                        "num_voti": 474826,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 4,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 3.72,
+                        "num_voti": 84673,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.4,
+                        "num_voti": 9213,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    },
+                    {
+                        "perc": 0.36,
+                        "num_voti": 8334,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    }
+                ],
+                "seggi-uninominale": 1,
+                "num_voti": 577046,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 3.69,
+                "liste": [
+                    {
+                        "perc": 3.69,
+                        "num_voti": 83958,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 83958,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.02,
+                "liste": [
+                    {
+                        "perc": 1.02,
+                        "num_voti": 23247,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 23247,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.92,
+                "liste": [
+                    {
+                        "perc": 0.92,
+                        "num_voti": 21082,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 21082,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.65,
+                "liste": [
+                    {
+                        "perc": 0.65,
+                        "num_voti": 14812,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 14812,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.46,
+                "liste": [
+                    {
+                        "perc": 0.46,
+                        "num_voti": 10601,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 10601,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.31,
+                "liste": [
+                    {
+                        "perc": 0.31,
+                        "num_voti": 7259,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 7259,
+                "id_coalizione": "partito-valore-umano"
+            },
+            {
+                "perc": 0.21,
+                "liste": [
+                    {
+                        "perc": 0.21,
+                        "num_voti": 4881,
+                        "id_lista": "grande-nord",
+                        "label": "GRANDE NORD",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11371-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4881,
+                "id_coalizione": "grande-nord"
+            },
+            {
+                "perc": 0.07,
+                "liste": [
+                    {
+                        "perc": 0.07,
+                        "num_voti": 1772,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1772,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "3": {
+        "risultati": [
+            {
+                "perc": 47.22,
+                "liste": [
+                    {
+                        "perc": 28.03,
+                        "num_voti": 1454711,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 9,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 14.06,
+                        "num_voti": 729830,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 5,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 4.15,
+                        "num_voti": 215557,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.96,
+                        "num_voti": 50308,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 17,
+                "num_voti": 2450406,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 25.26,
+                "liste": [
+                    {
+                        "perc": 21.24,
+                        "num_voti": 1102078,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 8,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 3.12,
+                        "num_voti": 162355,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.49,
+                        "num_voti": 25630,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.39,
+                        "num_voti": 20652,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 1,
+                "num_voti": 1310715,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 21.35,
+                "liste": [
+                    {
+                        "perc": 21.35,
+                        "num_voti": 1108039,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 7,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1108039,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 2.82,
+                "liste": [
+                    {
+                        "perc": 2.82,
+                        "num_voti": 146337,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 146337,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 0.94,
+                "liste": [
+                    {
+                        "perc": 0.94,
+                        "num_voti": 48931,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 48931,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.81,
+                "liste": [
+                    {
+                        "perc": 0.81,
+                        "num_voti": 42374,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 42374,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.66,
+                "liste": [
+                    {
+                        "perc": 0.66,
+                        "num_voti": 34351,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 34351,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.65,
+                "liste": [
+                    {
+                        "perc": 0.65,
+                        "num_voti": 33902,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 33902,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.17,
+                "liste": [
+                    {
+                        "perc": 0.17,
+                        "num_voti": 9231,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 9231,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            },
+            {
+                "perc": 0.08,
+                "liste": [
+                    {
+                        "perc": 0.08,
+                        "num_voti": 4234,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4234,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "2": {
+        "risultati": [
+            {
+                "perc": 25.76,
+                "seggi-uninominale": 1,
+                "num_voti": 15958,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 23.24,
+                "seggi-uninominale": 0,
+                "num_voti": 14398,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 17.76,
+                "seggi-uninominale": 0,
+                "num_voti": 11004,
+                "id_coalizione": "lega",
+                "label": "Lega"
+            },
+            {
+                "perc": 15.59,
+                "seggi-uninominale": 0,
+                "num_voti": 9659,
+                "id_coalizione": "pour-tous-per-tutti-petcheut",
+                "label": "POUR TOUS PER TUTTI PE TCHEUT"
+            },
+            {
+                "perc": 8.43,
+                "seggi-uninominale": 0,
+                "num_voti": 5223,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 3.08,
+                "seggi-uninominale": 0,
+                "num_voti": 1911,
+                "id_coalizione": "risposta-civica",
+                "label": "Risposta Civica"
+            },
+            {
+                "perc": 2.72,
+                "seggi-uninominale": 0,
+                "num_voti": 1688,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 1.94,
+                "seggi-uninominale": 0,
+                "num_voti": 1207,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 1.43,
+                "seggi-uninominale": 0,
+                "num_voti": 890,
+                "id_coalizione": "partito-valore-umano"
+            }
+        ],
+        "ultimo_aggiornamento": "20180305174002"
+    },
+    "5": {
+        "risultati": [
+            {
+                "perc": 48.17,
+                "liste": [
+                    {
+                        "perc": 31.78,
+                        "num_voti": 839586,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 5,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 10.86,
+                        "num_voti": 286906,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 4.28,
+                        "num_voti": 113108,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 1.24,
+                        "num_voti": 32955,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 9,
+                "num_voti": 1272555,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 24.53,
+                "liste": [
+                    {
+                        "perc": 24.53,
+                        "num_voti": 647960,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 4,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 647960,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 20.42,
+                "liste": [
+                    {
+                        "perc": 17.04,
+                        "num_voti": 450230,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 2.53,
+                        "num_voti": 66970,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.48,
+                        "num_voti": 12709,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.35,
+                        "num_voti": 9489,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 539398,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 2.52,
+                "liste": [
+                    {
+                        "perc": 2.52,
+                        "num_voti": 66813,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 66813,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.08,
+                "liste": [
+                    {
+                        "perc": 1.08,
+                        "num_voti": 28593,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 28593,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.85,
+                "liste": [
+                    {
+                        "perc": 0.85,
+                        "num_voti": 22619,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 22619,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.76,
+                "liste": [
+                    {
+                        "perc": 0.76,
+                        "num_voti": 20144,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 20144,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.58,
+                "liste": [
+                    {
+                        "perc": 0.58,
+                        "num_voti": 15354,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 15354,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.47,
+                "liste": [
+                    {
+                        "perc": 0.47,
+                        "num_voti": 12626,
+                        "id_lista": "grande-nord",
+                        "label": "GRANDE NORD",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11371-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 12626,
+                "id_coalizione": "grande-nord"
+            },
+            {
+                "perc": 0.35,
+                "liste": [
+                    {
+                        "perc": 0.35,
+                        "num_voti": 9336,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 9336,
+                "id_coalizione": "partito-valore-umano"
+            },
+            {
+                "perc": 0.13,
+                "liste": [
+                    {
+                        "perc": 0.13,
+                        "num_voti": 3676,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3676,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            },
+            {
+                "perc": 0.09,
+                "liste": [
+                    {
+                        "perc": 0.09,
+                        "num_voti": 2389,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2389,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "4": {
+        "risultati": [
+            {
+                "perc": 44.35,
+                "liste": [
+                    {
+                        "perc": 25.09,
+                        "num_voti": 128282,
+                        "id_lista": "svp-patt",
+                        "label": "SVP - PATT",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11384-0"
+                    },
+                    {
+                        "perc": 14.66,
+                        "num_voti": 75001,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 2.35,
+                        "num_voti": 12023,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 1.41,
+                        "num_voti": 7222,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    },
+                    {
+                        "perc": 0.82,
+                        "num_voti": 4238,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-A"
+                    }
+                ],
+                "seggi-uninominale": 3,
+                "num_voti": 226766,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 29.57,
+                "liste": [
+                    {
+                        "perc": 19.19,
+                        "num_voti": 98122,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 7.17,
+                        "num_voti": 36662,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 2.66,
+                        "num_voti": 13612,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.55,
+                        "num_voti": 2817,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 3,
+                "num_voti": 151213,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 19.28,
+                "liste": [
+                    {
+                        "perc": 19.28,
+                        "num_voti": 98599,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 98599,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 3.65,
+                "liste": [
+                    {
+                        "perc": 3.65,
+                        "num_voti": 18666,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-A"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 18666,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.16,
+                "liste": [
+                    {
+                        "perc": 1.16,
+                        "num_voti": 5953,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5953,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 1.02,
+                "liste": [
+                    {
+                        "perc": 1.02,
+                        "num_voti": 5266,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5266,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.94,
+                "liste": [
+                    {
+                        "perc": 0.94,
+                        "num_voti": 4808,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4808,
+                "id_coalizione": "il-popolo-della-famiglia"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "7": {
+        "risultati": [
+            {
+                "perc": 37.69,
+                "liste": [
+                    {
+                        "perc": 20.52,
+                        "num_voti": 164831,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 12.69,
+                        "num_voti": 101949,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 3.62,
+                        "num_voti": 29100,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.86,
+                        "num_voti": 6922,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 2,
+                "num_voti": 302802,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 29.62,
+                "liste": [
+                    {
+                        "perc": 29.62,
+                        "num_voti": 237964,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 1,
+                "num_voti": 237964,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 24.57,
+                "liste": [
+                    {
+                        "perc": 20.44,
+                        "num_voti": 164211,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 3.2,
+                        "num_voti": 25743,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.56,
+                        "num_voti": 4559,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.35,
+                        "num_voti": 2842,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 197355,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 4.15,
+                "liste": [
+                    {
+                        "perc": 4.15,
+                        "num_voti": 33354,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 33354,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.3,
+                "liste": [
+                    {
+                        "perc": 1.3,
+                        "num_voti": 10487,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 10487,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.91,
+                "liste": [
+                    {
+                        "perc": 0.91,
+                        "num_voti": 7377,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 7377,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.7,
+                "liste": [
+                    {
+                        "perc": 0.7,
+                        "num_voti": 5655,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5655,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.51,
+                "liste": [
+                    {
+                        "perc": 0.51,
+                        "num_voti": 4122,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4122,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.25,
+                "liste": [
+                    {
+                        "perc": 0.25,
+                        "num_voti": 2041,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2041,
+                "id_coalizione": "partito-valore-umano"
+            },
+            {
+                "perc": 0.16,
+                "liste": [
+                    {
+                        "perc": 0.16,
+                        "num_voti": 1335,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1335,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            },
+            {
+                "perc": 0.08,
+                "liste": [
+                    {
+                        "perc": 0.08,
+                        "num_voti": 709,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 709,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "6": {
+        "risultati": [
+            {
+                "perc": 43.75,
+                "liste": [
+                    {
+                        "perc": 25.48,
+                        "num_voti": 164105,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 11.82,
+                        "num_voti": 76114,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 5.44,
+                        "num_voti": 35032,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.99,
+                        "num_voti": 6391,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 2,
+                "num_voti": 281642,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 24.27,
+                "liste": [
+                    {
+                        "perc": 24.26,
+                        "num_voti": 156251,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 156251,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 23.91,
+                "liste": [
+                    {
+                        "perc": 19.99,
+                        "num_voti": 128713,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 3.07,
+                        "num_voti": 19814,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.45,
+                        "num_voti": 2942,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-B"
+                    },
+                    {
+                        "perc": 0.38,
+                        "num_voti": 2473,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 153942,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 2.92,
+                "liste": [
+                    {
+                        "perc": 2.92,
+                        "num_voti": 18815,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 18815,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.21,
+                "liste": [
+                    {
+                        "perc": 1.21,
+                        "num_voti": 7810,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 7810,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.79,
+                "liste": [
+                    {
+                        "perc": 0.79,
+                        "num_voti": 5117,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5117,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.77,
+                "liste": [
+                    {
+                        "perc": 0.77,
+                        "num_voti": 5015,
+                        "id_lista": "patto-per-lautonomia",
+                        "label": "PATTO PER L'AUTONOMIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11392-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 5015,
+                "id_coalizione": "patto-per-lautonomia"
+            },
+            {
+                "perc": 0.76,
+                "liste": [
+                    {
+                        "perc": 0.76,
+                        "num_voti": 4941,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4941,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.51,
+                "liste": [
+                    {
+                        "perc": 0.51,
+                        "num_voti": 3290,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3290,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.37,
+                "liste": [
+                    {
+                        "perc": 0.37,
+                        "num_voti": 2440,
+                        "id_lista": "partito-valore-umano",
+                        "label": "PARTITO VALORE UMANO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11381-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 2440,
+                "id_coalizione": "partito-valore-umano"
+            },
+            {
+                "perc": 0.25,
+                "liste": [
+                    {
+                        "perc": 0.25,
+                        "num_voti": 1637,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1637,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            },
+            {
+                "perc": 0.21,
+                "liste": [
+                    {
+                        "perc": 0.21,
+                        "num_voti": 1402,
+                        "id_lista": "siamo",
+                        "label": "SIAMO",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11369-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1402,
+                "id_coalizione": "siamo"
+            },
+            {
+                "perc": 0.15,
+                "liste": [
+                    {
+                        "perc": 0.15,
+                        "num_voti": 1023,
+                        "id_lista": "lista-del-popolo-per-la-costituzione",
+                        "label": "LISTA DEL POPOLO PER LA COSTITUZIONE",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11400-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 1023,
+                "id_coalizione": "lista-del-popolo-per-la-costituzione"
+            },
+            {
+                "perc": 0.05,
+                "liste": [
+                    {
+                        "perc": 0.08,
+                        "num_voti": 552,
+                        "id_lista": "rinascimento-mir",
+                        "label": "RINASCIMENTO MIR",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11398-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 354,
+                "id_coalizione": "rinascimento-mir"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "9": {
+        "risultati": [
+            {
+                "perc": 34.18,
+                "liste": [
+                    {
+                        "perc": 30.54,
+                        "num_voti": 607142,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 4,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 2.61,
+                        "num_voti": 51992,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.63,
+                        "num_voti": 12601,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.39,
+                        "num_voti": 7785,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 3,
+                "num_voti": 679520,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 32.24,
+                "liste": [
+                    {
+                        "perc": 17.6,
+                        "num_voti": 349958,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 10.13,
+                        "num_voti": 201535,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 3.93,
+                        "num_voti": 78256,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.56,
+                        "num_voti": 11256,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 4,
+                "num_voti": 641005,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 24.36,
+                "liste": [
+                    {
+                        "perc": 24.36,
+                        "num_voti": 484366,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 484366,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 4.5,
+                "liste": [
+                    {
+                        "perc": 4.5,
+                        "num_voti": 89503,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 89503,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.77,
+                "liste": [
+                    {
+                        "perc": 1.77,
+                        "num_voti": 35317,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 35317,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.95,
+                "liste": [
+                    {
+                        "perc": 0.95,
+                        "num_voti": 19052,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 19052,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.85,
+                "liste": [
+                    {
+                        "perc": 0.85,
+                        "num_voti": 16952,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 16952,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.5,
+                "liste": [
+                    {
+                        "perc": 0.5,
+                        "num_voti": 10037,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 10037,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.43,
+                "liste": [
+                    {
+                        "perc": 0.43,
+                        "num_voti": 8618,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 8618,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.17,
+                "liste": [
+                    {
+                        "perc": 0.17,
+                        "num_voti": 3406,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 3406,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    },
+    "8": {
+        "risultati": [
+            {
+                "perc": 33.36,
+                "liste": [
+                    {
+                        "perc": 19.34,
+                        "num_voti": 456577,
+                        "id_lista": "lega",
+                        "label": "LEGA",
+                        "seggi": 3,
+                        "logo": "25-20180304000000-11367-0"
+                    },
+                    {
+                        "perc": 10.12,
+                        "num_voti": 239068,
+                        "id_lista": "forza-italia",
+                        "label": "FORZA ITALIA",
+                        "seggi": 2,
+                        "logo": "25-20180304000000-1112-0"
+                    },
+                    {
+                        "perc": 3.32,
+                        "num_voti": 78523,
+                        "id_lista": "fratelli-ditalia-con-giorgia-meloni",
+                        "label": "FRATELLI D'ITALIA CON GIORGIA MELONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11434-0"
+                    },
+                    {
+                        "perc": 0.57,
+                        "num_voti": 13530,
+                        "id_lista": "noi-con-litalia-udc",
+                        "label": "NOI CON L'ITALIA - UDC",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11402-0"
+                    }
+                ],
+                "seggi-uninominale": 4,
+                "num_voti": 787698,
+                "id_coalizione": "centro-destra"
+            },
+            {
+                "perc": 30.49,
+                "liste": [
+                    {
+                        "perc": 26.32,
+                        "num_voti": 621521,
+                        "id_lista": "partito-democratico",
+                        "label": "PARTITO DEMOCRATICO",
+                        "seggi": 4,
+                        "logo": "25-20180304000000-3456-0"
+                    },
+                    {
+                        "perc": 2.87,
+                        "num_voti": 67795,
+                        "id_lista": "europa",
+                        "label": "+EUROPA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11403-0"
+                    },
+                    {
+                        "perc": 0.75,
+                        "num_voti": 17807,
+                        "id_lista": "italia-europa-insieme",
+                        "label": "ITALIA EUROPA INSIEME",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11373-0"
+                    },
+                    {
+                        "perc": 0.54,
+                        "num_voti": 12771,
+                        "id_lista": "civica-popolare-lorenzin",
+                        "label": "CIVICA POPOLARE LORENZIN",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11412-0"
+                    }
+                ],
+                "seggi-uninominale": 4,
+                "num_voti": 719894,
+                "id_coalizione": "centro-sinistra"
+            },
+            {
+                "perc": 26.94,
+                "liste": [
+                    {
+                        "perc": 26.94,
+                        "num_voti": 636166,
+                        "id_lista": "movimento-5-stelle",
+                        "label": "MOVIMENTO 5 STELLE",
+                        "seggi": 4,
+                        "logo": "25-20180304000000-11366-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 636166,
+                "id_coalizione": "movimento-5-stelle"
+            },
+            {
+                "perc": 4.73,
+                "liste": [
+                    {
+                        "perc": 4.73,
+                        "num_voti": 111791,
+                        "id_lista": "liberi-e-uguali",
+                        "label": "LIBERI E UGUALI",
+                        "seggi": 1,
+                        "logo": "25-20180304000000-11393-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 111791,
+                "id_coalizione": "liberi-e-uguali"
+            },
+            {
+                "perc": 1.11,
+                "liste": [
+                    {
+                        "perc": 1.11,
+                        "num_voti": 26275,
+                        "id_lista": "potere-al-popolo",
+                        "label": "POTERE AL POPOLO!",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11372-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 26275,
+                "id_coalizione": "potere-al-popolo"
+            },
+            {
+                "perc": 0.9,
+                "liste": [
+                    {
+                        "perc": 0.9,
+                        "num_voti": 21375,
+                        "id_lista": "partito-comunista",
+                        "label": "PARTITO COMUNISTA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11023-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 21375,
+                "id_coalizione": "partito-comunista"
+            },
+            {
+                "perc": 0.69,
+                "liste": [
+                    {
+                        "perc": 0.69,
+                        "num_voti": 16465,
+                        "id_lista": "il-popolo-della-famiglia",
+                        "label": "IL POPOLO DELLA FAMIGLIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11277-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 16465,
+                "id_coalizione": "il-popolo-della-famiglia"
+            },
+            {
+                "perc": 0.6,
+                "liste": [
+                    {
+                        "perc": 0.6,
+                        "num_voti": 14212,
+                        "id_lista": "casapound-italia",
+                        "label": "CASAPOUND ITALIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11003-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 14212,
+                "id_coalizione": "casapound-italia"
+            },
+            {
+                "perc": 0.48,
+                "liste": [
+                    {
+                        "perc": 0.48,
+                        "num_voti": 11549,
+                        "id_lista": "italia-agli-italiani",
+                        "label": "ITALIA AGLI ITALIANI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11388-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 11549,
+                "id_coalizione": "italia-agli-italiani"
+            },
+            {
+                "perc": 0.26,
+                "liste": [
+                    {
+                        "perc": 0.26,
+                        "num_voti": 6366,
+                        "id_lista": "partito-repubblicano-italiano-ala",
+                        "label": "PARTITO REPUBBLICANO ITALIANO - ALA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11418-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 6366,
+                "id_coalizione": "partito-repubblicano-italiano-ala"
+            },
+            {
+                "perc": 0.18,
+                "liste": [
+                    {
+                        "perc": 0.18,
+                        "num_voti": 4460,
+                        "id_lista": "destre-unite-forconi",
+                        "label": "DESTRE UNITE - FORCONI",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11389-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4460,
+                "id_coalizione": "destre-unite-forconi"
+            },
+            {
+                "perc": 0.18,
+                "liste": [
+                    {
+                        "perc": 0.18,
+                        "num_voti": 4326,
+                        "id_lista": "per-una-sinistra-rivoluzionaria",
+                        "label": "PER UNA SINISTRA RIVOLUZIONARIA",
+                        "seggi": 0,
+                        "logo": "25-20180304000000-11377-0"
+                    }
+                ],
+                "seggi-uninominale": 0,
+                "num_voti": 4326,
+                "id_coalizione": "per-una-sinistra-rivoluzionaria"
+            }
+        ],
+        "ultimo_aggiornamento": "20180306180003"
+    }
+}

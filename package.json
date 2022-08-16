@@ -1,0 +1,38 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "Describe maps here",
+  "private": true,
+  "scripts": {
+    "build": "nwb build-react-app --no-vendor",
+    "clean": "nwb clean-app",
+    "start": "nwb serve-react-app",
+    "test": "nwb test-react",
+    "test:coverage": "nwb test-react --coverage",
+    "test:watch": "nwb test-react --server"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "d3-geo": "^1.9.1",
+    "d3-geo-projection": "^2.3.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-motion": "^0.5.2",
+    "react-number-format": "^3.2.0",
+    "react-simple-maps": "^0.10.1",
+    "react-tooltip": "^3.4.0",
+    "topojson-client": "^3.0.0"
+  },
+  "devDependencies": {
+    "jsx-to-string": "^1.3.0",
+    "nwb": "0.18.x",
+    "react-tippy": "^1.2.2",
+    "superagent": "^3.8.2"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": "",
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
+  }
+}

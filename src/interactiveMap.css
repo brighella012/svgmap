@@ -1,0 +1,294 @@
+.ep2018-interactive-map{
+   font-family: 'Open Sans Condensed', sans-serif;
+   font-size: .9em;
+   color: #607D8B;
+   max-width:990px;
+   margin:0 auto 2em;
+   position: relative;
+}
+.ep18im .toogleBranch{
+   position: absolute;
+   bottom: .5em;
+   left: .5em;
+   z-index: 10;
+   background: rgba(255,255,255,0.8);
+   padding: 4px;
+   border-radius: 4px;
+}
+
+.ep18im .toggleTab{
+   display: inline-block; padding: 0 .5em; cursor: pointer; text-transform: uppercase;
+}
+.ep18im .toggleTab.active{font-weight: bold; cursor: default; color:#000; border-bottom:2px solid #de0000;}
+.ep18im h1{margin: 0 0 0.3em;}
+
+.ep18-map-navigator{
+   font-family: sans-serif;
+   z-index: 3;
+   font-weight: bold;
+   background: rgba(255,255,255,.9);
+   font-family: 'open sans condensed';
+   position: absolute;
+   font-weight: bold;
+   font-family: 'open sans condensed';
+   top: .5em;
+   left: .5em;
+   padding: 0 .3em;
+   border-radius: 4px;
+}
+.ep18-map-navigator > span{
+   display: inline-block;
+   padding: .5em .2em;
+   text-transform: uppercase;
+}
+.ep18-map-navigator > span > span{
+   padding-left:.3em;
+   color: #13455d;
+   background: #dcdcdc;
+   padding: .2em .4em;
+   border-radius: 4px;
+   border: 1px solid #cdcdcd;
+}
+.ep18-map-navigator .clickable{
+   text-decoration: underline;
+   cursor: pointer;
+   font-weight: normal;
+   color: inherit;
+   background: transparent;
+   padding: 0;
+   border: none;
+}
+.ep18im .ep18-svg-container{
+   position: relative;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   border-top:3px solid #de0000;
+   border-bottom:3px solid #de0000;
+}
+.ep18im .absoluteMap{
+   width: 60%;
+   position: relative;
+   padding-top: 70.7%;
+   /* hack to fix layout problem in firefox: padding-top gets calculated on parent height, not width... */
+   /* https://stackoverflow.com/questions/33502702/flex-elements-ignore-percent-padding-in-firefox */
+   display: table; 
+}
+.ep18im .svgWrapper{
+   position: absolute;
+   width: 100%;
+   top:50%;
+   transform: translateY(-50%);
+   display: flex;
+   justify-content: flex-start;
+   align-items: flex-start;
+   z-index: 2;
+   overflow: hidden;
+}
+.hiddenBoundary{
+   overflow: hidden;
+   width: 100%;
+   height: 100%;
+   border:3px solid red;
+}
+.ep18im .ep2018-spinner-wrapper{
+   display: inline-block;
+   font-size: .6em;
+   text-align: center;
+   text-transform: uppercase;
+   color: #607D8B;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-260%);
+}
+.ep18im .ep2018-map-spinner {
+   display: inline-block;
+   width: 3.8em;
+   height: 3.8em;
+   margin: .5em auto;
+   border:1px solid #ccc;
+   border-radius: 50%;
+   background:#de0000;
+   background-size: cover;
+   margin: 0 auto;
+   -webkit-animation: rotateplane 1.2s infinite ease-in-out;
+   animation: rotateplane 1.2s infinite ease-in-out;
+}
+
+@keyframes rotateplane {
+   0% {
+      transform: perspective(120px) rotateX(0deg) rotateY(0deg)
+   }
+   50% {
+      transform: perspective(120px) rotateX(180deg) rotateY(180deg)
+   }
+   100% {
+      transform: perspective(120px) rotateX(180deg) rotateY(0)
+   }
+}
+
+/* details box */
+.ep18im .mapDetails{
+   padding: .8em;
+   align-self: center;
+   position: relative;
+   flex-grow:1;
+}
+.ep18im .district-details{
+   border: 1px solid #ddd;
+   border-radius: 5px;
+   font-family: sans-serif;
+   max-width: 400px;
+   box-shadow: 4px 3px 10px -5px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+}
+.ep18im .district-details h3{
+   margin: 0;
+   font-family: 'open sans condensed';
+   padding: .8em;
+   text-transform: uppercase;
+   background: #efefef;
+   padding: .5em .8em 0;
+   font-size: 1em;
+}
+.ep18im .district-content{
+   max-height: 500px;
+   overflow: auto;
+}
+.ep18im .district-details .detailsContent{margin: .5em 0 0;}
+.ep18im .district-details table{
+   font-size: .95em; 
+   display: block; 
+   margin: 0 .6em; 
+   border-bottom: 2px solid #ececec;
+   padding: .2em 0;}
+.ep18im .district-details table th, 
+.ep18im .district-details table td{
+   padding: .2em .3em;
+   line-height: 1;
+}
+.ep18im .district-details table tr.innerTable td{
+   font-size: .9em;
+   padding: .3em .3em;
+}
+.ep18im .district-details table tr.innerTable td .logo-wrapper{
+   position: relative;
+}
+.ep18im .district-details .logo-wrapper{
+   display: inline-block;
+   width: 2.1em;
+   height: 2.1em;
+   background-position: center center;
+   background-size: cover;
+   border-radius:50%;
+}
+.ep18im .district-details .list-wrapper{
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+}
+.ep18im .district-details .list-wrapper .logo-wrapper{display: none;}
+.ep18im .district-details table td.list-logo{padding: .2em 0;}
+.ep18im .district-details td.percent, 
+.ep18im .district-details td.votes{
+   text-align: right;
+   padding-left: .5em;
+} 
+.ep18im .district-details table th{text-align: left;}
+.ep18im .district-details table:nth-child(1) tr.candidate{
+   background: #f9eec4;
+   color: #444;
+}
+.ep18im .district-details .statistics{
+   background: #efefef;
+   border-bottom: 3px solid #de0000;
+   font-size: .8em; 
+   padding: .5em 1em; 
+   display: flex; 
+   justify-content: space-between;
+}
+.ep18im .district-details .errorMsg{
+   text-align: center;
+   margin-bottom: 1em;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
+.ep18im .district-details .footer{
+   text-align: right;
+   padding: 1em;
+   margin: 1em 0 0;
+   font-size: .8em;
+   font-weight: bold;
+   background: #f2f2f2;
+}
+
+/* tooltips */
+.ep18im .mapTooltip{
+   padding:0 !important; 
+   z-index: 2; 
+   background: rgba(250,250,250,0.5)!important;
+   box-shadow: 6px 10px 16px -15px #000;
+   text-align: center;
+   z-index: 2;
+}
+.ep18im .mapTooltip h3{
+   margin: 0; padding: .3em; background: #fff; border-radius:3px; text-transform: uppercase;
+   box-shadow: 2px 2px 14px -5px #444;
+}
+
+@media screen and (max-width:700px){
+   .ep18im h1 {font-size: 1.4em;}
+   .ep18im .ep18-svg-container{flex-direction: column;}
+   .ep18im .absoluteMap {width: 100%; padding-top: 110%; top:1em; overflow: hidden;}
+   .ep18im .mapDetails{width: auto; }
+   .ep18-map-navigator {white-space: nowrap; overflow-x: auto; overflow-y: hidden;
+      background: #fcfcfc;
+      border-top: 1px solid #ededed;
+      border-bottom: 1px solid #ededed;
+      margin: 1em auto;
+      position: relative;
+      top:auto;
+      left:auto;
+   }
+   .ep18-map-navigator > span > span {
+      background: rgba(96, 125, 139, 0.17); 
+      text-transform: uppercase; 
+      color:#000;
+      padding: .5em;
+      border-radius: 5px;
+   }
+   .ep18-map-navigator > span > span:after{
+      content:'×';
+      position: relative;
+      padding-left: .6em;
+      line-height: 1em;
+      font-size: 1.3em;
+   }
+   .ep18-map-navigator .clickable{
+      text-transform: none; 
+      color: #607D8B; 
+      padding: 0; 
+      background: transparent;
+   }
+   .ep18-map-navigator .clickable:after{
+      content:none
+   }
+   .ep18im .toogleBranch{
+      position: relative;
+      bottom:auto;
+      left:auto;
+   }
+   .ep18im .district-details{
+      top: -2em;
+      position: relative;
+      z-index: 2;
+   }
+   .ep18im .district-content{
+      max-height: 10000px;
+   }
+}
