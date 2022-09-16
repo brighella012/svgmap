@@ -103,58 +103,60 @@ class Maps extends Component {
          switch(mapType){
             case 'circoscrizioni_camera':
                // additional clean circ. camera xx_abc... --> abc...
-               feat.shapeId=feat.properties.CIRCO17_C;
-               feat.label=feat.properties.CIRCO17_D.replace(/^\d{1,2}_/g, '');
+               feat.shapeId=feat.properties.CIRC_COD;
+               feat.label=feat.properties.CIRC_DEN;
                feat.navigator={
-                  circoscrizione:feat.properties.CIRCO17_D.replace(/^\d{1,2}_/g, ''),
+                  circoscrizione:feat.properties.CIRC_DEN,
                   plurinominale:null,
                   uninominale:null
                }
             break;
             case 'circoscrizioni_senato':
                feat.shapeId=feat.properties.COD_REG;
-               feat.label=feat.properties.REGIONE;
+               feat.label=feat.properties.DEN_REG;
                feat.navigator={
-                  circoscrizione:feat.properties.REGIONE,
+                  circoscrizione:feat.properties.DEN_REG,
                   plurinominale:null,
                   uninominale:null
                }
             break;
             case 'plurinominale_camera':
-               feat.shapeId=feat.properties.CAM17P_COD;
-               feat.label=feat.properties.CAM17P_DEN;
+               feat.shapeId="CP"+feat.properties.CP20_COD;
+               feat.label=feat.properties.CP20_DEN;
                feat.navigator={
-                  circoscrizione:feat.properties.CAM17P_DEN.replace(/\s{0,1}-\s{0,1}(\d{1,2})/g, ''),
-                  plurinominale:feat.properties.CAM17P_DEN,
+                  circoscrizione:feat.properties.CP20_DEN.replace(/\s{0,1}-\s{0,1}(\s{0,1}\w{1,2}\d{1,2})/g, ''),
+                  plurinominale:feat.properties.CP20_DEN,
                   uninominale:null
                }
             break;
             case 'plurinominale_senato':
-               feat.shapeId=feat.properties.SEN17P_COD;
-               feat.label=feat.properties.SEN17P_DEN;
+               feat.shapeId=feat.properties.SP20_COD;
+               feat.label=feat.properties.SP20_DEN;
                feat.navigator={
-                  circoscrizione:feat.properties.SEN17P_DEN.replace(/\s{0,1}-\s{0,1}(\d{1,2})/g, ''),
-                  plurinominale:feat.properties.SEN17P_DEN
+                  circoscrizione:feat.properties.SP20_DEN.replace(/\s{0,1}-\s{0,1}(\s{0,1}\w{1,2}\d{1,2})/g, ''),
+                  plurinominale:feat.properties.SP20_DEN
                }
             break;
             case 'uninominale_camera':
-               feat.shapeId=feat.properties.CAM17U_COD;
+               feat.shapeId=feat.properties.CU20_COD;
+               
                const pluriCamera = getShapeFromLocalMap('camera', 2, parentsData[feat.shapeId]);
-               feat.label=`${feat.properties.CAM17U_DEN} ${feat.properties.CAM17U_NOM}`;
+               feat.label=`${feat.properties.CU20_DEN}`;
+               
                feat.navigator={
-                  circoscrizione:feat.properties.CAM17U_DEN.replace(/\s{0,1}-\s{0,1}(\d{1,2})/g, ''),
-                  plurinominale: pluriCamera? pluriCamera.label : '', //feat.properties.CAM17U_DEN,
-                  uninominale:`${feat.properties.CAM17U_DEN} ${feat.properties.CAM17U_NOM}`
+                  circoscrizione:feat.properties.CU20_DEN.replace(/\s{0,1}-\s{0,1}(\s{0,1}\w{1,2}\d{1,2})/g, ''),
+                  plurinominale: pluriCamera? pluriCamera.label : '', //feat.properties.CU20_DEN,
+                  uninominale:`${feat.properties.CU20_DEN}`
                }  
             break;
             case 'uninominale_senato':
-               feat.shapeId=feat.properties.SEN17U_COD;
+               feat.shapeId=feat.properties.SU20_COD;
                const pluriSenato = getShapeFromLocalMap('senato', 2, parentsData[feat.shapeId]);
-               feat.label=`${feat.properties.SEN17U_DEN} ${feat.properties.SEN17U_NOM}`;
+               feat.label=`${feat.properties.SU20_DEN}`;
                feat.navigator={
-                  circoscrizione:feat.properties.SEN17U_DEN.replace(/\s{0,1}-\s{0,1}(\d{1,2})/g, ''),
-                  plurinominale: pluriSenato? pluriSenato.label : '', //feat.properties.SEN17U_DEN,
-                  uninominale:`${feat.properties.SEN17U_DEN} ${feat.properties.SEN17U_NOM}`
+                  circoscrizione:feat.properties.SU20_DEN.replace(/\s{0,1}-\s{0,1}(\s{0,1}\w{1,2}\d{1,2})/g, ''),
+                  plurinominale: pluriSenato? pluriSenato.label : '', //feat.properties.SU20_DEN,
+                  uninominale:`${feat.properties.SU20_DEN}`
                }
             break;
          }
@@ -187,7 +189,7 @@ class Maps extends Component {
       switch(zoomLevel){
          case 0:  zoomDetail = 1;            break;
          case 3:  zoomDetail = 10;           break;
-         default: zoomDetail = zoomLevel*3;  break;
+         default: zoomDetail = zoomLevel*2;  break;
       }
       // split setState in 2 tranches to allow smooth zoom out animation
       this.setState({
