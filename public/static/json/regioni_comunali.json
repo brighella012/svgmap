@@ -1,0 +1,4614 @@
+[
+    {
+        "province": [
+            {
+                "codice": 23,
+                "slug": "chieti",
+                "comuni": [
+                    {
+                        "codice": 291,
+                        "slug": "fallo",
+                        "nome": "FALLO"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "frisa",
+                        "nome": "FRISA"
+                    },
+                    {
+                        "codice": 660,
+                        "slug": "pizzoferrato",
+                        "nome": "PIZZOFERRATO"
+                    },
+                    {
+                        "codice": 910,
+                        "slug": "torino-di-sangro",
+                        "nome": "TORINO DI SANGRO"
+                    },
+                    {
+                        "codice": 1020,
+                        "slug": "villa-santa-maria",
+                        "nome": "VILLA SANTA MARIA"
+                    }
+                ],
+                "nome": "CHIETI"
+            },
+            {
+                "codice": 38,
+                "slug": "laquila",
+                "comuni": [
+                    {
+                        "codice": 80,
+                        "slug": "barete",
+                        "nome": "BARETE"
+                    },
+                    {
+                        "codice": 290,
+                        "slug": "castellafiume",
+                        "nome": "CASTELLAFIUME"
+                    },
+                    {
+                        "codice": 520,
+                        "slug": "lucoli",
+                        "nome": "LUCOLI"
+                    },
+                    {
+                        "codice": 540,
+                        "slug": "massa-dalbe",
+                        "nome": "MASSA D'ALBE"
+                    },
+                    {
+                        "codice": 620,
+                        "slug": "oricola",
+                        "nome": "ORICOLA"
+                    },
+                    {
+                        "codice": 850,
+                        "slug": "san-benedetto-dei-marsi",
+                        "nome": "SAN BENEDETTO DEI MARSI"
+                    },
+                    {
+                        "codice": 920,
+                        "slug": "scanno",
+                        "nome": "SCANNO"
+                    }
+                ],
+                "nome": "L'AQUILA"
+            },
+            {
+                "codice": 60,
+                "slug": "pescara",
+                "comuni": [
+                    {
+                        "codice": 50,
+                        "slug": "bussi-sul-tirino",
+                        "nome": "BUSSI SUL TIRINO"
+                    },
+                    {
+                        "codice": 110,
+                        "slug": "cepagatti",
+                        "nome": "CEPAGATTI"
+                    },
+                    {
+                        "codice": 210,
+                        "slug": "loreto-aprutino",
+                        "nome": "LORETO APRUTINO"
+                    },
+                    {
+                        "codice": 260,
+                        "slug": "nocciano",
+                        "nome": "NOCCIANO"
+                    },
+                    {
+                        "codice": 300,
+                        "slug": "pianella",
+                        "nome": "PIANELLA"
+                    },
+                    {
+                        "codice": 320,
+                        "slug": "pietranico",
+                        "nome": "PIETRANICO"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "roccamorice",
+                        "nome": "ROCCAMORICE"
+                    },
+                    {
+                        "codice": 380,
+                        "slug": "san-valentino-in-abruzzo-citeriore",
+                        "nome": "SAN VALENTINO IN ABRUZZO CITERIORE"
+                    },
+                    {
+                        "codice": 440,
+                        "slug": "turrivalignani",
+                        "nome": "TURRIVALIGNANI"
+                    }
+                ],
+                "nome": "PESCARA"
+            },
+            {
+                "codice": 79,
+                "slug": "teramo",
+                "comuni": [
+                    {
+                        "codice": 1,
+                        "slug": "alba-adriatica",
+                        "nome": "ALBA ADRIATICA"
+                    },
+                    {
+                        "codice": 30,
+                        "slug": "atri",
+                        "nome": "ATRI"
+                    },
+                    {
+                        "codice": 130,
+                        "slug": "castilenti",
+                        "nome": "CASTILENTI"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "civitella-del-tronto",
+                        "nome": "CIVITELLA DEL TRONTO"
+                    },
+                    {
+                        "codice": 190,
+                        "slug": "controguerra",
+                        "nome": "CONTROGUERRA"
+                    },
+                    {
+                        "codice": 270,
+                        "slug": "montorio-al-vomano",
+                        "nome": "MONTORIO AL VOMANO"
+                    },
+                    {
+                        "codice": 300,
+                        "slug": "nereto",
+                        "nome": "NERETO"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "notaresco",
+                        "nome": "NOTARESCO"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "silvi",
+                        "nome": "SILVI"
+                    },
+                    {
+                        "codice": 400,
+                        "slug": "teramo",
+                        "nome": "TERAMO"
+                    }
+                ],
+                "nome": "TERAMO"
+            }
+        ],
+        "codice": 13,
+        "slug": "abruzzo",
+        "nome": "ABRUZZO"
+    },
+    {
+        "province": [
+            {
+                "codice": 47,
+                "slug": "matera",
+                "comuni": [
+                    {
+                        "codice": 270,
+                        "slug": "tricarico",
+                        "nome": "TRICARICO"
+                    }
+                ],
+                "nome": "MATERA"
+            },
+            {
+                "codice": 64,
+                "slug": "potenza",
+                "comuni": [
+                    {
+                        "codice": 60,
+                        "slug": "atella",
+                        "nome": "ATELLA"
+                    },
+                    {
+                        "codice": 230,
+                        "slug": "castelluccio-superiore",
+                        "nome": "CASTELLUCCIO SUPERIORE"
+                    },
+                    {
+                        "codice": 320,
+                        "slug": "forenza",
+                        "nome": "FORENZA"
+                    },
+                    {
+                        "codice": 350,
+                        "slug": "genzano-di-lucania",
+                        "nome": "GENZANO DI LUCANIA"
+                    },
+                    {
+                        "codice": 420,
+                        "slug": "lavello",
+                        "nome": "LAVELLO"
+                    },
+                    {
+                        "codice": 520,
+                        "slug": "muro-lucano",
+                        "nome": "MURO LUCANO"
+                    },
+                    {
+                        "codice": 600,
+                        "slug": "pietrapertosa",
+                        "nome": "PIETRAPERTOSA"
+                    },
+                    {
+                        "codice": 610,
+                        "slug": "pignola",
+                        "nome": "PIGNOLA"
+                    },
+                    {
+                        "codice": 660,
+                        "slug": "ripacandida",
+                        "nome": "RIPACANDIDA"
+                    },
+                    {
+                        "codice": 710,
+                        "slug": "ruvo-del-monte",
+                        "nome": "RUVO DEL MONTE"
+                    },
+                    {
+                        "codice": 810,
+                        "slug": "sasso-di-castalda",
+                        "nome": "SASSO DI CASTALDA"
+                    },
+                    {
+                        "codice": 930,
+                        "slug": "vaglio-basilicata",
+                        "nome": "VAGLIO BASILICATA"
+                    }
+                ],
+                "nome": "POTENZA"
+            }
+        ],
+        "codice": 17,
+        "slug": "basilicata",
+        "nome": "BASILICATA"
+    },
+    {
+        "province": [
+            {
+                "codice": 22,
+                "slug": "catanzaro",
+                "comuni": [
+                    {
+                        "codice": 170,
+                        "slug": "cardinale",
+                        "nome": "CARDINALE"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "curinga",
+                        "nome": "CURINGA"
+                    },
+                    {
+                        "codice": 410,
+                        "slug": "decollatura",
+                        "nome": "DECOLLATURA"
+                    },
+                    {
+                        "codice": 540,
+                        "slug": "gasperina",
+                        "nome": "GASPERINA"
+                    },
+                    {
+                        "codice": 590,
+                        "slug": "guardavalle",
+                        "nome": "GUARDAVALLE"
+                    },
+                    {
+                        "codice": 660,
+                        "slug": "magisano",
+                        "nome": "MAGISANO"
+                    },
+                    {
+                        "codice": 770,
+                        "slug": "montauro",
+                        "nome": "MONTAURO"
+                    },
+                    {
+                        "codice": 840,
+                        "slug": "nocera-terinese",
+                        "nome": "NOCERA TERINESE"
+                    },
+                    {
+                        "codice": 1070,
+                        "slug": "san-mango-daquino",
+                        "nome": "SAN MANGO D'AQUINO"
+                    },
+                    {
+                        "codice": 1140,
+                        "slug": "santa-caterina-dello-ionio",
+                        "nome": "SANTA CATERINA DELLO IONIO"
+                    },
+                    {
+                        "codice": 1200,
+                        "slug": "satriano",
+                        "nome": "SATRIANO"
+                    },
+                    {
+                        "codice": 1390,
+                        "slug": "staletti",
+                        "nome": "STALETTI'"
+                    }
+                ],
+                "nome": "CATANZARO"
+            },
+            {
+                "codice": 25,
+                "slug": "cosenza",
+                "comuni": [
+                    {
+                        "codice": 190,
+                        "slug": "bonifati",
+                        "nome": "BONIFATI"
+                    },
+                    {
+                        "codice": 240,
+                        "slug": "canna",
+                        "nome": "CANNA"
+                    },
+                    {
+                        "codice": 250,
+                        "slug": "cariati",
+                        "nome": "CARIATI"
+                    },
+                    {
+                        "codice": 275,
+                        "slug": "casali-del-manco",
+                        "nome": "CASALI DEL MANCO"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "castrolibero",
+                        "nome": "CASTROLIBERO"
+                    },
+                    {
+                        "codice": 500,
+                        "slug": "dipignano",
+                        "nome": "DIPIGNANO"
+                    },
+                    {
+                        "codice": 720,
+                        "slug": "maiera",
+                        "nome": "MAIERA'"
+                    },
+                    {
+                        "codice": 730,
+                        "slug": "malito",
+                        "nome": "MALITO"
+                    },
+                    {
+                        "codice": 750,
+                        "slug": "mandatoriccio",
+                        "nome": "MANDATORICCIO"
+                    },
+                    {
+                        "codice": 770,
+                        "slug": "marano-marchesato",
+                        "nome": "MARANO MARCHESATO"
+                    },
+                    {
+                        "codice": 950,
+                        "slug": "paterno-calabro",
+                        "nome": "PATERNO CALABRO"
+                    },
+                    {
+                        "codice": 980,
+                        "slug": "piane-crati",
+                        "nome": "PIANE CRATI"
+                    },
+                    {
+                        "codice": 1230,
+                        "slug": "san-lucido",
+                        "nome": "SAN LUCIDO"
+                    },
+                    {
+                        "codice": 1250,
+                        "slug": "san-martino-di-finita",
+                        "nome": "SAN MARTINO DI FINITA"
+                    },
+                    {
+                        "codice": 1400,
+                        "slug": "serra-daiello",
+                        "nome": "SERRA D'AIELLO"
+                    },
+                    {
+                        "codice": 1470,
+                        "slug": "terravecchia",
+                        "nome": "TERRAVECCHIA"
+                    }
+                ],
+                "nome": "COSENZA"
+            },
+            {
+                "codice": 97,
+                "slug": "crotone",
+                "comuni": [
+                    {
+                        "codice": 60,
+                        "slug": "cerenzia",
+                        "nome": "CERENZIA"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "petilia-policastro",
+                        "nome": "PETILIA POLICASTRO"
+                    },
+                    {
+                        "codice": 230,
+                        "slug": "savelli",
+                        "nome": "SAVELLI"
+                    },
+                    {
+                        "codice": 240,
+                        "slug": "scandale",
+                        "nome": "SCANDALE"
+                    }
+                ],
+                "nome": "CROTONE"
+            },
+            {
+                "codice": 67,
+                "slug": "reggio-calabria",
+                "comuni": [
+                    {
+                        "codice": 190,
+                        "slug": "candidoni",
+                        "nome": "CANDIDONI"
+                    },
+                    {
+                        "codice": 290,
+                        "slug": "condofuri",
+                        "nome": "CONDOFURI"
+                    },
+                    {
+                        "codice": 300,
+                        "slug": "cosoleto",
+                        "nome": "COSOLETO"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "fiumara",
+                        "nome": "FIUMARA"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "gioiosa-ionica",
+                        "nome": "GIOIOSA IONICA"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "locri",
+                        "nome": "LOCRI"
+                    },
+                    {
+                        "codice": 750,
+                        "slug": "san-pietro-di-carida",
+                        "nome": "SAN PIETRO DI CARIDA'"
+                    },
+                    {
+                        "codice": 760,
+                        "slug": "san-procopio",
+                        "nome": "SAN PROCOPIO"
+                    },
+                    {
+                        "codice": 780,
+                        "slug": "santa-cristina-daspromonte",
+                        "nome": "SANTA CRISTINA D'ASPROMONTE"
+                    },
+                    {
+                        "codice": 860,
+                        "slug": "seminara",
+                        "nome": "SEMINARA"
+                    },
+                    {
+                        "codice": 870,
+                        "slug": "serrata",
+                        "nome": "SERRATA"
+                    }
+                ],
+                "nome": "REGGIO CALABRIA"
+            },
+            {
+                "codice": 103,
+                "slug": "vibo-valentia",
+                "comuni": [
+                    {
+                        "codice": 80,
+                        "slug": "dinami",
+                        "nome": "DINAMI"
+                    },
+                    {
+                        "codice": 120,
+                        "slug": "filandari",
+                        "nome": "FILANDARI"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "gerocarne",
+                        "nome": "GEROCARNE"
+                    },
+                    {
+                        "codice": 210,
+                        "slug": "mileto",
+                        "nome": "MILETO"
+                    },
+                    {
+                        "codice": 260,
+                        "slug": "parghelia",
+                        "nome": "PARGHELIA"
+                    },
+                    {
+                        "codice": 290,
+                        "slug": "polia",
+                        "nome": "POLIA"
+                    }
+                ],
+                "nome": "VIBO VALENTIA"
+            }
+        ],
+        "codice": 18,
+        "slug": "calabria",
+        "nome": "CALABRIA"
+    },
+    {
+        "province": [
+            {
+                "codice": 8,
+                "slug": "avellino",
+                "comuni": [
+                    {
+                        "codice": 40,
+                        "slug": "aquilonia",
+                        "nome": "AQUILONIA"
+                    },
+                    {
+                        "codice": 80,
+                        "slug": "avellino",
+                        "nome": "AVELLINO"
+                    },
+                    {
+                        "codice": 90,
+                        "slug": "bagnoli-irpino",
+                        "nome": "BAGNOLI IRPINO"
+                    },
+                    {
+                        "codice": 130,
+                        "slug": "cairano",
+                        "nome": "CAIRANO"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "caposele",
+                        "nome": "CAPOSELE"
+                    },
+                    {
+                        "codice": 200,
+                        "slug": "casalbore",
+                        "nome": "CASALBORE"
+                    },
+                    {
+                        "codice": 300,
+                        "slug": "conza-della-campania",
+                        "nome": "CONZA DELLA CAMPANIA"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "forino",
+                        "nome": "FORINO"
+                    },
+                    {
+                        "codice": 360,
+                        "slug": "gesualdo",
+                        "nome": "GESUALDO"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "greci",
+                        "nome": "GRECI"
+                    },
+                    {
+                        "codice": 420,
+                        "slug": "lapio",
+                        "nome": "LAPIO"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "lauro",
+                        "nome": "LAURO"
+                    },
+                    {
+                        "codice": 470,
+                        "slug": "marzano-di-nola",
+                        "nome": "MARZANO DI NOLA"
+                    },
+                    {
+                        "codice": 640,
+                        "slug": "mugnano-del-cardinale",
+                        "nome": "MUGNANO DEL CARDINALE"
+                    },
+                    {
+                        "codice": 750,
+                        "slug": "quadrelle",
+                        "nome": "QUADRELLE"
+                    },
+                    {
+                        "codice": 780,
+                        "slug": "rocca-san-felice",
+                        "nome": "ROCCA SAN FELICE"
+                    },
+                    {
+                        "codice": 850,
+                        "slug": "san-potito-ultra",
+                        "nome": "SAN POTITO ULTRA"
+                    },
+                    {
+                        "codice": 910,
+                        "slug": "santangelo-dei-lombardi",
+                        "nome": "SANT'ANGELO DEI LOMBARDI"
+                    },
+                    {
+                        "codice": 1040,
+                        "slug": "summonte",
+                        "nome": "SUMMONTE"
+                    },
+                    {
+                        "codice": 1090,
+                        "slug": "torre-le-nocelle",
+                        "nome": "TORRE LE NOCELLE"
+                    },
+                    {
+                        "codice": 1130,
+                        "slug": "vallata",
+                        "nome": "VALLATA"
+                    }
+                ],
+                "nome": "AVELLINO"
+            },
+            {
+                "codice": 11,
+                "slug": "benevento",
+                "comuni": [
+                    {
+                        "codice": 60,
+                        "slug": "arpaise",
+                        "nome": "ARPAISE"
+                    },
+                    {
+                        "codice": 100,
+                        "slug": "bucciano",
+                        "nome": "BUCCIANO"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "castelpagano",
+                        "nome": "CASTELPAGANO"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "ceppaloni",
+                        "nome": "CEPPALONI"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "frasso-telesino",
+                        "nome": "FRASSO TELESINO"
+                    },
+                    {
+                        "codice": 420,
+                        "slug": "montesarchio",
+                        "nome": "MONTESARCHIO"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "morcone",
+                        "nome": "MORCONE"
+                    },
+                    {
+                        "codice": 520,
+                        "slug": "ponte",
+                        "nome": "PONTE"
+                    },
+                    {
+                        "codice": 530,
+                        "slug": "pontelandolfo",
+                        "nome": "PONTELANDOLFO"
+                    },
+                    {
+                        "codice": 540,
+                        "slug": "puglianello",
+                        "nome": "PUGLIANELLO"
+                    },
+                    {
+                        "codice": 590,
+                        "slug": "san-leucio-del-sannio",
+                        "nome": "SAN LEUCIO DEL SANNIO"
+                    },
+                    {
+                        "codice": 610,
+                        "slug": "san-lorenzo-maggiore",
+                        "nome": "SAN LORENZO MAGGIORE"
+                    },
+                    {
+                        "codice": 620,
+                        "slug": "san-lupo",
+                        "nome": "SAN LUPO"
+                    },
+                    {
+                        "codice": 660,
+                        "slug": "san-salvatore-telesino",
+                        "nome": "SAN SALVATORE TELESINO"
+                    },
+                    {
+                        "codice": 750,
+                        "slug": "vitulano",
+                        "nome": "VITULANO"
+                    }
+                ],
+                "nome": "BENEVENTO"
+            },
+            {
+                "codice": 20,
+                "slug": "caserta",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "alife",
+                        "nome": "ALIFE"
+                    },
+                    {
+                        "codice": 90,
+                        "slug": "caiazzo",
+                        "nome": "CAIAZZO"
+                    },
+                    {
+                        "codice": 120,
+                        "slug": "cancello-ed-arnone",
+                        "nome": "CANCELLO ED ARNONE"
+                    },
+                    {
+                        "codice": 271,
+                        "slug": "cellole",
+                        "nome": "CELLOLE"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "galluccio",
+                        "nome": "GALLUCCIO"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "gricignano-di-aversa",
+                        "nome": "GRICIGNANO DI AVERSA"
+                    },
+                    {
+                        "codice": 440,
+                        "slug": "letino",
+                        "nome": "LETINO"
+                    },
+                    {
+                        "codice": 460,
+                        "slug": "lusciano",
+                        "nome": "LUSCIANO"
+                    },
+                    {
+                        "codice": 480,
+                        "slug": "maddaloni",
+                        "nome": "MADDALONI"
+                    },
+                    {
+                        "codice": 530,
+                        "slug": "orta-di-atella",
+                        "nome": "ORTA DI ATELLA"
+                    },
+                    {
+                        "codice": 650,
+                        "slug": "presenzano",
+                        "nome": "PRESENZANO"
+                    },
+                    {
+                        "codice": 660,
+                        "slug": "raviscanina",
+                        "nome": "RAVISCANINA"
+                    },
+                    {
+                        "codice": 680,
+                        "slug": "riardo",
+                        "nome": "RIARDO"
+                    },
+                    {
+                        "codice": 850,
+                        "slug": "san-tammaro",
+                        "nome": "SAN TAMMARO"
+                    },
+                    {
+                        "codice": 860,
+                        "slug": "santangelo-dalife",
+                        "nome": "SANT'ANGELO D'ALIFE"
+                    },
+                    {
+                        "codice": 910,
+                        "slug": "teano",
+                        "nome": "TEANO"
+                    },
+                    {
+                        "codice": 940,
+                        "slug": "trentola-ducenta",
+                        "nome": "TRENTOLA DUCENTA"
+                    },
+                    {
+                        "codice": 1000,
+                        "slug": "vitulazio",
+                        "nome": "VITULAZIO"
+                    }
+                ],
+                "nome": "CASERTA"
+            },
+            {
+                "codice": 51,
+                "slug": "napoli",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "afragola",
+                        "nome": "AFRAGOLA"
+                    },
+                    {
+                        "codice": 80,
+                        "slug": "boscoreale",
+                        "nome": "BOSCOREALE"
+                    },
+                    {
+                        "codice": 100,
+                        "slug": "brusciano",
+                        "nome": "BRUSCIANO"
+                    },
+                    {
+                        "codice": 200,
+                        "slug": "casandrino",
+                        "nome": "CASANDRINO"
+                    },
+                    {
+                        "codice": 240,
+                        "slug": "castellammare-di-stabia",
+                        "nome": "CASTELLAMMARE DI STABIA"
+                    },
+                    {
+                        "codice": 260,
+                        "slug": "cercola",
+                        "nome": "CERCOLA"
+                    },
+                    {
+                        "codice": 270,
+                        "slug": "cicciano",
+                        "nome": "CICCIANO"
+                    },
+                    {
+                        "codice": 280,
+                        "slug": "cimitile",
+                        "nome": "CIMITILE"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "forio",
+                        "nome": "FORIO"
+                    },
+                    {
+                        "codice": 510,
+                        "slug": "ottaviano",
+                        "nome": "OTTAVIANO"
+                    },
+                    {
+                        "codice": 520,
+                        "slug": "palma-campania",
+                        "nome": "PALMA CAMPANIA"
+                    },
+                    {
+                        "codice": 560,
+                        "slug": "pollena-trocchia",
+                        "nome": "POLLENA TROCCHIA"
+                    },
+                    {
+                        "codice": 620,
+                        "slug": "qualiano",
+                        "nome": "QUALIANO"
+                    },
+                    {
+                        "codice": 630,
+                        "slug": "quarto",
+                        "nome": "QUARTO"
+                    },
+                    {
+                        "codice": 680,
+                        "slug": "san-giuseppe-vesuviano",
+                        "nome": "SAN GIUSEPPE VESUVIANO"
+                    },
+                    {
+                        "codice": 750,
+                        "slug": "san-vitaliano",
+                        "nome": "SAN VITALIANO"
+                    },
+                    {
+                        "codice": 710,
+                        "slug": "santagnello",
+                        "nome": "SANT'AGNELLO"
+                    },
+                    {
+                        "codice": 770,
+                        "slug": "scisciano",
+                        "nome": "SCISCIANO"
+                    },
+                    {
+                        "codice": 840,
+                        "slug": "torre-del-greco",
+                        "nome": "TORRE DEL GRECO"
+                    },
+                    {
+                        "codice": 890,
+                        "slug": "volla",
+                        "nome": "VOLLA"
+                    }
+                ],
+                "nome": "NAPOLI"
+            },
+            {
+                "codice": 72,
+                "slug": "salerno",
+                "comuni": [
+                    {
+                        "codice": 80,
+                        "slug": "aquara",
+                        "nome": "AQUARA"
+                    },
+                    {
+                        "codice": 100,
+                        "slug": "atena-lucana",
+                        "nome": "ATENA LUCANA"
+                    },
+                    {
+                        "codice": 200,
+                        "slug": "calvanico",
+                        "nome": "CALVANICO"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "campagna",
+                        "nome": "CAMPAGNA"
+                    },
+                    {
+                        "codice": 300,
+                        "slug": "castelcivita",
+                        "nome": "CASTELCIVITA"
+                    },
+                    {
+                        "codice": 580,
+                        "slug": "giungano",
+                        "nome": "GIUNGANO"
+                    },
+                    {
+                        "codice": 630,
+                        "slug": "laviano",
+                        "nome": "LAVIANO"
+                    },
+                    {
+                        "codice": 730,
+                        "slug": "montecorvino-rovella",
+                        "nome": "MONTECORVINO ROVELLA"
+                    },
+                    {
+                        "codice": 800,
+                        "slug": "novi-velia",
+                        "nome": "NOVI VELIA"
+                    },
+                    {
+                        "codice": 820,
+                        "slug": "olevano-sul-tusciano",
+                        "nome": "OLEVANO SUL TUSCIANO"
+                    },
+                    {
+                        "codice": 900,
+                        "slug": "pellezzano",
+                        "nome": "PELLEZZANO"
+                    },
+                    {
+                        "codice": 920,
+                        "slug": "perito",
+                        "nome": "PERITO"
+                    },
+                    {
+                        "codice": 970,
+                        "slug": "polla",
+                        "nome": "POLLA"
+                    },
+                    {
+                        "codice": 990,
+                        "slug": "pontecagnano-faiano",
+                        "nome": "PONTECAGNANO FAIANO"
+                    },
+                    {
+                        "codice": 1070,
+                        "slug": "roccagloriosa",
+                        "nome": "ROCCAGLORIOSA"
+                    },
+                    {
+                        "codice": 1100,
+                        "slug": "romagnano-al-monte",
+                        "nome": "ROMAGNANO AL MONTE"
+                    },
+                    {
+                        "codice": 1200,
+                        "slug": "san-gregorio-magno",
+                        "nome": "SAN GREGORIO MAGNO"
+                    },
+                    {
+                        "codice": 1210,
+                        "slug": "san-mango-piemonte",
+                        "nome": "SAN MANGO PIEMONTE"
+                    },
+                    {
+                        "codice": 1380,
+                        "slug": "scala",
+                        "nome": "SCALA"
+                    }
+                ],
+                "nome": "SALERNO"
+            }
+        ],
+        "codice": 15,
+        "slug": "campania",
+        "nome": "CAMPANIA"
+    },
+    {
+        "province": [
+            {
+                "codice": 13,
+                "slug": "bologna",
+                "comuni": [
+                    {
+                        "codice": 100,
+                        "slug": "camugnano",
+                        "nome": "CAMUGNANO"
+                    },
+                    {
+                        "codice": 320,
+                        "slug": "imola",
+                        "nome": "IMOLA"
+                    }
+                ],
+                "nome": "BOLOGNA"
+            },
+            {
+                "codice": 32,
+                "slug": "forli-cesena",
+                "comuni": [
+                    {
+                        "codice": 130,
+                        "slug": "galeata",
+                        "nome": "GALEATA"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "sarsina",
+                        "nome": "SARSINA"
+                    }
+                ],
+                "nome": "FORLI'-CESENA"
+            },
+            {
+                "codice": 50,
+                "slug": "modena",
+                "comuni": [
+                    {
+                        "codice": 40,
+                        "slug": "camposanto",
+                        "nome": "CAMPOSANTO"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "guiglia",
+                        "nome": "GUIGLIA"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "polinago",
+                        "nome": "POLINAGO"
+                    },
+                    {
+                        "codice": 410,
+                        "slug": "serramazzoni",
+                        "nome": "SERRAMAZZONI"
+                    }
+                ],
+                "nome": "MODENA"
+            },
+            {
+                "codice": 56,
+                "slug": "parma",
+                "comuni": [
+                    {
+                        "codice": 320,
+                        "slug": "salsomaggiore-terme",
+                        "nome": "SALSOMAGGIORE TERME"
+                    },
+                    {
+                        "codice": 350,
+                        "slug": "solignano",
+                        "nome": "SOLIGNANO"
+                    }
+                ],
+                "nome": "PARMA"
+            },
+            {
+                "codice": 61,
+                "slug": "piacenza",
+                "comuni": [
+                    {
+                        "codice": 25,
+                        "slug": "alta-val-tidone",
+                        "nome": "ALTA VAL TIDONE"
+                    },
+                    {
+                        "codice": 140,
+                        "slug": "castelvetro-piacentino",
+                        "nome": "CASTELVETRO PIACENTINO"
+                    },
+                    {
+                        "codice": 200,
+                        "slug": "ferriere",
+                        "nome": "FERRIERE"
+                    }
+                ],
+                "nome": "PIACENZA"
+            },
+            {
+                "codice": 66,
+                "slug": "ravenna",
+                "comuni": [
+                    {
+                        "codice": 30,
+                        "slug": "bagnara-di-romagna",
+                        "nome": "BAGNARA DI ROMAGNA"
+                    }
+                ],
+                "nome": "RAVENNA"
+            },
+            {
+                "codice": 68,
+                "slug": "reggio-nellemilia",
+                "comuni": [
+                    {
+                        "codice": 60,
+                        "slug": "brescello",
+                        "nome": "BRESCELLO"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "castelnovo-di-sotto",
+                        "nome": "CASTELNOVO DI SOTTO"
+                    },
+                    {
+                        "codice": 380,
+                        "slug": "san-polo-denza",
+                        "nome": "SAN POLO D'ENZA"
+                    }
+                ],
+                "nome": "REGGIO NELL'EMILIA"
+            },
+            {
+                "codice": 101,
+                "slug": "rimini",
+                "comuni": [
+                    {
+                        "codice": 40,
+                        "slug": "gemmano",
+                        "nome": "GEMMANO"
+                    }
+                ],
+                "nome": "RIMINI"
+            }
+        ],
+        "codice": 8,
+        "slug": "emilia-romagna",
+        "nome": "EMILIA-ROMAGNA"
+    },
+    {
+        "province": [
+            {
+                "codice": 33,
+                "slug": "frosinone",
+                "comuni": [
+                    {
+                        "codice": 50,
+                        "slug": "amaseno",
+                        "nome": "AMASENO"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "anagni",
+                        "nome": "ANAGNI"
+                    },
+                    {
+                        "codice": 70,
+                        "slug": "aquino",
+                        "nome": "AQUINO"
+                    },
+                    {
+                        "codice": 100,
+                        "slug": "arpino",
+                        "nome": "ARPINO"
+                    },
+                    {
+                        "codice": 110,
+                        "slug": "atina",
+                        "nome": "ATINA"
+                    },
+                    {
+                        "codice": 140,
+                        "slug": "boville-ernica",
+                        "nome": "BOVILLE ERNICA"
+                    },
+                    {
+                        "codice": 330,
+                        "slug": "ferentino",
+                        "nome": "FERENTINO"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "filettino",
+                        "nome": "FILETTINO"
+                    },
+                    {
+                        "codice": 350,
+                        "slug": "fiuggi",
+                        "nome": "FIUGGI"
+                    },
+                    {
+                        "codice": 510,
+                        "slug": "pico",
+                        "nome": "PICO"
+                    },
+                    {
+                        "codice": 540,
+                        "slug": "pignataro-interamna",
+                        "nome": "PIGNATARO INTERAMNA"
+                    },
+                    {
+                        "codice": 700,
+                        "slug": "serrone",
+                        "nome": "SERRONE"
+                    },
+                    {
+                        "codice": 780,
+                        "slug": "torrice",
+                        "nome": "TORRICE"
+                    },
+                    {
+                        "codice": 870,
+                        "slug": "villa-latina",
+                        "nome": "VILLA LATINA"
+                    },
+                    {
+                        "codice": 880,
+                        "slug": "villa-santa-lucia",
+                        "nome": "VILLA SANTA LUCIA"
+                    }
+                ],
+                "nome": "FROSINONE"
+            },
+            {
+                "codice": 40,
+                "slug": "latina",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "aprilia",
+                        "nome": "APRILIA"
+                    },
+                    {
+                        "codice": 20,
+                        "slug": "bassiano",
+                        "nome": "BASSIANO"
+                    },
+                    {
+                        "codice": 30,
+                        "slug": "campodimele",
+                        "nome": "CAMPODIMELE"
+                    },
+                    {
+                        "codice": 50,
+                        "slug": "cisterna-di-latina",
+                        "nome": "CISTERNA DI LATINA"
+                    },
+                    {
+                        "codice": 80,
+                        "slug": "formia",
+                        "nome": "FORMIA"
+                    },
+                    {
+                        "codice": 120,
+                        "slug": "lenola",
+                        "nome": "LENOLA"
+                    },
+                    {
+                        "codice": 290,
+                        "slug": "sonnino",
+                        "nome": "SONNINO"
+                    }
+                ],
+                "nome": "LATINA"
+            },
+            {
+                "codice": 69,
+                "slug": "rieti",
+                "comuni": [
+                    {
+                        "codice": 50,
+                        "slug": "belmonte-in-sabina",
+                        "nome": "BELMONTE IN SABINA"
+                    },
+                    {
+                        "codice": 72,
+                        "slug": "borgorose",
+                        "nome": "BORGOROSE"
+                    },
+                    {
+                        "codice": 600,
+                        "slug": "rocca-sinibalda",
+                        "nome": "ROCCA SINIBALDA"
+                    },
+                    {
+                        "codice": 710,
+                        "slug": "varco-sabino",
+                        "nome": "VARCO SABINO"
+                    }
+                ],
+                "nome": "RIETI"
+            },
+            {
+                "codice": 70,
+                "slug": "roma",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "affile",
+                        "nome": "AFFILE"
+                    },
+                    {
+                        "codice": 70,
+                        "slug": "anzio",
+                        "nome": "ANZIO"
+                    },
+                    {
+                        "codice": 270,
+                        "slug": "cerreto-laziale",
+                        "nome": "CERRETO LAZIALE"
+                    },
+                    {
+                        "codice": 280,
+                        "slug": "cervara-di-roma",
+                        "nome": "CERVARA DI ROMA"
+                    },
+                    {
+                        "codice": 371,
+                        "slug": "fiumicino",
+                        "nome": "FIUMICINO"
+                    },
+                    {
+                        "codice": 400,
+                        "slug": "gallicano-nel-lazio",
+                        "nome": "GALLICANO NEL LAZIO"
+                    },
+                    {
+                        "codice": 511,
+                        "slug": "magliano-romano",
+                        "nome": "MAGLIANO ROMANO"
+                    },
+                    {
+                        "codice": 670,
+                        "slug": "morlupo",
+                        "nome": "MORLUPO"
+                    },
+                    {
+                        "codice": 780,
+                        "slug": "pomezia",
+                        "nome": "POMEZIA"
+                    },
+                    {
+                        "codice": 860,
+                        "slug": "roccagiovine",
+                        "nome": "ROCCAGIOVINE"
+                    },
+                    {
+                        "codice": 920,
+                        "slug": "sacrofano",
+                        "nome": "SACROFANO"
+                    },
+                    {
+                        "codice": 931,
+                        "slug": "san-cesareo",
+                        "nome": "SAN CESAREO"
+                    },
+                    {
+                        "codice": 960,
+                        "slug": "santa-marinella",
+                        "nome": "SANTA MARINELLA"
+                    },
+                    {
+                        "codice": 1010,
+                        "slug": "segni",
+                        "nome": "SEGNI"
+                    },
+                    {
+                        "codice": 1090,
+                        "slug": "valmontone",
+                        "nome": "VALMONTONE"
+                    },
+                    {
+                        "codice": 1100,
+                        "slug": "velletri",
+                        "nome": "VELLETRI"
+                    }
+                ],
+                "nome": "ROMA"
+            },
+            {
+                "codice": 91,
+                "slug": "viterbo",
+                "comuni": [
+                    {
+                        "codice": 480,
+                        "slug": "sutri",
+                        "nome": "SUTRI"
+                    },
+                    {
+                        "codice": 520,
+                        "slug": "valentano",
+                        "nome": "VALENTANO"
+                    },
+                    {
+                        "codice": 530,
+                        "slug": "vallerano",
+                        "nome": "VALLERANO"
+                    },
+                    {
+                        "codice": 570,
+                        "slug": "vignanello",
+                        "nome": "VIGNANELLO"
+                    },
+                    {
+                        "codice": 580,
+                        "slug": "viterbo",
+                        "nome": "VITERBO"
+                    }
+                ],
+                "nome": "VITERBO"
+            }
+        ],
+        "codice": 12,
+        "slug": "lazio",
+        "nome": "LAZIO"
+    },
+    {
+        "province": [
+            {
+                "codice": 34,
+                "slug": "genova",
+                "comuni": [
+                    {
+                        "codice": 70,
+                        "slug": "camogli",
+                        "nome": "CAMOGLI"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "montoggio",
+                        "nome": "MONTOGGIO"
+                    },
+                    {
+                        "codice": 590,
+                        "slug": "sestri-levante",
+                        "nome": "SESTRI LEVANTE"
+                    }
+                ],
+                "nome": "GENOVA"
+            },
+            {
+                "codice": 37,
+                "slug": "imperia",
+                "comuni": [
+                    {
+                        "codice": 70,
+                        "slug": "bordighera",
+                        "nome": "BORDIGHERA"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "cosio-di-arroscia",
+                        "nome": "COSIO DI ARROSCIA"
+                    },
+                    {
+                        "codice": 290,
+                        "slug": "imperia",
+                        "nome": "IMPERIA"
+                    },
+                    {
+                        "codice": 325,
+                        "slug": "montalto-carpasio",
+                        "nome": "MONTALTO CARPASIO"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "pieve-di-teco",
+                        "nome": "PIEVE DI TECO"
+                    },
+                    {
+                        "codice": 570,
+                        "slug": "triora",
+                        "nome": "TRIORA"
+                    },
+                    {
+                        "codice": 590,
+                        "slug": "vallecrosia",
+                        "nome": "VALLECROSIA"
+                    }
+                ],
+                "nome": "IMPERIA"
+            },
+            {
+                "codice": 39,
+                "slug": "la-spezia",
+                "comuni": [
+                    {
+                        "codice": 90,
+                        "slug": "carro",
+                        "nome": "CARRO"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "portovenere",
+                        "nome": "PORTOVENERE"
+                    },
+                    {
+                        "codice": 270,
+                        "slug": "sarzana",
+                        "nome": "SARZANA"
+                    }
+                ],
+                "nome": "LA SPEZIA"
+            },
+            {
+                "codice": 74,
+                "slug": "savona",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "alassio",
+                        "nome": "ALASSIO"
+                    },
+                    {
+                        "codice": 180,
+                        "slug": "carcare",
+                        "nome": "CARCARE"
+                    },
+                    {
+                        "codice": 230,
+                        "slug": "cengio",
+                        "nome": "CENGIO"
+                    },
+                    {
+                        "codice": 240,
+                        "slug": "ceriale",
+                        "nome": "CERIALE"
+                    },
+                    {
+                        "codice": 330,
+                        "slug": "laigueglia",
+                        "nome": "LAIGUEGLIA"
+                    },
+                    {
+                        "codice": 530,
+                        "slug": "rialto",
+                        "nome": "RIALTO"
+                    },
+                    {
+                        "codice": 550,
+                        "slug": "sassello",
+                        "nome": "SASSELLO"
+                    }
+                ],
+                "nome": "SAVONA"
+            }
+        ],
+        "codice": 7,
+        "slug": "liguria",
+        "nome": "LIGURIA"
+    },
+    {
+        "province": [
+            {
+                "codice": 12,
+                "slug": "bergamo",
+                "comuni": [
+                    {
+                        "codice": 160,
+                        "slug": "aviatico",
+                        "nome": "AVIATICO"
+                    },
+                    {
+                        "codice": 490,
+                        "slug": "capriate-san-gervasio",
+                        "nome": "CAPRIATE SAN GERVASIO"
+                    },
+                    {
+                        "codice": 580,
+                        "slug": "casnigo",
+                        "nome": "CASNIGO"
+                    },
+                    {
+                        "codice": 650,
+                        "slug": "cenate-sopra",
+                        "nome": "CENATE SOPRA"
+                    },
+                    {
+                        "codice": 1260,
+                        "slug": "mapello",
+                        "nome": "MAPELLO"
+                    },
+                    {
+                        "codice": 1400,
+                        "slug": "oltre-il-colle",
+                        "nome": "OLTRE IL COLLE"
+                    },
+                    {
+                        "codice": 1470,
+                        "slug": "paladina",
+                        "nome": "PALADINA"
+                    },
+                    {
+                        "codice": 1540,
+                        "slug": "pianico",
+                        "nome": "PIANICO"
+                    },
+                    {
+                        "codice": 1560,
+                        "slug": "piazzolo",
+                        "nome": "PIAZZOLO"
+                    },
+                    {
+                        "codice": 1900,
+                        "slug": "serina",
+                        "nome": "SERINA"
+                    },
+                    {
+                        "codice": 2290,
+                        "slug": "villa-dogna",
+                        "nome": "VILLA D'OGNA"
+                    }
+                ],
+                "nome": "BERGAMO"
+            },
+            {
+                "codice": 15,
+                "slug": "brescia",
+                "comuni": [
+                    {
+                        "codice": 30,
+                        "slug": "agnosine",
+                        "nome": "AGNOSINE"
+                    },
+                    {
+                        "codice": 91,
+                        "slug": "barghe",
+                        "nome": "BARGHE"
+                    },
+                    {
+                        "codice": 120,
+                        "slug": "berlingo",
+                        "nome": "BERLINGO"
+                    },
+                    {
+                        "codice": 140,
+                        "slug": "berzo-inferiore",
+                        "nome": "BERZO INFERIORE"
+                    },
+                    {
+                        "codice": 190,
+                        "slug": "borno",
+                        "nome": "BORNO"
+                    },
+                    {
+                        "codice": 260,
+                        "slug": "brescia",
+                        "nome": "BRESCIA"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "castelcovati",
+                        "nome": "CASTELCOVATI"
+                    },
+                    {
+                        "codice": 940,
+                        "slug": "malonno",
+                        "nome": "MALONNO"
+                    },
+                    {
+                        "codice": 960,
+                        "slug": "manerbio",
+                        "nome": "MANERBIO"
+                    },
+                    {
+                        "codice": 1000,
+                        "slug": "milzano",
+                        "nome": "MILZANO"
+                    },
+                    {
+                        "codice": 1130,
+                        "slug": "offlaga",
+                        "nome": "OFFLAGA"
+                    },
+                    {
+                        "codice": 1180,
+                        "slug": "ospitaletto",
+                        "nome": "OSPITALETTO"
+                    },
+                    {
+                        "codice": 1390,
+                        "slug": "ponte-di-legno",
+                        "nome": "PONTE DI LEGNO"
+                    },
+                    {
+                        "codice": 1500,
+                        "slug": "quinzano-doglio",
+                        "nome": "QUINZANO D'OGLIO"
+                    },
+                    {
+                        "codice": 1640,
+                        "slug": "san-zeno-naviglio",
+                        "nome": "SAN ZENO NAVIGLIO"
+                    },
+                    {
+                        "codice": 1700,
+                        "slug": "soiano-del-lago",
+                        "nome": "SOIANO DEL LAGO"
+                    },
+                    {
+                        "codice": 1770,
+                        "slug": "toscolano-maderno",
+                        "nome": "TOSCOLANO-MADERNO"
+                    },
+                    {
+                        "codice": 1800,
+                        "slug": "trenzano",
+                        "nome": "TRENZANO"
+                    }
+                ],
+                "nome": "BRESCIA"
+            },
+            {
+                "codice": 24,
+                "slug": "como",
+                "comuni": [
+                    {
+                        "codice": 340,
+                        "slug": "bulgarograsso",
+                        "nome": "BULGAROGRASSO"
+                    },
+                    {
+                        "codice": 450,
+                        "slug": "carlazzo",
+                        "nome": "CARLAZZO"
+                    },
+                    {
+                        "codice": 460,
+                        "slug": "carugo",
+                        "nome": "CARUGO"
+                    },
+                    {
+                        "codice": 530,
+                        "slug": "cassina-rizzardi",
+                        "nome": "CASSINA RIZZARDI"
+                    },
+                    {
+                        "codice": 595,
+                        "slug": "centro-valle-intelvi",
+                        "nome": "CENTRO VALLE INTELVI"
+                    },
+                    {
+                        "codice": 620,
+                        "slug": "cernobbio",
+                        "nome": "CERNOBBIO"
+                    },
+                    {
+                        "codice": 1120,
+                        "slug": "laglio",
+                        "nome": "LAGLIO"
+                    },
+                    {
+                        "codice": 1140,
+                        "slug": "lambrugo",
+                        "nome": "LAMBRUGO"
+                    },
+                    {
+                        "codice": 1300,
+                        "slug": "lurago-derba",
+                        "nome": "LURAGO D'ERBA"
+                    },
+                    {
+                        "codice": 1490,
+                        "slug": "montemezzo",
+                        "nome": "MONTEMEZZO"
+                    },
+                    {
+                        "codice": 1521,
+                        "slug": "mozzate",
+                        "nome": "MOZZATE"
+                    },
+                    {
+                        "codice": 1955,
+                        "slug": "san-siro",
+                        "nome": "SAN SIRO"
+                    },
+                    {
+                        "codice": 2030,
+                        "slug": "sorico",
+                        "nome": "SORICO"
+                    }
+                ],
+                "nome": "COMO"
+            },
+            {
+                "codice": 26,
+                "slug": "cremona",
+                "comuni": [
+                    {
+                        "codice": 110,
+                        "slug": "capergnanica",
+                        "nome": "CAPERGNANICA"
+                    },
+                    {
+                        "codice": 230,
+                        "slug": "castel-gabbiano",
+                        "nome": "CASTEL GABBIANO"
+                    },
+                    {
+                        "codice": 1060,
+                        "slug": "trescore-cremasco",
+                        "nome": "TRESCORE CREMASCO"
+                    },
+                    {
+                        "codice": 1080,
+                        "slug": "vaiano-cremasco",
+                        "nome": "VAIANO CREMASCO"
+                    }
+                ],
+                "nome": "CREMONA"
+            },
+            {
+                "codice": 98,
+                "slug": "lecco",
+                "comuni": [
+                    {
+                        "codice": 130,
+                        "slug": "calolziocorte",
+                        "nome": "CALOLZIOCORTE"
+                    },
+                    {
+                        "codice": 600,
+                        "slug": "oliveto-lario",
+                        "nome": "OLIVETO LARIO"
+                    },
+                    {
+                        "codice": 710,
+                        "slug": "robbiate",
+                        "nome": "ROBBIATE"
+                    },
+                    {
+                        "codice": 835,
+                        "slug": "valvarrone",
+                        "nome": "VALVARRONE"
+                    }
+                ],
+                "nome": "LECCO"
+            },
+            {
+                "codice": 99,
+                "slug": "lodi",
+                "comuni": [
+                    {
+                        "codice": 125,
+                        "slug": "castelgerundo",
+                        "nome": "CASTELGERUNDO"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "cavenago-dadda",
+                        "nome": "CAVENAGO D'ADDA"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "massalengo",
+                        "nome": "MASSALENGO"
+                    },
+                    {
+                        "codice": 550,
+                        "slug": "sordio",
+                        "nome": "SORDIO"
+                    },
+                    {
+                        "codice": 580,
+                        "slug": "turano-lodigiano",
+                        "nome": "TURANO LODIGIANO"
+                    }
+                ],
+                "nome": "LODI"
+            },
+            {
+                "codice": 45,
+                "slug": "mantova",
+                "comuni": [
+                    {
+                        "codice": 48,
+                        "slug": "borgo-mantovano",
+                        "nome": "BORGO MANTOVANO"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "borgofranco-sul-po",
+                        "nome": "BORGOFRANCO SUL PO"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "castel-goffredo",
+                        "nome": "CASTEL GOFFREDO"
+                    },
+                    {
+                        "codice": 190,
+                        "slug": "ceresara",
+                        "nome": "CERESARA"
+                    },
+                    {
+                        "codice": 510,
+                        "slug": "rodigo",
+                        "nome": "RODIGO"
+                    },
+                    {
+                        "codice": 590,
+                        "slug": "san-martino-dallargine",
+                        "nome": "SAN MARTINO DALL'ARGINE"
+                    }
+                ],
+                "nome": "MANTOVA"
+            },
+            {
+                "codice": 49,
+                "slug": "milano",
+                "comuni": [
+                    {
+                        "codice": 90,
+                        "slug": "arese",
+                        "nome": "ARESE"
+                    },
+                    {
+                        "codice": 120,
+                        "slug": "bareggio",
+                        "nome": "BAREGGIO"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "basiglio",
+                        "nome": "BASIGLIO"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "bellinzago-lombardo",
+                        "nome": "BELLINZAGO LOMBARDO"
+                    },
+                    {
+                        "codice": 320,
+                        "slug": "bresso",
+                        "nome": "BRESSO"
+                    },
+                    {
+                        "codice": 420,
+                        "slug": "calvignasco",
+                        "nome": "CALVIGNASCO"
+                    },
+                    {
+                        "codice": 720,
+                        "slug": "cerro-maggiore",
+                        "nome": "CERRO MAGGIORE"
+                    },
+                    {
+                        "codice": 770,
+                        "slug": "cinisello-balsamo",
+                        "nome": "CINISELLO BALSAMO"
+                    },
+                    {
+                        "codice": 780,
+                        "slug": "cisliano",
+                        "nome": "CISLIANO"
+                    },
+                    {
+                        "codice": 1070,
+                        "slug": "gorgonzola",
+                        "nome": "GORGONZOLA"
+                    },
+                    {
+                        "codice": 1580,
+                        "slug": "opera",
+                        "nome": "OPERA"
+                    },
+                    {
+                        "codice": 2450,
+                        "slug": "zibido-san-giacomo",
+                        "nome": "ZIBIDO SAN GIACOMO"
+                    }
+                ],
+                "nome": "MILANO"
+            },
+            {
+                "codice": 104,
+                "slug": "monza-e-della-brianza",
+                "comuni": [
+                    {
+                        "codice": 120,
+                        "slug": "brugherio",
+                        "nome": "BRUGHERIO"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "carate-brianza",
+                        "nome": "CARATE BRIANZA"
+                    },
+                    {
+                        "codice": 200,
+                        "slug": "cogliate",
+                        "nome": "COGLIATE"
+                    },
+                    {
+                        "codice": 250,
+                        "slug": "lazzate",
+                        "nome": "LAZZATE"
+                    },
+                    {
+                        "codice": 290,
+                        "slug": "macherio",
+                        "nome": "MACHERIO"
+                    },
+                    {
+                        "codice": 350,
+                        "slug": "nova-milanese",
+                        "nome": "NOVA MILANESE"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "seregno",
+                        "nome": "SEREGNO"
+                    },
+                    {
+                        "codice": 400,
+                        "slug": "seveso",
+                        "nome": "SEVESO"
+                    }
+                ],
+                "nome": "MONZA E DELLA BRIANZA"
+            },
+            {
+                "codice": 57,
+                "slug": "pavia",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "alagna",
+                        "nome": "ALAGNA"
+                    },
+                    {
+                        "codice": 141,
+                        "slug": "borgarello",
+                        "nome": "BORGARELLO"
+                    },
+                    {
+                        "codice": 190,
+                        "slug": "bosnasco",
+                        "nome": "BOSNASCO"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "castello-dagogna",
+                        "nome": "CASTELLO D'AGOGNA"
+                    },
+                    {
+                        "codice": 890,
+                        "slug": "mezzanino",
+                        "nome": "MEZZANINO"
+                    },
+                    {
+                        "codice": 1000,
+                        "slug": "nicorvo",
+                        "nome": "NICORVO"
+                    },
+                    {
+                        "codice": 1310,
+                        "slug": "san-damiano-al-colle",
+                        "nome": "SAN DAMIANO AL COLLE"
+                    },
+                    {
+                        "codice": 1480,
+                        "slug": "sommo",
+                        "nome": "SOMMO"
+                    },
+                    {
+                        "codice": 1770,
+                        "slug": "vistarino",
+                        "nome": "VISTARINO"
+                    }
+                ],
+                "nome": "PAVIA"
+            },
+            {
+                "codice": 77,
+                "slug": "sondrio",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "albosaggia",
+                        "nome": "ALBOSAGGIA"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "bema",
+                        "nome": "BEMA"
+                    },
+                    {
+                        "codice": 190,
+                        "slug": "chiesa-in-valmalenco",
+                        "nome": "CHIESA IN VALMALENCO"
+                    },
+                    {
+                        "codice": 240,
+                        "slug": "cosio-valtellino",
+                        "nome": "COSIO VALTELLINO"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "gerola-alta",
+                        "nome": "GEROLA ALTA"
+                    },
+                    {
+                        "codice": 610,
+                        "slug": "sondrio",
+                        "nome": "SONDRIO"
+                    },
+                    {
+                        "codice": 650,
+                        "slug": "teglio",
+                        "nome": "TEGLIO"
+                    }
+                ],
+                "nome": "SONDRIO"
+            },
+            {
+                "codice": 86,
+                "slug": "varese",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "agra",
+                        "nome": "AGRA"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "azzate",
+                        "nome": "AZZATE"
+                    },
+                    {
+                        "codice": 720,
+                        "slug": "jerago-con-orago",
+                        "nome": "JERAGO CON ORAGO"
+                    },
+                    {
+                        "codice": 770,
+                        "slug": "lonate-pozzolo",
+                        "nome": "LONATE POZZOLO"
+                    },
+                    {
+                        "codice": 1190,
+                        "slug": "venegono-superiore",
+                        "nome": "VENEGONO SUPERIORE"
+                    }
+                ],
+                "nome": "VARESE"
+            }
+        ],
+        "codice": 3,
+        "slug": "lombardia",
+        "nome": "LOMBARDIA"
+    },
+    {
+        "province": [
+            {
+                "codice": 3,
+                "slug": "ancona",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "ancona",
+                        "nome": "ANCONA"
+                    },
+                    {
+                        "codice": 140,
+                        "slug": "chiaravalle",
+                        "nome": "CHIARAVALLE"
+                    },
+                    {
+                        "codice": 180,
+                        "slug": "falconara-marittima",
+                        "nome": "FALCONARA MARITTIMA"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "morro-dalba",
+                        "nome": "MORRO D'ALBA"
+                    },
+                    {
+                        "codice": 360,
+                        "slug": "ostra-vetere",
+                        "nome": "OSTRA VETERE"
+                    }
+                ],
+                "nome": "ANCONA"
+            },
+            {
+                "codice": 6,
+                "slug": "ascoli-piceno",
+                "comuni": [
+                    {
+                        "codice": 110,
+                        "slug": "castel-di-lama",
+                        "nome": "CASTEL DI LAMA"
+                    },
+                    {
+                        "codice": 230,
+                        "slug": "grottammare",
+                        "nome": "GROTTAMMARE"
+                    },
+                    {
+                        "codice": 620,
+                        "slug": "ripatransone",
+                        "nome": "RIPATRANSONE"
+                    }
+                ],
+                "nome": "ASCOLI PICENO"
+            },
+            {
+                "codice": 105,
+                "slug": "fermo",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "altidona",
+                        "nome": "ALTIDONA"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "montegiorgio",
+                        "nome": "MONTEGIORGIO"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "porto-santelpidio",
+                        "nome": "PORTO SANT'ELPIDIO"
+                    }
+                ],
+                "nome": "FERMO"
+            },
+            {
+                "codice": 44,
+                "slug": "macerata",
+                "comuni": [
+                    {
+                        "codice": 200,
+                        "slug": "gagliole",
+                        "nome": "GAGLIOLE"
+                    },
+                    {
+                        "codice": 350,
+                        "slug": "penna-san-giovanni",
+                        "nome": "PENNA SAN GIOVANNI"
+                    },
+                    {
+                        "codice": 460,
+                        "slug": "san-ginesio",
+                        "nome": "SAN GINESIO"
+                    },
+                    {
+                        "codice": 560,
+                        "slug": "ussita",
+                        "nome": "USSITA"
+                    }
+                ],
+                "nome": "MACERATA"
+            },
+            {
+                "codice": 59,
+                "slug": "pesaro-e-urbino",
+                "comuni": [
+                    {
+                        "codice": 30,
+                        "slug": "auditore",
+                        "nome": "AUDITORE"
+                    }
+                ],
+                "nome": "PESARO E URBINO"
+            }
+        ],
+        "codice": 11,
+        "slug": "marche",
+        "nome": "MARCHE"
+    },
+    {
+        "province": [
+            {
+                "codice": 19,
+                "slug": "campobasso",
+                "comuni": [
+                    {
+                        "codice": 70,
+                        "slug": "campochiaro",
+                        "nome": "CAMPOCHIARO"
+                    },
+                    {
+                        "codice": 210,
+                        "slug": "colletorto",
+                        "nome": "COLLETORTO"
+                    },
+                    {
+                        "codice": 290,
+                        "slug": "guglionesi",
+                        "nome": "GUGLIONESI"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "larino",
+                        "nome": "LARINO"
+                    },
+                    {
+                        "codice": 350,
+                        "slug": "macchia-valfortore",
+                        "nome": "MACCHIA VALFORTORE"
+                    },
+                    {
+                        "codice": 470,
+                        "slug": "montorio-nei-frentani",
+                        "nome": "MONTORIO NEI FRENTANI"
+                    },
+                    {
+                        "codice": 490,
+                        "slug": "oratino",
+                        "nome": "ORATINO"
+                    },
+                    {
+                        "codice": 580,
+                        "slug": "ripabottoni",
+                        "nome": "RIPABOTTONI"
+                    },
+                    {
+                        "codice": 620,
+                        "slug": "salcito",
+                        "nome": "SALCITO"
+                    },
+                    {
+                        "codice": 840,
+                        "slug": "vinchiaturo",
+                        "nome": "VINCHIATURO"
+                    }
+                ],
+                "nome": "CAMPOBASSO"
+            },
+            {
+                "codice": 94,
+                "slug": "isernia",
+                "comuni": [
+                    {
+                        "codice": 110,
+                        "slug": "castelpizzuto",
+                        "nome": "CASTELPIZZUTO"
+                    },
+                    {
+                        "codice": 280,
+                        "slug": "montaquila",
+                        "nome": "MONTAQUILA"
+                    },
+                    {
+                        "codice": 490,
+                        "slug": "sessano-del-molise",
+                        "nome": "SESSANO DEL MOLISE"
+                    },
+                    {
+                        "codice": 520,
+                        "slug": "venafro",
+                        "nome": "VENAFRO"
+                    }
+                ],
+                "nome": "ISERNIA"
+            }
+        ],
+        "codice": 14,
+        "slug": "molise",
+        "nome": "MOLISE"
+    },
+    {
+        "province": [
+            {
+                "codice": 2,
+                "slug": "alessandria",
+                "comuni": [
+                    {
+                        "codice": 62,
+                        "slug": "alluvioni-piovera",
+                        "nome": "ALLUVIONI PIOVERA"
+                    },
+                    {
+                        "codice": 411,
+                        "slug": "cassano-spinola",
+                        "nome": "CASSANO SPINOLA"
+                    },
+                    {
+                        "codice": 680,
+                        "slug": "francavilla-bisio",
+                        "nome": "FRANCAVILLA BISIO"
+                    },
+                    {
+                        "codice": 740,
+                        "slug": "fubine",
+                        "nome": "FUBINE"
+                    },
+                    {
+                        "codice": 880,
+                        "slug": "malvicino",
+                        "nome": "MALVICINO"
+                    },
+                    {
+                        "codice": 940,
+                        "slug": "molino-dei-torti",
+                        "nome": "MOLINO DEI TORTI"
+                    },
+                    {
+                        "codice": 1020,
+                        "slug": "montaldo-bormida",
+                        "nome": "MONTALDO BORMIDA"
+                    }
+                ],
+                "nome": "ALESSANDRIA"
+            },
+            {
+                "codice": 7,
+                "slug": "asti",
+                "comuni": [
+                    {
+                        "codice": 390,
+                        "slug": "cinaglio",
+                        "nome": "CINAGLIO"
+                    },
+                    {
+                        "codice": 680,
+                        "slug": "monastero-bormida",
+                        "nome": "MONASTERO BORMIDA"
+                    },
+                    {
+                        "codice": 781,
+                        "slug": "montiglio-monferrato",
+                        "nome": "MONTIGLIO MONFERRATO"
+                    },
+                    {
+                        "codice": 1100,
+                        "slug": "tonengo",
+                        "nome": "TONENGO"
+                    }
+                ],
+                "nome": "ASTI"
+            },
+            {
+                "codice": 96,
+                "slug": "biella",
+                "comuni": [
+                    {
+                        "codice": 320,
+                        "slug": "masserano",
+                        "nome": "MASSERANO"
+                    },
+                    {
+                        "codice": 330,
+                        "slug": "mezzana-mortigliengo",
+                        "nome": "MEZZANA MORTIGLIENGO"
+                    },
+                    {
+                        "codice": 670,
+                        "slug": "ternengo",
+                        "nome": "TERNENGO"
+                    }
+                ],
+                "nome": "BIELLA"
+            },
+            {
+                "codice": 27,
+                "slug": "cuneo",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "acceglio",
+                        "nome": "ACCEGLIO"
+                    },
+                    {
+                        "codice": 50,
+                        "slug": "alto",
+                        "nome": "ALTO"
+                    },
+                    {
+                        "codice": 210,
+                        "slug": "bergolo",
+                        "nome": "BERGOLO"
+                    },
+                    {
+                        "codice": 530,
+                        "slug": "castelmagno",
+                        "nome": "CASTELMAGNO"
+                    },
+                    {
+                        "codice": 540,
+                        "slug": "castelnuovo-di-ceva",
+                        "nome": "CASTELNUOVO DI CEVA"
+                    },
+                    {
+                        "codice": 740,
+                        "slug": "cossano-belbo",
+                        "nome": "COSSANO BELBO"
+                    },
+                    {
+                        "codice": 830,
+                        "slug": "elva",
+                        "nome": "ELVA"
+                    },
+                    {
+                        "codice": 880,
+                        "slug": "feisoglio",
+                        "nome": "FEISOGLIO"
+                    },
+                    {
+                        "codice": 1460,
+                        "slug": "murello",
+                        "nome": "MURELLO"
+                    },
+                    {
+                        "codice": 2100,
+                        "slug": "san-michele-mondovi",
+                        "nome": "SAN MICHELE MONDOVI'"
+                    },
+                    {
+                        "codice": 2380,
+                        "slug": "vernante",
+                        "nome": "VERNANTE"
+                    },
+                    {
+                        "codice": 2440,
+                        "slug": "villanova-mondovi",
+                        "nome": "VILLANOVA MONDOVI'"
+                    }
+                ],
+                "nome": "CUNEO"
+            },
+            {
+                "codice": 52,
+                "slug": "novara",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "ameno",
+                        "nome": "AMENO"
+                    },
+                    {
+                        "codice": 180,
+                        "slug": "boca",
+                        "nome": "BOCA"
+                    },
+                    {
+                        "codice": 800,
+                        "slug": "landiona",
+                        "nome": "LANDIONA"
+                    },
+                    {
+                        "codice": 920,
+                        "slug": "miasino",
+                        "nome": "MIASINO"
+                    }
+                ],
+                "nome": "NOVARA"
+            },
+            {
+                "codice": 81,
+                "slug": "torino",
+                "comuni": [
+                    {
+                        "codice": 250,
+                        "slug": "bibiana",
+                        "nome": "BIBIANA"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "borgomasino",
+                        "nome": "BORGOMASINO"
+                    },
+                    {
+                        "codice": 730,
+                        "slug": "chialamberto",
+                        "nome": "CHIALAMBERTO"
+                    },
+                    {
+                        "codice": 1230,
+                        "slug": "ivrea",
+                        "nome": "IVREA"
+                    },
+                    {
+                        "codice": 1270,
+                        "slug": "lauriano",
+                        "nome": "LAURIANO"
+                    },
+                    {
+                        "codice": 1440,
+                        "slug": "mathi",
+                        "nome": "MATHI"
+                    },
+                    {
+                        "codice": 1660,
+                        "slug": "novalesa",
+                        "nome": "NOVALESA"
+                    },
+                    {
+                        "codice": 1680,
+                        "slug": "orbassano",
+                        "nome": "ORBASSANO"
+                    },
+                    {
+                        "codice": 1810,
+                        "slug": "perosa-canavese",
+                        "nome": "PEROSA CANAVESE"
+                    },
+                    {
+                        "codice": 2010,
+                        "slug": "quagliuzzo",
+                        "nome": "QUAGLIUZZO"
+                    },
+                    {
+                        "codice": 2100,
+                        "slug": "rivarossa",
+                        "nome": "RIVAROSSA"
+                    },
+                    {
+                        "codice": 2191,
+                        "slug": "roure",
+                        "nome": "ROURE"
+                    },
+                    {
+                        "codice": 2240,
+                        "slug": "salerano-canavese",
+                        "nome": "SALERANO CANAVESE"
+                    },
+                    {
+                        "codice": 2500,
+                        "slug": "scalenghe",
+                        "nome": "SCALENGHE"
+                    },
+                    {
+                        "codice": 2510,
+                        "slug": "scarmagno",
+                        "nome": "SCARMAGNO"
+                    }
+                ],
+                "nome": "TORINO"
+            },
+            {
+                "codice": 102,
+                "slug": "verbano-cusio-ossola",
+                "comuni": [
+                    {
+                        "codice": 120,
+                        "slug": "bognanco",
+                        "nome": "BOGNANCO"
+                    },
+                    {
+                        "codice": 140,
+                        "slug": "calasca-castiglione",
+                        "nome": "CALASCA-CASTIGLIONE"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "cesara",
+                        "nome": "CESARA"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "gignese",
+                        "nome": "GIGNESE"
+                    },
+                    {
+                        "codice": 750,
+                        "slug": "villadossola",
+                        "nome": "VILLADOSSOLA"
+                    }
+                ],
+                "nome": "VERBANO-CUSIO-OSSOLA"
+            },
+            {
+                "codice": 88,
+                "slug": "vercelli",
+                "comuni": [
+                    {
+                        "codice": 45,
+                        "slug": "alto-sermenza",
+                        "nome": "ALTO SERMENZA"
+                    },
+                    {
+                        "codice": 90,
+                        "slug": "balocco",
+                        "nome": "BALOCCO"
+                    },
+                    {
+                        "codice": 300,
+                        "slug": "caresana",
+                        "nome": "CARESANA"
+                    },
+                    {
+                        "codice": 385,
+                        "slug": "cellio-con-breia",
+                        "nome": "CELLIO CON BREIA"
+                    },
+                    {
+                        "codice": 450,
+                        "slug": "collobiano",
+                        "nome": "COLLOBIANO"
+                    },
+                    {
+                        "codice": 680,
+                        "slug": "lenta",
+                        "nome": "LENTA"
+                    },
+                    {
+                        "codice": 700,
+                        "slug": "lignana",
+                        "nome": "LIGNANA"
+                    },
+                    {
+                        "codice": 710,
+                        "slug": "livorno-ferraris",
+                        "nome": "LIVORNO FERRARIS"
+                    },
+                    {
+                        "codice": 950,
+                        "slug": "pila",
+                        "nome": "PILA"
+                    },
+                    {
+                        "codice": 1300,
+                        "slug": "san-germano-vercellese",
+                        "nome": "SAN GERMANO VERCELLESE"
+                    },
+                    {
+                        "codice": 1340,
+                        "slug": "scopello",
+                        "nome": "SCOPELLO"
+                    },
+                    {
+                        "codice": 1360,
+                        "slug": "serravalle-sesia",
+                        "nome": "SERRAVALLE SESIA"
+                    },
+                    {
+                        "codice": 1460,
+                        "slug": "trino",
+                        "nome": "TRINO"
+                    }
+                ],
+                "nome": "VERCELLI"
+            }
+        ],
+        "codice": 1,
+        "slug": "piemonte",
+        "nome": "PIEMONTE"
+    },
+    {
+        "province": [
+            {
+                "codice": 9,
+                "slug": "bari",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "acquaviva-delle-fonti",
+                        "nome": "ACQUAVIVA DELLE FONTI"
+                    },
+                    {
+                        "codice": 40,
+                        "slug": "altamura",
+                        "nome": "ALTAMURA"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "casamassima",
+                        "nome": "CASAMASSIMA"
+                    },
+                    {
+                        "codice": 190,
+                        "slug": "conversano",
+                        "nome": "CONVERSANO"
+                    },
+                    {
+                        "codice": 280,
+                        "slug": "mola-di-bari",
+                        "nome": "MOLA DI BARI"
+                    },
+                    {
+                        "codice": 300,
+                        "slug": "monopoli",
+                        "nome": "MONOPOLI"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "noci",
+                        "nome": "NOCI"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "toritto",
+                        "nome": "TORITTO"
+                    }
+                ],
+                "nome": "BARI"
+            },
+            {
+                "codice": 106,
+                "slug": "barletta-andria-trani",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "barletta",
+                        "nome": "BARLETTA"
+                    },
+                    {
+                        "codice": 30,
+                        "slug": "bisceglie",
+                        "nome": "BISCEGLIE"
+                    },
+                    {
+                        "codice": 50,
+                        "slug": "margherita-di-savoia",
+                        "nome": "MARGHERITA DI SAVOIA"
+                    }
+                ],
+                "nome": "BARLETTA-ANDRIA-TRANI"
+            },
+            {
+                "codice": 16,
+                "slug": "brindisi",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "brindisi",
+                        "nome": "BRINDISI"
+                    },
+                    {
+                        "codice": 20,
+                        "slug": "carovigno",
+                        "nome": "CAROVIGNO"
+                    },
+                    {
+                        "codice": 80,
+                        "slug": "francavilla-fontana",
+                        "nome": "FRANCAVILLA FONTANA"
+                    },
+                    {
+                        "codice": 110,
+                        "slug": "oria",
+                        "nome": "ORIA"
+                    },
+                    {
+                        "codice": 130,
+                        "slug": "san-donaci",
+                        "nome": "SAN DONACI"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "san-pietro-vernotico",
+                        "nome": "SAN PIETRO VERNOTICO"
+                    },
+                    {
+                        "codice": 180,
+                        "slug": "torchiarolo",
+                        "nome": "TORCHIAROLO"
+                    },
+                    {
+                        "codice": 190,
+                        "slug": "torre-santa-susanna",
+                        "nome": "TORRE SANTA SUSANNA"
+                    }
+                ],
+                "nome": "BRINDISI"
+            },
+            {
+                "codice": 31,
+                "slug": "foggia",
+                "comuni": [
+                    {
+                        "codice": 30,
+                        "slug": "anzano-di-puglia",
+                        "nome": "ANZANO DI PUGLIA"
+                    },
+                    {
+                        "codice": 70,
+                        "slug": "bovino",
+                        "nome": "BOVINO"
+                    },
+                    {
+                        "codice": 91,
+                        "slug": "carapelle",
+                        "nome": "CARAPELLE"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "faeto",
+                        "nome": "FAETO"
+                    },
+                    {
+                        "codice": 360,
+                        "slug": "peschici",
+                        "nome": "PESCHICI"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "pietramontecorvino",
+                        "nome": "PIETRAMONTECORVINO"
+                    },
+                    {
+                        "codice": 460,
+                        "slug": "san-marco-la-catola",
+                        "nome": "SAN MARCO LA CATOLA"
+                    },
+                    {
+                        "codice": 470,
+                        "slug": "san-nicandro-garganico",
+                        "nome": "SAN NICANDRO GARGANICO"
+                    },
+                    {
+                        "codice": 480,
+                        "slug": "san-paolo-di-civitate",
+                        "nome": "SAN PAOLO DI CIVITATE"
+                    },
+                    {
+                        "codice": 570,
+                        "slug": "vico-del-gargano",
+                        "nome": "VICO DEL GARGANO"
+                    }
+                ],
+                "nome": "FOGGIA"
+            },
+            {
+                "codice": 41,
+                "slug": "lecce",
+                "comuni": [
+                    {
+                        "codice": 30,
+                        "slug": "alezio",
+                        "nome": "ALEZIO"
+                    },
+                    {
+                        "codice": 320,
+                        "slug": "giurdignano",
+                        "nome": "GIURDIGNANO"
+                    },
+                    {
+                        "codice": 480,
+                        "slug": "montesano-salentino",
+                        "nome": "MONTESANO SALENTINO"
+                    },
+                    {
+                        "codice": 650,
+                        "slug": "salve",
+                        "nome": "SALVE"
+                    },
+                    {
+                        "codice": 680,
+                        "slug": "san-donato-di-lecce",
+                        "nome": "SAN DONATO DI LECCE"
+                    },
+                    {
+                        "codice": 690,
+                        "slug": "sannicola",
+                        "nome": "SANNICOLA"
+                    },
+                    {
+                        "codice": 710,
+                        "slug": "santa-cesarea-terme",
+                        "nome": "SANTA CESAREA TERME"
+                    },
+                    {
+                        "codice": 770,
+                        "slug": "spongano",
+                        "nome": "SPONGANO"
+                    },
+                    {
+                        "codice": 780,
+                        "slug": "squinzano",
+                        "nome": "SQUINZANO"
+                    },
+                    {
+                        "codice": 920,
+                        "slug": "vernole",
+                        "nome": "VERNOLE"
+                    }
+                ],
+                "nome": "LECCE"
+            },
+            {
+                "codice": 78,
+                "slug": "taranto",
+                "comuni": [
+                    {
+                        "codice": 40,
+                        "slug": "crispiano",
+                        "nome": "CRISPIANO"
+                    },
+                    {
+                        "codice": 110,
+                        "slug": "lizzano",
+                        "nome": "LIZZANO"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "monteiasi",
+                        "nome": "MONTEIASI"
+                    },
+                    {
+                        "codice": 200,
+                        "slug": "palagianello",
+                        "nome": "PALAGIANELLO"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "pulsano",
+                        "nome": "PULSANO"
+                    },
+                    {
+                        "codice": 250,
+                        "slug": "san-marzano-di-san-giuseppe",
+                        "nome": "SAN MARZANO DI SAN GIUSEPPE"
+                    }
+                ],
+                "nome": "TARANTO"
+            }
+        ],
+        "codice": 16,
+        "slug": "puglia",
+        "nome": "PUGLIA"
+    },
+    {
+        "province": [
+            {
+                "codice": 17,
+                "slug": "cagliari",
+                "comuni": [
+                    {
+                        "codice": 30,
+                        "slug": "assemini",
+                        "nome": "ASSEMINI"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "decimomannu",
+                        "nome": "DECIMOMANNU"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "maracalagonis",
+                        "nome": "MARACALAGONIS"
+                    }
+                ],
+                "nome": "CAGLIARI"
+            },
+            {
+                "codice": 53,
+                "slug": "nuoro",
+                "comuni": [
+                    {
+                        "codice": 250,
+                        "slug": "galtelli",
+                        "nome": "GALTELLI'"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "irgoli",
+                        "nome": "IRGOLI"
+                    },
+                    {
+                        "codice": 330,
+                        "slug": "jerzu",
+                        "nome": "JERZU"
+                    },
+                    {
+                        "codice": 420,
+                        "slug": "macomer",
+                        "nome": "MACOMER"
+                    },
+                    {
+                        "codice": 450,
+                        "slug": "meana-sardo",
+                        "nome": "MEANA SARDO"
+                    },
+                    {
+                        "codice": 530,
+                        "slug": "oliena",
+                        "nome": "OLIENA"
+                    },
+                    {
+                        "codice": 810,
+                        "slug": "sindia",
+                        "nome": "SINDIA"
+                    }
+                ],
+                "nome": "NUORO"
+            },
+            {
+                "codice": 95,
+                "slug": "oristano",
+                "comuni": [
+                    {
+                        "codice": 40,
+                        "slug": "ales",
+                        "nome": "ALES"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "boroneddu",
+                        "nome": "BORONEDDU"
+                    },
+                    {
+                        "codice": 180,
+                        "slug": "cabras",
+                        "nome": "CABRAS"
+                    },
+                    {
+                        "codice": 276,
+                        "slug": "modolo",
+                        "nome": "MODOLO"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "narbolia",
+                        "nome": "NARBOLIA"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "nughedu-santa-vittoria",
+                        "nome": "NUGHEDU SANTA VITTORIA"
+                    },
+                    {
+                        "codice": 420,
+                        "slug": "pompu",
+                        "nome": "POMPU"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "riola-sardo",
+                        "nome": "RIOLA SARDO"
+                    },
+                    {
+                        "codice": 580,
+                        "slug": "simala",
+                        "nome": "SIMALA"
+                    },
+                    {
+                        "codice": 611,
+                        "slug": "soddi",
+                        "nome": "SODDI'"
+                    },
+                    {
+                        "codice": 730,
+                        "slug": "villa-verde",
+                        "nome": "VILLA VERDE"
+                    }
+                ],
+                "nome": "ORISTANO"
+            },
+            {
+                "codice": 73,
+                "slug": "sassari",
+                "comuni": [
+                    {
+                        "codice": 11,
+                        "slug": "aglientu",
+                        "nome": "AGLIENTU"
+                    },
+                    {
+                        "codice": 175,
+                        "slug": "budoni",
+                        "nome": "BUDONI"
+                    },
+                    {
+                        "codice": 240,
+                        "slug": "cheremule",
+                        "nome": "CHEREMULE"
+                    },
+                    {
+                        "codice": 250,
+                        "slug": "chiaramonti",
+                        "nome": "CHIARAMONTI"
+                    },
+                    {
+                        "codice": 531,
+                        "slug": "palau",
+                        "nome": "PALAU"
+                    },
+                    {
+                        "codice": 630,
+                        "slug": "sedini",
+                        "nome": "SEDINI"
+                    }
+                ],
+                "nome": "SASSARI"
+            },
+            {
+                "codice": 111,
+                "slug": "sud-sardegna",
+                "comuni": [
+                    {
+                        "codice": 120,
+                        "slug": "collinas",
+                        "nome": "COLLINAS"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "donori",
+                        "nome": "DONORI"
+                    },
+                    {
+                        "codice": 210,
+                        "slug": "fluminimaggiore",
+                        "nome": "FLUMINIMAGGIORE"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "furtei",
+                        "nome": "FURTEI"
+                    },
+                    {
+                        "codice": 270,
+                        "slug": "gesturi",
+                        "nome": "GESTURI"
+                    },
+                    {
+                        "codice": 350,
+                        "slug": "iglesias",
+                        "nome": "IGLESIAS"
+                    },
+                    {
+                        "codice": 510,
+                        "slug": "ortacesus",
+                        "nome": "ORTACESUS"
+                    },
+                    {
+                        "codice": 750,
+                        "slug": "senorbi",
+                        "nome": "SENORBI'"
+                    },
+                    {
+                        "codice": 810,
+                        "slug": "seui",
+                        "nome": "SEUI"
+                    },
+                    {
+                        "codice": 890,
+                        "slug": "teulada",
+                        "nome": "TEULADA"
+                    },
+                    {
+                        "codice": 1070,
+                        "slug": "villaspeciosa",
+                        "nome": "VILLASPECIOSA"
+                    }
+                ],
+                "nome": "SUD SARDEGNA"
+            }
+        ],
+        "codice": 20,
+        "slug": "sardegna",
+        "nome": "SARDEGNA"
+    },
+    {
+        "province": [
+            {
+                "codice": 1,
+                "slug": "agrigento",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "alessandria-della-rocca",
+                        "nome": "ALESSANDRIA DELLA ROCCA"
+                    },
+                    {
+                        "codice": 50,
+                        "slug": "burgio",
+                        "nome": "BURGIO"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "calamonaci",
+                        "nome": "CALAMONACI"
+                    },
+                    {
+                        "codice": 130,
+                        "slug": "castrofilippo",
+                        "nome": "CASTROFILIPPO"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "cianciana",
+                        "nome": "CIANCIANA"
+                    },
+                    {
+                        "codice": 180,
+                        "slug": "grotte",
+                        "nome": "GROTTE"
+                    },
+                    {
+                        "codice": 190,
+                        "slug": "joppolo-giancaxio",
+                        "nome": "JOPPOLO GIANCAXIO"
+                    },
+                    {
+                        "codice": 210,
+                        "slug": "licata",
+                        "nome": "LICATA"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "lucca-sicula",
+                        "nome": "LUCCA SICULA"
+                    },
+                    {
+                        "codice": 230,
+                        "slug": "menfi",
+                        "nome": "MENFI"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "ravanusa",
+                        "nome": "RAVANUSA"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "sambuca-di-sicilia",
+                        "nome": "SAMBUCA DI SICILIA"
+                    },
+                    {
+                        "codice": 360,
+                        "slug": "san-giovanni-gemini",
+                        "nome": "SAN GIOVANNI GEMINI"
+                    },
+                    {
+                        "codice": 380,
+                        "slug": "santangelo-muxaro",
+                        "nome": "SANT'ANGELO MUXARO"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "santo-stefano-quisquina",
+                        "nome": "SANTO STEFANO QUISQUINA"
+                    }
+                ],
+                "nome": "AGRIGENTO"
+            },
+            {
+                "codice": 18,
+                "slug": "caltanissetta",
+                "comuni": [
+                    {
+                        "codice": 60,
+                        "slug": "delia",
+                        "nome": "DELIA"
+                    },
+                    {
+                        "codice": 100,
+                        "slug": "milena",
+                        "nome": "MILENA"
+                    },
+                    {
+                        "codice": 110,
+                        "slug": "montedoro",
+                        "nome": "MONTEDORO"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "riesi",
+                        "nome": "RIESI"
+                    },
+                    {
+                        "codice": 200,
+                        "slug": "sutera",
+                        "nome": "SUTERA"
+                    }
+                ],
+                "nome": "CALTANISSETTA"
+            },
+            {
+                "codice": 21,
+                "slug": "catania",
+                "comuni": [
+                    {
+                        "codice": 50,
+                        "slug": "aci-santantonio",
+                        "nome": "ACI SANT'ANTONIO"
+                    },
+                    {
+                        "codice": 40,
+                        "slug": "acireale",
+                        "nome": "ACIREALE"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "adrano",
+                        "nome": "ADRANO"
+                    },
+                    {
+                        "codice": 70,
+                        "slug": "belpasso",
+                        "nome": "BELPASSO"
+                    },
+                    {
+                        "codice": 80,
+                        "slug": "biancavilla",
+                        "nome": "BIANCAVILLA"
+                    },
+                    {
+                        "codice": 120,
+                        "slug": "camporotondo-etneo",
+                        "nome": "CAMPOROTONDO ETNEO"
+                    },
+                    {
+                        "codice": 130,
+                        "slug": "castel-di-iudica",
+                        "nome": "CASTEL DI IUDICA"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "catania",
+                        "nome": "CATANIA"
+                    },
+                    {
+                        "codice": 190,
+                        "slug": "gravina-di-catania",
+                        "nome": "GRAVINA DI CATANIA"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "maletto",
+                        "nome": "MALETTO"
+                    },
+                    {
+                        "codice": 240,
+                        "slug": "mascalucia",
+                        "nome": "MASCALUCIA"
+                    },
+                    {
+                        "codice": 260,
+                        "slug": "mineo",
+                        "nome": "MINEO"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "piedimonte-etneo",
+                        "nome": "PIEDIMONTE ETNEO"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "randazzo",
+                        "nome": "RANDAZZO"
+                    },
+                    {
+                        "codice": 380,
+                        "slug": "riposto",
+                        "nome": "RIPOSTO"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "san-cono",
+                        "nome": "SAN CONO"
+                    },
+                    {
+                        "codice": 410,
+                        "slug": "san-gregorio-di-catania",
+                        "nome": "SAN GREGORIO DI CATANIA"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "san-pietro-clarenza",
+                        "nome": "SAN PIETRO CLARENZA"
+                    },
+                    {
+                        "codice": 450,
+                        "slug": "santalfio",
+                        "nome": "SANT'ALFIO"
+                    },
+                    {
+                        "codice": 470,
+                        "slug": "santa-venerina",
+                        "nome": "SANTA VENERINA"
+                    },
+                    {
+                        "codice": 501,
+                        "slug": "valverde",
+                        "nome": "VALVERDE"
+                    },
+                    {
+                        "codice": 510,
+                        "slug": "viagrande",
+                        "nome": "VIAGRANDE"
+                    }
+                ],
+                "nome": "CATANIA"
+            },
+            {
+                "codice": 28,
+                "slug": "enna",
+                "comuni": [
+                    {
+                        "codice": 30,
+                        "slug": "assoro",
+                        "nome": "ASSORO"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "catenanuova",
+                        "nome": "CATENANUOVA"
+                    },
+                    {
+                        "codice": 80,
+                        "slug": "cerami",
+                        "nome": "CERAMI"
+                    },
+                    {
+                        "codice": 100,
+                        "slug": "gagliano-castelferrato",
+                        "nome": "GAGLIANO CASTELFERRATO"
+                    },
+                    {
+                        "codice": 110,
+                        "slug": "leonforte",
+                        "nome": "LEONFORTE"
+                    },
+                    {
+                        "codice": 140,
+                        "slug": "piazza-armerina",
+                        "nome": "PIAZZA ARMERINA"
+                    },
+                    {
+                        "codice": 180,
+                        "slug": "troina",
+                        "nome": "TROINA"
+                    }
+                ],
+                "nome": "ENNA"
+            },
+            {
+                "codice": 48,
+                "slug": "messina",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "ali",
+                        "nome": "ALI'"
+                    },
+                    {
+                        "codice": 30,
+                        "slug": "ali-terme",
+                        "nome": "ALI' TERME"
+                    },
+                    {
+                        "codice": 80,
+                        "slug": "capizzi",
+                        "nome": "CAPIZZI"
+                    },
+                    {
+                        "codice": 120,
+                        "slug": "casalvecchio-siculo",
+                        "nome": "CASALVECCHIO SICULO"
+                    },
+                    {
+                        "codice": 130,
+                        "slug": "castel-di-lucio",
+                        "nome": "CASTEL DI LUCIO"
+                    },
+                    {
+                        "codice": 140,
+                        "slug": "castellumberto",
+                        "nome": "CASTELL'UMBERTO"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "floresta",
+                        "nome": "FLORESTA"
+                    },
+                    {
+                        "codice": 230,
+                        "slug": "fondachelli-fantina",
+                        "nome": "FONDACHELLI-FANTINA"
+                    },
+                    {
+                        "codice": 260,
+                        "slug": "frazzano",
+                        "nome": "FRAZZANO'"
+                    },
+                    {
+                        "codice": 270,
+                        "slug": "furci-siculo",
+                        "nome": "FURCI SICULO"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "gualtieri-sicamino",
+                        "nome": "GUALTIERI SICAMINO'"
+                    },
+                    {
+                        "codice": 470,
+                        "slug": "messina",
+                        "nome": "MESSINA"
+                    },
+                    {
+                        "codice": 490,
+                        "slug": "militello-rosmarino",
+                        "nome": "MILITELLO ROSMARINO"
+                    },
+                    {
+                        "codice": 520,
+                        "slug": "moio-alcantara",
+                        "nome": "MOIO ALCANTARA"
+                    },
+                    {
+                        "codice": 530,
+                        "slug": "monforte-san-giorgio",
+                        "nome": "MONFORTE SAN GIORGIO"
+                    },
+                    {
+                        "codice": 540,
+                        "slug": "mongiuffi-melia",
+                        "nome": "MONGIUFFI MELIA"
+                    },
+                    {
+                        "codice": 550,
+                        "slug": "montagnareale",
+                        "nome": "MONTAGNAREALE"
+                    },
+                    {
+                        "codice": 570,
+                        "slug": "motta-camastra",
+                        "nome": "MOTTA CAMASTRA"
+                    },
+                    {
+                        "codice": 630,
+                        "slug": "pace-del-mela",
+                        "nome": "PACE DEL MELA"
+                    },
+                    {
+                        "codice": 690,
+                        "slug": "reitano",
+                        "nome": "REITANO"
+                    },
+                    {
+                        "codice": 700,
+                        "slug": "roccafiorita",
+                        "nome": "ROCCAFIORITA"
+                    },
+                    {
+                        "codice": 710,
+                        "slug": "roccalumera",
+                        "nome": "ROCCALUMERA"
+                    },
+                    {
+                        "codice": 720,
+                        "slug": "roccavaldina",
+                        "nome": "ROCCAVALDINA"
+                    },
+                    {
+                        "codice": 760,
+                        "slug": "san-filippo-del-mela",
+                        "nome": "SAN FILIPPO DEL MELA"
+                    },
+                    {
+                        "codice": 770,
+                        "slug": "san-fratello",
+                        "nome": "SAN FRATELLO"
+                    },
+                    {
+                        "codice": 890,
+                        "slug": "san-teodoro",
+                        "nome": "SAN TEODORO"
+                    },
+                    {
+                        "codice": 830,
+                        "slug": "santagata-di-militello",
+                        "nome": "SANT'AGATA DI MILITELLO"
+                    },
+                    {
+                        "codice": 820,
+                        "slug": "santa-domenica-vittoria",
+                        "nome": "SANTA DOMENICA VITTORIA"
+                    },
+                    {
+                        "codice": 850,
+                        "slug": "santa-lucia-del-mela",
+                        "nome": "SANTA LUCIA DEL MELA"
+                    },
+                    {
+                        "codice": 920,
+                        "slug": "scaletta-zanclea",
+                        "nome": "SCALETTA ZANCLEA"
+                    },
+                    {
+                        "codice": 950,
+                        "slug": "taormina",
+                        "nome": "TAORMINA"
+                    },
+                    {
+                        "codice": 951,
+                        "slug": "terme-vigliatore",
+                        "nome": "TERME VIGLIATORE"
+                    },
+                    {
+                        "codice": 980,
+                        "slug": "tripi",
+                        "nome": "TRIPI"
+                    },
+                    {
+                        "codice": 990,
+                        "slug": "tusa",
+                        "nome": "TUSA"
+                    },
+                    {
+                        "codice": 1000,
+                        "slug": "ucria",
+                        "nome": "UCRIA"
+                    },
+                    {
+                        "codice": 1010,
+                        "slug": "valdina",
+                        "nome": "VALDINA"
+                    }
+                ],
+                "nome": "MESSINA"
+            },
+            {
+                "codice": 55,
+                "slug": "palermo",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "alimena",
+                        "nome": "ALIMENA"
+                    },
+                    {
+                        "codice": 80,
+                        "slug": "baucina",
+                        "nome": "BAUCINA"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "campofelice-di-roccella",
+                        "nome": "CAMPOFELICE DI ROCCELLA"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "campofiorito",
+                        "nome": "CAMPOFIORITO"
+                    },
+                    {
+                        "codice": 180,
+                        "slug": "capaci",
+                        "nome": "CAPACI"
+                    },
+                    {
+                        "codice": 210,
+                        "slug": "casteldaccia",
+                        "nome": "CASTELDACCIA"
+                    },
+                    {
+                        "codice": 230,
+                        "slug": "castronovo-di-sicilia",
+                        "nome": "CASTRONOVO DI SICILIA"
+                    },
+                    {
+                        "codice": 240,
+                        "slug": "cefala-diana",
+                        "nome": "CEFALA' DIANA"
+                    },
+                    {
+                        "codice": 260,
+                        "slug": "cerda",
+                        "nome": "CERDA"
+                    },
+                    {
+                        "codice": 300,
+                        "slug": "collesano",
+                        "nome": "COLLESANO"
+                    },
+                    {
+                        "codice": 310,
+                        "slug": "contessa-entellina",
+                        "nome": "CONTESSA ENTELLINA"
+                    },
+                    {
+                        "codice": 350,
+                        "slug": "geraci-siculo",
+                        "nome": "GERACI SICULO"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "giuliana",
+                        "nome": "GIULIANA"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "gratteri",
+                        "nome": "GRATTERI"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "lercara-friddi",
+                        "nome": "LERCARA FRIDDI"
+                    },
+                    {
+                        "codice": 440,
+                        "slug": "marineo",
+                        "nome": "MARINEO"
+                    },
+                    {
+                        "codice": 490,
+                        "slug": "montemaggiore-belsito",
+                        "nome": "MONTEMAGGIORE BELSITO"
+                    },
+                    {
+                        "codice": 520,
+                        "slug": "partinico",
+                        "nome": "PARTINICO"
+                    },
+                    {
+                        "codice": 600,
+                        "slug": "roccapalumba",
+                        "nome": "ROCCAPALUMBA"
+                    },
+                    {
+                        "codice": 660,
+                        "slug": "sciara",
+                        "nome": "SCIARA"
+                    },
+                    {
+                        "codice": 670,
+                        "slug": "sclafani-bagni",
+                        "nome": "SCLAFANI BAGNI"
+                    },
+                    {
+                        "codice": 700,
+                        "slug": "torretta",
+                        "nome": "TORRETTA"
+                    },
+                    {
+                        "codice": 720,
+                        "slug": "ustica",
+                        "nome": "USTICA"
+                    },
+                    {
+                        "codice": 740,
+                        "slug": "ventimiglia-di-sicilia",
+                        "nome": "VENTIMIGLIA DI SICILIA"
+                    },
+                    {
+                        "codice": 750,
+                        "slug": "vicari",
+                        "nome": "VICARI"
+                    },
+                    {
+                        "codice": 770,
+                        "slug": "villafrati",
+                        "nome": "VILLAFRATI"
+                    }
+                ],
+                "nome": "PALERMO"
+            },
+            {
+                "codice": 65,
+                "slug": "ragusa",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "acate",
+                        "nome": "ACATE"
+                    },
+                    {
+                        "codice": 30,
+                        "slug": "comiso",
+                        "nome": "COMISO"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "modica",
+                        "nome": "MODICA"
+                    },
+                    {
+                        "codice": 90,
+                        "slug": "ragusa",
+                        "nome": "RAGUSA"
+                    }
+                ],
+                "nome": "RAGUSA"
+            },
+            {
+                "codice": 76,
+                "slug": "siracusa",
+                "comuni": [
+                    {
+                        "codice": 30,
+                        "slug": "buccheri",
+                        "nome": "BUCCHERI"
+                    },
+                    {
+                        "codice": 40,
+                        "slug": "buscemi",
+                        "nome": "BUSCEMI"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "carlentini",
+                        "nome": "CARLENTINI"
+                    },
+                    {
+                        "codice": 100,
+                        "slug": "francofonte",
+                        "nome": "FRANCOFONTE"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "palazzolo-acreide",
+                        "nome": "PALAZZOLO ACREIDE"
+                    },
+                    {
+                        "codice": 151,
+                        "slug": "portopalo-di-capo-passero",
+                        "nome": "PORTOPALO DI CAPO PASSERO"
+                    },
+                    {
+                        "codice": 152,
+                        "slug": "priolo-gargallo",
+                        "nome": "PRIOLO GARGALLO"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "rosolini",
+                        "nome": "ROSOLINI"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "siracusa",
+                        "nome": "SIRACUSA"
+                    }
+                ],
+                "nome": "SIRACUSA"
+            },
+            {
+                "codice": 82,
+                "slug": "trapani",
+                "comuni": [
+                    {
+                        "codice": 20,
+                        "slug": "buseto-palizzolo",
+                        "nome": "BUSETO PALIZZOLO"
+                    },
+                    {
+                        "codice": 60,
+                        "slug": "castellammare-del-golfo",
+                        "nome": "CASTELLAMMARE DEL GOLFO"
+                    },
+                    {
+                        "codice": 80,
+                        "slug": "custonaci",
+                        "nome": "CUSTONACI"
+                    },
+                    {
+                        "codice": 100,
+                        "slug": "favignana",
+                        "nome": "FAVIGNANA"
+                    },
+                    {
+                        "codice": 140,
+                        "slug": "paceco",
+                        "nome": "PACECO"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "pantelleria",
+                        "nome": "PANTELLERIA"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "partanna",
+                        "nome": "PARTANNA"
+                    },
+                    {
+                        "codice": 170,
+                        "slug": "poggioreale",
+                        "nome": "POGGIOREALE"
+                    },
+                    {
+                        "codice": 201,
+                        "slug": "san-vito-lo-capo",
+                        "nome": "SAN VITO LO CAPO"
+                    },
+                    {
+                        "codice": 200,
+                        "slug": "santa-ninfa",
+                        "nome": "SANTA NINFA"
+                    },
+                    {
+                        "codice": 210,
+                        "slug": "trapani",
+                        "nome": "TRAPANI"
+                    },
+                    {
+                        "codice": 211,
+                        "slug": "valderice",
+                        "nome": "VALDERICE"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "vita",
+                        "nome": "VITA"
+                    }
+                ],
+                "nome": "TRAPANI"
+            }
+        ],
+        "codice": 19,
+        "slug": "sicilia",
+        "nome": "Sicilia"
+    },
+    {
+        "province": [
+            {
+                "codice": 5,
+                "slug": "arezzo",
+                "comuni": [
+                    {
+                        "codice": 60,
+                        "slug": "capolona",
+                        "nome": "CAPOLONA"
+                    },
+                    {
+                        "codice": 70,
+                        "slug": "caprese-michelangelo",
+                        "nome": "CAPRESE MICHELANGELO"
+                    }
+                ],
+                "nome": "AREZZO"
+            },
+            {
+                "codice": 30,
+                "slug": "firenze",
+                "comuni": [
+                    {
+                        "codice": 60,
+                        "slug": "campi-bisenzio",
+                        "nome": "CAMPI BISENZIO"
+                    },
+                    {
+                        "codice": 220,
+                        "slug": "impruneta",
+                        "nome": "IMPRUNETA"
+                    },
+                    {
+                        "codice": 260,
+                        "slug": "marradi",
+                        "nome": "MARRADI"
+                    }
+                ],
+                "nome": "FIRENZE"
+            },
+            {
+                "codice": 36,
+                "slug": "grosseto",
+                "comuni": [
+                    {
+                        "codice": 90,
+                        "slug": "gavorrano",
+                        "nome": "GAVORRANO"
+                    },
+                    {
+                        "codice": 120,
+                        "slug": "magliano-in-toscana",
+                        "nome": "MAGLIANO IN TOSCANA"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "monte-argentario",
+                        "nome": "MONTE ARGENTARIO"
+                    },
+                    {
+                        "codice": 231,
+                        "slug": "semproniano",
+                        "nome": "SEMPRONIANO"
+                    }
+                ],
+                "nome": "GROSSETO"
+            },
+            {
+                "codice": 42,
+                "slug": "livorno",
+                "comuni": [
+                    {
+                        "codice": 50,
+                        "slug": "capraia-isola",
+                        "nome": "CAPRAIA ISOLA"
+                    },
+                    {
+                        "codice": 155,
+                        "slug": "rio",
+                        "nome": "RIO"
+                    }
+                ],
+                "nome": "LIVORNO"
+            },
+            {
+                "codice": 43,
+                "slug": "lucca",
+                "comuni": [
+                    {
+                        "codice": 240,
+                        "slug": "pietrasanta",
+                        "nome": "PIETRASANTA"
+                    }
+                ],
+                "nome": "LUCCA"
+            },
+            {
+                "codice": 46,
+                "slug": "massa-carrara",
+                "comuni": [
+                    {
+                        "codice": 100,
+                        "slug": "massa",
+                        "nome": "MASSA"
+                    }
+                ],
+                "nome": "MASSA-CARRARA"
+            },
+            {
+                "codice": 62,
+                "slug": "pisa",
+                "comuni": [
+                    {
+                        "codice": 190,
+                        "slug": "montecatini-val-di-cecina",
+                        "nome": "MONTECATINI VAL DI CECINA"
+                    },
+                    {
+                        "codice": 250,
+                        "slug": "pisa",
+                        "nome": "PISA"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "santa-maria-a-monte",
+                        "nome": "SANTA MARIA A MONTE"
+                    }
+                ],
+                "nome": "PISA"
+            },
+            {
+                "codice": 63,
+                "slug": "pistoia",
+                "comuni": [
+                    {
+                        "codice": 120,
+                        "slug": "pescia",
+                        "nome": "PESCIA"
+                    },
+                    {
+                        "codice": 160,
+                        "slug": "ponte-buggianese",
+                        "nome": "PONTE BUGGIANESE"
+                    }
+                ],
+                "nome": "PISTOIA"
+            },
+            {
+                "codice": 100,
+                "slug": "prato",
+                "comuni": [
+                    {
+                        "codice": 40,
+                        "slug": "poggio-a-caiano",
+                        "nome": "POGGIO A CAIANO"
+                    }
+                ],
+                "nome": "PRATO"
+            },
+            {
+                "codice": 75,
+                "slug": "siena",
+                "comuni": [
+                    {
+                        "codice": 320,
+                        "slug": "siena",
+                        "nome": "SIENA"
+                    }
+                ],
+                "nome": "SIENA"
+            }
+        ],
+        "codice": 9,
+        "slug": "toscana",
+        "nome": "TOSCANA"
+    },
+    {
+        "province": [
+            {
+                "codice": 58,
+                "slug": "perugia",
+                "comuni": [
+                    {
+                        "codice": 60,
+                        "slug": "cannara",
+                        "nome": "CANNARA"
+                    },
+                    {
+                        "codice": 150,
+                        "slug": "corciano",
+                        "nome": "CORCIANO"
+                    },
+                    {
+                        "codice": 320,
+                        "slug": "monte-santa-maria-tiberina",
+                        "nome": "MONTE SANTA MARIA TIBERINA"
+                    },
+                    {
+                        "codice": 380,
+                        "slug": "passignano-sul-trasimeno",
+                        "nome": "PASSIGNANO SUL TRASIMENO"
+                    },
+                    {
+                        "codice": 510,
+                        "slug": "spoleto",
+                        "nome": "SPOLETO"
+                    },
+                    {
+                        "codice": 540,
+                        "slug": "trevi",
+                        "nome": "TREVI"
+                    },
+                    {
+                        "codice": 560,
+                        "slug": "umbertide",
+                        "nome": "UMBERTIDE"
+                    }
+                ],
+                "nome": "PERUGIA"
+            },
+            {
+                "codice": 80,
+                "slug": "terni",
+                "comuni": [
+                    {
+                        "codice": 320,
+                        "slug": "terni",
+                        "nome": "TERNI"
+                    }
+                ],
+                "nome": "TERNI"
+            }
+        ],
+        "codice": 10,
+        "slug": "umbria",
+        "nome": "UMBRIA"
+    },
+    {
+        "province": [
+            {
+                "codice": 10,
+                "slug": "belluno",
+                "comuni": [
+                    {
+                        "codice": 81,
+                        "slug": "canale-dagordo",
+                        "nome": "CANALE D'AGORDO"
+                    },
+                    {
+                        "codice": 100,
+                        "slug": "cencenighe-agordino",
+                        "nome": "CENCENIGHE AGORDINO"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "pieve-di-cadore",
+                        "nome": "PIEVE DI CADORE"
+                    },
+                    {
+                        "codice": 560,
+                        "slug": "sospirolo",
+                        "nome": "SOSPIROLO"
+                    }
+                ],
+                "nome": "BELLUNO"
+            },
+            {
+                "codice": 54,
+                "slug": "padova",
+                "comuni": [
+                    {
+                        "codice": 125,
+                        "slug": "borgo-veneto",
+                        "nome": "BORGO VENETO"
+                    },
+                    {
+                        "codice": 280,
+                        "slug": "casalserugo",
+                        "nome": "CASALSERUGO"
+                    },
+                    {
+                        "codice": 330,
+                        "slug": "codevigo",
+                        "nome": "CODEVIGO"
+                    },
+                    {
+                        "codice": 400,
+                        "slug": "galzignano-terme",
+                        "nome": "GALZIGNANO TERME"
+                    },
+                    {
+                        "codice": 480,
+                        "slug": "masera-di-padova",
+                        "nome": "MASERA' DI PADOVA"
+                    },
+                    {
+                        "codice": 520,
+                        "slug": "megliadino-san-vitale",
+                        "nome": "MEGLIADINO SAN VITALE"
+                    },
+                    {
+                        "codice": 540,
+                        "slug": "mestrino",
+                        "nome": "MESTRINO"
+                    },
+                    {
+                        "codice": 650,
+                        "slug": "piove-di-sacco",
+                        "nome": "PIOVE DI SACCO"
+                    },
+                    {
+                        "codice": 870,
+                        "slug": "solesino",
+                        "nome": "SOLESINO"
+                    },
+                    {
+                        "codice": 1040,
+                        "slug": "villanova-di-camposampiero",
+                        "nome": "VILLANOVA DI CAMPOSAMPIERO"
+                    }
+                ],
+                "nome": "PADOVA"
+            },
+            {
+                "codice": 71,
+                "slug": "rovigo",
+                "comuni": [
+                    {
+                        "codice": 10,
+                        "slug": "adria",
+                        "nome": "ADRIA"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "porto-tolle",
+                        "nome": "PORTO TOLLE"
+                    },
+                    {
+                        "codice": 470,
+                        "slug": "trecenta",
+                        "nome": "TRECENTA"
+                    }
+                ],
+                "nome": "ROVIGO"
+            },
+            {
+                "codice": 84,
+                "slug": "treviso",
+                "comuni": [
+                    {
+                        "codice": 130,
+                        "slug": "castello-di-godego",
+                        "nome": "CASTELLO DI GODEGO"
+                    },
+                    {
+                        "codice": 340,
+                        "slug": "istrana",
+                        "nome": "ISTRANA"
+                    },
+                    {
+                        "codice": 370,
+                        "slug": "mareno-di-piave",
+                        "nome": "MARENO DI PIAVE"
+                    },
+                    {
+                        "codice": 470,
+                        "slug": "moriago-della-battaglia",
+                        "nome": "MORIAGO DELLA BATTAGLIA"
+                    },
+                    {
+                        "codice": 480,
+                        "slug": "motta-di-livenza",
+                        "nome": "MOTTA DI LIVENZA"
+                    },
+                    {
+                        "codice": 490,
+                        "slug": "nervesa-della-battaglia",
+                        "nome": "NERVESA DELLA BATTAGLIA"
+                    },
+                    {
+                        "codice": 700,
+                        "slug": "san-biagio-di-callalta",
+                        "nome": "SAN BIAGIO DI CALLALTA"
+                    },
+                    {
+                        "codice": 850,
+                        "slug": "treviso",
+                        "nome": "TREVISO"
+                    },
+                    {
+                        "codice": 880,
+                        "slug": "vedelago",
+                        "nome": "VEDELAGO"
+                    }
+                ],
+                "nome": "TREVISO"
+            },
+            {
+                "codice": 87,
+                "slug": "venezia",
+                "comuni": [
+                    {
+                        "codice": 210,
+                        "slug": "martellago",
+                        "nome": "MARTELLAGO"
+                    },
+                    {
+                        "codice": 280,
+                        "slug": "pianiga",
+                        "nome": "PIANIGA"
+                    },
+                    {
+                        "codice": 330,
+                        "slug": "san-dona-di-piave",
+                        "nome": "SAN DONA' DI PIAVE"
+                    },
+                    {
+                        "codice": 360,
+                        "slug": "san-stino-di-livenza",
+                        "nome": "SAN STINO DI LIVENZA"
+                    }
+                ],
+                "nome": "VENEZIA"
+            },
+            {
+                "codice": 89,
+                "slug": "verona",
+                "comuni": [
+                    {
+                        "codice": 150,
+                        "slug": "bussolengo",
+                        "nome": "BUSSOLENGO"
+                    },
+                    {
+                        "codice": 210,
+                        "slug": "castel-dazzano",
+                        "nome": "CASTEL D'AZZANO"
+                    },
+                    {
+                        "codice": 430,
+                        "slug": "lazise",
+                        "nome": "LAZISE"
+                    },
+                    {
+                        "codice": 730,
+                        "slug": "san-mauro-di-saline",
+                        "nome": "SAN MAURO DI SALINE"
+                    },
+                    {
+                        "codice": 820,
+                        "slug": "sona",
+                        "nome": "SONA"
+                    },
+                    {
+                        "codice": 950,
+                        "slug": "villafranca-di-verona",
+                        "nome": "VILLAFRANCA DI VERONA"
+                    }
+                ],
+                "nome": "VERONA"
+            },
+            {
+                "codice": 90,
+                "slug": "vicenza",
+                "comuni": [
+                    {
+                        "codice": 112,
+                        "slug": "barbarano-mossano",
+                        "nome": "BARBARANO MOSSANO"
+                    },
+                    {
+                        "codice": 130,
+                        "slug": "bolzano-vicentino",
+                        "nome": "BOLZANO VICENTINO"
+                    },
+                    {
+                        "codice": 280,
+                        "slug": "castelgomberto",
+                        "nome": "CASTELGOMBERTO"
+                    },
+                    {
+                        "codice": 290,
+                        "slug": "chiampo",
+                        "nome": "CHIAMPO"
+                    },
+                    {
+                        "codice": 390,
+                        "slug": "enego",
+                        "nome": "ENEGO"
+                    },
+                    {
+                        "codice": 570,
+                        "slug": "marostica",
+                        "nome": "MAROSTICA"
+                    },
+                    {
+                        "codice": 830,
+                        "slug": "quinto-vicentino",
+                        "nome": "QUINTO VICENTINO"
+                    },
+                    {
+                        "codice": 840,
+                        "slug": "recoaro-terme",
+                        "nome": "RECOARO TERME"
+                    },
+                    {
+                        "codice": 880,
+                        "slug": "rossano-veneto",
+                        "nome": "ROSSANO VENETO"
+                    },
+                    {
+                        "codice": 1160,
+                        "slug": "vicenza",
+                        "nome": "VICENZA"
+                    }
+                ],
+                "nome": "VICENZA"
+            }
+        ],
+        "codice": 5,
+        "slug": "veneto",
+        "nome": "VENETO"
+    }
+]

@@ -17,9 +17,7 @@ class Maps extends Component {
       // mapsToLoad order is important, from innermost to outermost!
       this.mapsToLoad = ['circoscrizioni', 'plurinominale', 'uninominale'];
       this.defaultCoords = [12.338021942602374,41.84718933156246];
-      //this.parentConfigPath = props.remotePath+'/static/json';
-      //this.parentConfigPath = '/wp-content/themes/ifq-2019/_build/elezioni/svgmap/public/mapdata/';
-      this.parentConfigPath = props.remotePath+'/public/mapdata/';
+      this.parentConfigPath = props.remotePath+'/static/json';
       this.maxZoomLevel = 2;
       this.initConfig={
          loading:true,
@@ -77,12 +75,10 @@ class Maps extends Component {
       let fileName;
       if(map === 'plurinominale') fileName = 'pluri_to_circoscrizione';
       if(map === 'uninominale') fileName = 'uni_to_pluri';
-      //let configPath = `${this.parentConfigPath}/${fileName}_${branch}.json`;
-      let configPath = `${this.parentConfigPath}/${branch}/${fileName}.json`;
+      let configPath = `${this.parentConfigPath}/${fileName}_${branch}.json`;
       // resolve promise with formatted map data and save in localstorage for repeated views
       return new Promise((resolve, reject)=>{
-         //const getMap = ()=> request.get(this.props.mapPath+'/'+map+'_'+branch+'.json');
-         const getMap = ()=> request.get(this.props.mapPath +'/'+branch+'/'+map+'.json');
+         const getMap = ()=> request.get(this.props.mapPath+'/'+map+'_'+branch+'.json');
          const getShapeParents = ()=> map!=='circoscrizioni' ? request.get(configPath): {data:''};
          request.all([getMap(), getShapeParents()]).then(request.spread((resp, parents)=>{
             const formattedData = this.formatMapData(resp.data, parents.data, branch);

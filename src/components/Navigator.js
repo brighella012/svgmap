@@ -25,7 +25,7 @@ class Navigator extends Component {
          <span className='clickable' onClick={()=>navBack(0, navigator.circoscrizione)}> Circoscrizioni </span>
          }
          {navigator.circoscrizione && 
-         <span> &raquo;&nbsp;
+         <span> &rarr;&nbsp;
             <span 
                className={navigator.plurinominale && 'clickable'}  
                onClick={()=>navBack(zoomLevel === 1 ? 0 : zoomLevel-1, navigator.circoscrizione)}>
@@ -34,7 +34,7 @@ class Navigator extends Component {
          </span>
          }
          {navigator.plurinominale && 
-         <span> &raquo;&nbsp;  
+         <span> &rarr;&nbsp;  
             <span 
                className={navigator.uninominale && 'clickable'} 
                onClick={()=>navBack(zoomLevel === 2 ? 0 : zoomLevel-1, navigator.plurinominale)}>
@@ -42,7 +42,7 @@ class Navigator extends Component {
             </span>
          </span>}
          {navigator.uninominale && 
-         <span> &raquo;&nbsp;  
+         <span> &rarr;&nbsp;  
             <span onClick={()=>navBack(0, null)}>
                {navigator.uninominale} 
             </span>

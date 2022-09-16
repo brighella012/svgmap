@@ -1,0 +1,3802 @@
+[
+    {
+        "url": "/elezioni-amministrative-2018/risultati/65/acate.html",
+        "value": "ACATE",
+        "label": "ACATE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/acceglio.html",
+        "value": "ACCEGLIO",
+        "label": "ACCEGLIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/aci-santantonio.html",
+        "value": "ACI SANT'ANTONIO",
+        "label": "ACI SANT'ANTONIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/acireale.html",
+        "value": "ACIREALE",
+        "label": "ACIREALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/9/acquaviva-delle-fonti.html",
+        "value": "ACQUAVIVA DELLE FONTI",
+        "label": "ACQUAVIVA DELLE FONTI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/adrano.html",
+        "value": "ADRANO",
+        "label": "ADRANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/71/adria.html",
+        "value": "ADRIA",
+        "label": "ADRIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/affile.html",
+        "value": "AFFILE",
+        "label": "AFFILE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/afragola.html",
+        "value": "AFRAGOLA",
+        "label": "AFRAGOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/73/aglientu.html",
+        "value": "AGLIENTU",
+        "label": "AGLIENTU"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/agnosine.html",
+        "value": "AGNOSINE",
+        "label": "AGNOSINE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/86/agra.html",
+        "value": "AGRA",
+        "label": "AGRA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/57/alagna.html",
+        "value": "ALAGNA",
+        "label": "ALAGNA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/74/alassio.html",
+        "value": "ALASSIO",
+        "label": "ALASSIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/alba-adriatica.html",
+        "value": "ALBA ADRIATICA",
+        "label": "ALBA ADRIATICA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/77/albosaggia.html",
+        "value": "ALBOSAGGIA",
+        "label": "ALBOSAGGIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/ales.html",
+        "value": "ALES",
+        "label": "ALES"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/alessandria-della-rocca.html",
+        "value": "ALESSANDRIA DELLA ROCCA",
+        "label": "ALESSANDRIA DELLA ROCCA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/alezio.html",
+        "value": "ALEZIO",
+        "label": "ALEZIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/ali.html",
+        "value": "ALI'",
+        "label": "ALI'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/ali-terme.html",
+        "value": "ALI' TERME",
+        "label": "ALI' TERME"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/alife.html",
+        "value": "ALIFE",
+        "label": "ALIFE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/alimena.html",
+        "value": "ALIMENA",
+        "label": "ALIMENA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/2/alluvioni-piovera.html",
+        "value": "ALLUVIONI PIOVERA",
+        "label": "ALLUVIONI PIOVERA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/61/alta-val-tidone.html",
+        "value": "ALTA VAL TIDONE",
+        "label": "ALTA VAL TIDONE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/9/altamura.html",
+        "value": "ALTAMURA",
+        "label": "ALTAMURA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/105/altidona.html",
+        "value": "ALTIDONA",
+        "label": "ALTIDONA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/alto.html",
+        "value": "ALTO",
+        "label": "ALTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/alto-sermenza.html",
+        "value": "ALTO SERMENZA",
+        "label": "ALTO SERMENZA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/amaseno.html",
+        "value": "AMASENO",
+        "label": "AMASENO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/52/ameno.html",
+        "value": "AMENO",
+        "label": "AMENO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/anagni.html",
+        "value": "ANAGNI",
+        "label": "ANAGNI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/3/ancona.html",
+        "value": "ANCONA",
+        "label": "ANCONA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/anzano-di-puglia.html",
+        "value": "ANZANO DI PUGLIA",
+        "label": "ANZANO DI PUGLIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/anzio.html",
+        "value": "ANZIO",
+        "label": "ANZIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/40/aprilia.html",
+        "value": "APRILIA",
+        "label": "APRILIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/aquara.html",
+        "value": "AQUARA",
+        "label": "AQUARA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/aquilonia.html",
+        "value": "AQUILONIA",
+        "label": "AQUILONIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/aquino.html",
+        "value": "AQUINO",
+        "label": "AQUINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/arese.html",
+        "value": "ARESE",
+        "label": "ARESE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/arpaise.html",
+        "value": "ARPAISE",
+        "label": "ARPAISE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/arpino.html",
+        "value": "ARPINO",
+        "label": "ARPINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/17/assemini.html",
+        "value": "ASSEMINI",
+        "label": "ASSEMINI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/28/assoro.html",
+        "value": "ASSORO",
+        "label": "ASSORO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/atella.html",
+        "value": "ATELLA",
+        "label": "ATELLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/atena-lucana.html",
+        "value": "ATENA LUCANA",
+        "label": "ATENA LUCANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/atina.html",
+        "value": "ATINA",
+        "label": "ATINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/atri.html",
+        "value": "ATRI",
+        "label": "ATRI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/59/auditore.html",
+        "value": "AUDITORE",
+        "label": "AUDITORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/avellino.html",
+        "value": "AVELLINO",
+        "label": "AVELLINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/aviatico.html",
+        "value": "AVIATICO",
+        "label": "AVIATICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/86/azzate.html",
+        "value": "AZZATE",
+        "label": "AZZATE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/66/bagnara-di-romagna.html",
+        "value": "BAGNARA DI ROMAGNA",
+        "label": "BAGNARA DI ROMAGNA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/bagnoli-irpino.html",
+        "value": "BAGNOLI IRPINO",
+        "label": "BAGNOLI IRPINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/balocco.html",
+        "value": "BALOCCO",
+        "label": "BALOCCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/barbarano-mossano.html",
+        "value": "BARBARANO MOSSANO",
+        "label": "BARBARANO MOSSANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/bareggio.html",
+        "value": "BAREGGIO",
+        "label": "BAREGGIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/38/barete.html",
+        "value": "BARETE",
+        "label": "BARETE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/barghe.html",
+        "value": "BARGHE",
+        "label": "BARGHE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/106/barletta.html",
+        "value": "BARLETTA",
+        "label": "BARLETTA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/basiglio.html",
+        "value": "BASIGLIO",
+        "label": "BASIGLIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/40/bassiano.html",
+        "value": "BASSIANO",
+        "label": "BASSIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/baucina.html",
+        "value": "BAUCINA",
+        "label": "BAUCINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/bellinzago-lombardo.html",
+        "value": "BELLINZAGO LOMBARDO",
+        "label": "BELLINZAGO LOMBARDO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/69/belmonte-in-sabina.html",
+        "value": "BELMONTE IN SABINA",
+        "label": "BELMONTE IN SABINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/belpasso.html",
+        "value": "BELPASSO",
+        "label": "BELPASSO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/77/bema.html",
+        "value": "BEMA",
+        "label": "BEMA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/bergolo.html",
+        "value": "BERGOLO",
+        "label": "BERGOLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/berlingo.html",
+        "value": "BERLINGO",
+        "label": "BERLINGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/berzo-inferiore.html",
+        "value": "BERZO INFERIORE",
+        "label": "BERZO INFERIORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/biancavilla.html",
+        "value": "BIANCAVILLA",
+        "label": "BIANCAVILLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/bibiana.html",
+        "value": "BIBIANA",
+        "label": "BIBIANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/106/bisceglie.html",
+        "value": "BISCEGLIE",
+        "label": "BISCEGLIE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/52/boca.html",
+        "value": "BOCA",
+        "label": "BOCA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/102/bognanco.html",
+        "value": "BOGNANCO",
+        "label": "BOGNANCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/bolzano-vicentino.html",
+        "value": "BOLZANO VICENTINO",
+        "label": "BOLZANO VICENTINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/bonifati.html",
+        "value": "BONIFATI",
+        "label": "BONIFATI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/37/bordighera.html",
+        "value": "BORDIGHERA",
+        "label": "BORDIGHERA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/57/borgarello.html",
+        "value": "BORGARELLO",
+        "label": "BORGARELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/45/borgo-mantovano.html",
+        "value": "BORGO MANTOVANO",
+        "label": "BORGO MANTOVANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/borgo-veneto.html",
+        "value": "BORGO VENETO",
+        "label": "BORGO VENETO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/45/borgofranco-sul-po.html",
+        "value": "BORGOFRANCO SUL PO",
+        "label": "BORGOFRANCO SUL PO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/borgomasino.html",
+        "value": "BORGOMASINO",
+        "label": "BORGOMASINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/69/borgorose.html",
+        "value": "BORGOROSE",
+        "label": "BORGOROSE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/borno.html",
+        "value": "BORNO",
+        "label": "BORNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/boroneddu.html",
+        "value": "BORONEDDU",
+        "label": "BORONEDDU"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/boscoreale.html",
+        "value": "BOSCOREALE",
+        "label": "BOSCOREALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/57/bosnasco.html",
+        "value": "BOSNASCO",
+        "label": "BOSNASCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/boville-ernica.html",
+        "value": "BOVILLE ERNICA",
+        "label": "BOVILLE ERNICA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/bovino.html",
+        "value": "BOVINO",
+        "label": "BOVINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/68/brescello.html",
+        "value": "BRESCELLO",
+        "label": "BRESCELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/brescia.html",
+        "value": "BRESCIA",
+        "label": "BRESCIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/bresso.html",
+        "value": "BRESSO",
+        "label": "BRESSO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/16/brindisi.html",
+        "value": "BRINDISI",
+        "label": "BRINDISI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/104/brugherio.html",
+        "value": "BRUGHERIO",
+        "label": "BRUGHERIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/brusciano.html",
+        "value": "BRUSCIANO",
+        "label": "BRUSCIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/76/buccheri.html",
+        "value": "BUCCHERI",
+        "label": "BUCCHERI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/bucciano.html",
+        "value": "BUCCIANO",
+        "label": "BUCCIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/73/budoni.html",
+        "value": "BUDONI",
+        "label": "BUDONI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/bulgarograsso.html",
+        "value": "BULGAROGRASSO",
+        "label": "BULGAROGRASSO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/burgio.html",
+        "value": "BURGIO",
+        "label": "BURGIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/76/buscemi.html",
+        "value": "BUSCEMI",
+        "label": "BUSCEMI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/buseto-palizzolo.html",
+        "value": "BUSETO PALIZZOLO",
+        "label": "BUSETO PALIZZOLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/60/bussi-sul-tirino.html",
+        "value": "BUSSI SUL TIRINO",
+        "label": "BUSSI SUL TIRINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/89/bussolengo.html",
+        "value": "BUSSOLENGO",
+        "label": "BUSSOLENGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/cabras.html",
+        "value": "CABRAS",
+        "label": "CABRAS"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/caiazzo.html",
+        "value": "CAIAZZO",
+        "label": "CAIAZZO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/cairano.html",
+        "value": "CAIRANO",
+        "label": "CAIRANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/calamonaci.html",
+        "value": "CALAMONACI",
+        "label": "CALAMONACI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/102/calasca-castiglione.html",
+        "value": "CALASCA-CASTIGLIONE",
+        "label": "CALASCA-CASTIGLIONE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/98/calolziocorte.html",
+        "value": "CALOLZIOCORTE",
+        "label": "CALOLZIOCORTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/calvanico.html",
+        "value": "CALVANICO",
+        "label": "CALVANICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/calvignasco.html",
+        "value": "CALVIGNASCO",
+        "label": "CALVIGNASCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/34/camogli.html",
+        "value": "CAMOGLI",
+        "label": "CAMOGLI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/campagna.html",
+        "value": "CAMPAGNA",
+        "label": "CAMPAGNA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/30/campi-bisenzio.html",
+        "value": "CAMPI BISENZIO",
+        "label": "CAMPI BISENZIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/campochiaro.html",
+        "value": "CAMPOCHIARO",
+        "label": "CAMPOCHIARO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/40/campodimele.html",
+        "value": "CAMPODIMELE",
+        "label": "CAMPODIMELE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/campofelice-di-roccella.html",
+        "value": "CAMPOFELICE DI ROCCELLA",
+        "label": "CAMPOFELICE DI ROCCELLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/campofiorito.html",
+        "value": "CAMPOFIORITO",
+        "label": "CAMPOFIORITO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/camporotondo-etneo.html",
+        "value": "CAMPOROTONDO ETNEO",
+        "label": "CAMPOROTONDO ETNEO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/50/camposanto.html",
+        "value": "CAMPOSANTO",
+        "label": "CAMPOSANTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/13/camugnano.html",
+        "value": "CAMUGNANO",
+        "label": "CAMUGNANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/10/canale-dagordo.html",
+        "value": "CANALE D'AGORDO",
+        "label": "CANALE D'AGORDO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/cancello-ed-arnone.html",
+        "value": "CANCELLO ED ARNONE",
+        "label": "CANCELLO ED ARNONE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/candidoni.html",
+        "value": "CANDIDONI",
+        "label": "CANDIDONI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/canna.html",
+        "value": "CANNA",
+        "label": "CANNA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/58/cannara.html",
+        "value": "CANNARA",
+        "label": "CANNARA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/capaci.html",
+        "value": "CAPACI",
+        "label": "CAPACI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/26/capergnanica.html",
+        "value": "CAPERGNANICA",
+        "label": "CAPERGNANICA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/capizzi.html",
+        "value": "CAPIZZI",
+        "label": "CAPIZZI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/5/capolona.html",
+        "value": "CAPOLONA",
+        "label": "CAPOLONA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/caposele.html",
+        "value": "CAPOSELE",
+        "label": "CAPOSELE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/42/capraia-isola.html",
+        "value": "CAPRAIA ISOLA",
+        "label": "CAPRAIA ISOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/5/caprese-michelangelo.html",
+        "value": "CAPRESE MICHELANGELO",
+        "label": "CAPRESE MICHELANGELO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/capriate-san-gervasio.html",
+        "value": "CAPRIATE SAN GERVASIO",
+        "label": "CAPRIATE SAN GERVASIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/carapelle.html",
+        "value": "CARAPELLE",
+        "label": "CARAPELLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/104/carate-brianza.html",
+        "value": "CARATE BRIANZA",
+        "label": "CARATE BRIANZA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/74/carcare.html",
+        "value": "CARCARE",
+        "label": "CARCARE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/cardinale.html",
+        "value": "CARDINALE",
+        "label": "CARDINALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/caresana.html",
+        "value": "CARESANA",
+        "label": "CARESANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/cariati.html",
+        "value": "CARIATI",
+        "label": "CARIATI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/carlazzo.html",
+        "value": "CARLAZZO",
+        "label": "CARLAZZO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/76/carlentini.html",
+        "value": "CARLENTINI",
+        "label": "CARLENTINI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/16/carovigno.html",
+        "value": "CAROVIGNO",
+        "label": "CAROVIGNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/39/carro.html",
+        "value": "CARRO",
+        "label": "CARRO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/carugo.html",
+        "value": "CARUGO",
+        "label": "CARUGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/casalbore.html",
+        "value": "CASALBORE",
+        "label": "CASALBORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/casali-del-manco.html",
+        "value": "CASALI DEL MANCO",
+        "label": "CASALI DEL MANCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/casalserugo.html",
+        "value": "CASALSERUGO",
+        "label": "CASALSERUGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/casalvecchio-siculo.html",
+        "value": "CASALVECCHIO SICULO",
+        "label": "CASALVECCHIO SICULO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/9/casamassima.html",
+        "value": "CASAMASSIMA",
+        "label": "CASAMASSIMA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/casandrino.html",
+        "value": "CASANDRINO",
+        "label": "CASANDRINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/casnigo.html",
+        "value": "CASNIGO",
+        "label": "CASNIGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/2/cassano-spinola.html",
+        "value": "CASSANO SPINOLA",
+        "label": "CASSANO SPINOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/cassina-rizzardi.html",
+        "value": "CASSINA RIZZARDI",
+        "label": "CASSINA RIZZARDI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/89/castel-dazzano.html",
+        "value": "CASTEL D'AZZANO",
+        "label": "CASTEL D'AZZANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/castel-di-iudica.html",
+        "value": "CASTEL DI IUDICA",
+        "label": "CASTEL DI IUDICA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/6/castel-di-lama.html",
+        "value": "CASTEL DI LAMA",
+        "label": "CASTEL DI LAMA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/castel-di-lucio.html",
+        "value": "CASTEL DI LUCIO",
+        "label": "CASTEL DI LUCIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/26/castel-gabbiano.html",
+        "value": "CASTEL GABBIANO",
+        "label": "CASTEL GABBIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/45/castel-goffredo.html",
+        "value": "CASTEL GOFFREDO",
+        "label": "CASTEL GOFFREDO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/castelcivita.html",
+        "value": "CASTELCIVITA",
+        "label": "CASTELCIVITA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/castelcovati.html",
+        "value": "CASTELCOVATI",
+        "label": "CASTELCOVATI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/casteldaccia.html",
+        "value": "CASTELDACCIA",
+        "label": "CASTELDACCIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/99/castelgerundo.html",
+        "value": "CASTELGERUNDO",
+        "label": "CASTELGERUNDO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/castelgomberto.html",
+        "value": "CASTELGOMBERTO",
+        "label": "CASTELGOMBERTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/castellumberto.html",
+        "value": "CASTELL'UMBERTO",
+        "label": "CASTELL'UMBERTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/38/castellafiume.html",
+        "value": "CASTELLAFIUME",
+        "label": "CASTELLAFIUME"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/castellammare-del-golfo.html",
+        "value": "CASTELLAMMARE DEL GOLFO",
+        "label": "CASTELLAMMARE DEL GOLFO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/castellammare-di-stabia.html",
+        "value": "CASTELLAMMARE DI STABIA",
+        "label": "CASTELLAMMARE DI STABIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/57/castello-dagogna.html",
+        "value": "CASTELLO D'AGOGNA",
+        "label": "CASTELLO D'AGOGNA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/84/castello-di-godego.html",
+        "value": "CASTELLO DI GODEGO",
+        "label": "CASTELLO DI GODEGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/castelluccio-superiore.html",
+        "value": "CASTELLUCCIO SUPERIORE",
+        "label": "CASTELLUCCIO SUPERIORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/castelmagno.html",
+        "value": "CASTELMAGNO",
+        "label": "CASTELMAGNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/68/castelnovo-di-sotto.html",
+        "value": "CASTELNOVO DI SOTTO",
+        "label": "CASTELNOVO DI SOTTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/castelnuovo-di-ceva.html",
+        "value": "CASTELNUOVO DI CEVA",
+        "label": "CASTELNUOVO DI CEVA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/castelpagano.html",
+        "value": "CASTELPAGANO",
+        "label": "CASTELPAGANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/94/castelpizzuto.html",
+        "value": "CASTELPIZZUTO",
+        "label": "CASTELPIZZUTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/61/castelvetro-piacentino.html",
+        "value": "CASTELVETRO PIACENTINO",
+        "label": "CASTELVETRO PIACENTINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/castilenti.html",
+        "value": "CASTILENTI",
+        "label": "CASTILENTI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/castrofilippo.html",
+        "value": "CASTROFILIPPO",
+        "label": "CASTROFILIPPO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/castrolibero.html",
+        "value": "CASTROLIBERO",
+        "label": "CASTROLIBERO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/castronovo-di-sicilia.html",
+        "value": "CASTRONOVO DI SICILIA",
+        "label": "CASTRONOVO DI SICILIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/catania.html",
+        "value": "CATANIA",
+        "label": "CATANIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/28/catenanuova.html",
+        "value": "CATENANUOVA",
+        "label": "CATENANUOVA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/99/cavenago-dadda.html",
+        "value": "CAVENAGO D'ADDA",
+        "label": "CAVENAGO D'ADDA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/cefala-diana.html",
+        "value": "CEFALA' DIANA",
+        "label": "CEFALA' DIANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/cellio-con-breia.html",
+        "value": "CELLIO CON BREIA",
+        "label": "CELLIO CON BREIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/cellole.html",
+        "value": "CELLOLE",
+        "label": "CELLOLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/cenate-sopra.html",
+        "value": "CENATE SOPRA",
+        "label": "CENATE SOPRA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/10/cencenighe-agordino.html",
+        "value": "CENCENIGHE AGORDINO",
+        "label": "CENCENIGHE AGORDINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/74/cengio.html",
+        "value": "CENGIO",
+        "label": "CENGIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/centro-valle-intelvi.html",
+        "value": "CENTRO VALLE INTELVI",
+        "label": "CENTRO VALLE INTELVI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/60/cepagatti.html",
+        "value": "CEPAGATTI",
+        "label": "CEPAGATTI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/ceppaloni.html",
+        "value": "CEPPALONI",
+        "label": "CEPPALONI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/28/cerami.html",
+        "value": "CERAMI",
+        "label": "CERAMI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/cercola.html",
+        "value": "CERCOLA",
+        "label": "CERCOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/cerda.html",
+        "value": "CERDA",
+        "label": "CERDA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/97/cerenzia.html",
+        "value": "CERENZIA",
+        "label": "CERENZIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/45/ceresara.html",
+        "value": "CERESARA",
+        "label": "CERESARA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/74/ceriale.html",
+        "value": "CERIALE",
+        "label": "CERIALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/cernobbio.html",
+        "value": "CERNOBBIO",
+        "label": "CERNOBBIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/cerreto-laziale.html",
+        "value": "CERRETO LAZIALE",
+        "label": "CERRETO LAZIALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/cerro-maggiore.html",
+        "value": "CERRO MAGGIORE",
+        "label": "CERRO MAGGIORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/cervara-di-roma.html",
+        "value": "CERVARA DI ROMA",
+        "label": "CERVARA DI ROMA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/102/cesara.html",
+        "value": "CESARA",
+        "label": "CESARA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/73/cheremule.html",
+        "value": "CHEREMULE",
+        "label": "CHEREMULE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/chialamberto.html",
+        "value": "CHIALAMBERTO",
+        "label": "CHIALAMBERTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/chiampo.html",
+        "value": "CHIAMPO",
+        "label": "CHIAMPO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/73/chiaramonti.html",
+        "value": "CHIARAMONTI",
+        "label": "CHIARAMONTI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/3/chiaravalle.html",
+        "value": "CHIARAVALLE",
+        "label": "CHIARAVALLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/77/chiesa-in-valmalenco.html",
+        "value": "CHIESA IN VALMALENCO",
+        "label": "CHIESA IN VALMALENCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/cianciana.html",
+        "value": "CIANCIANA",
+        "label": "CIANCIANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/cicciano.html",
+        "value": "CICCIANO",
+        "label": "CICCIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/cimitile.html",
+        "value": "CIMITILE",
+        "label": "CIMITILE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/7/cinaglio.html",
+        "value": "CINAGLIO",
+        "label": "CINAGLIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/cinisello-balsamo.html",
+        "value": "CINISELLO BALSAMO",
+        "label": "CINISELLO BALSAMO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/cisliano.html",
+        "value": "CISLIANO",
+        "label": "CISLIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/40/cisterna-di-latina.html",
+        "value": "CISTERNA DI LATINA",
+        "label": "CISTERNA DI LATINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/civitella-del-tronto.html",
+        "value": "CIVITELLA DEL TRONTO",
+        "label": "CIVITELLA DEL TRONTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/codevigo.html",
+        "value": "CODEVIGO",
+        "label": "CODEVIGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/104/cogliate.html",
+        "value": "COGLIATE",
+        "label": "COGLIATE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/collesano.html",
+        "value": "COLLESANO",
+        "label": "COLLESANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/colletorto.html",
+        "value": "COLLETORTO",
+        "label": "COLLETORTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/collinas.html",
+        "value": "COLLINAS",
+        "label": "COLLINAS"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/collobiano.html",
+        "value": "COLLOBIANO",
+        "label": "COLLOBIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/65/comiso.html",
+        "value": "COMISO",
+        "label": "COMISO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/condofuri.html",
+        "value": "CONDOFURI",
+        "label": "CONDOFURI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/contessa-entellina.html",
+        "value": "CONTESSA ENTELLINA",
+        "label": "CONTESSA ENTELLINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/controguerra.html",
+        "value": "CONTROGUERRA",
+        "label": "CONTROGUERRA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/9/conversano.html",
+        "value": "CONVERSANO",
+        "label": "CONVERSANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/conza-della-campania.html",
+        "value": "CONZA DELLA CAMPANIA",
+        "label": "CONZA DELLA CAMPANIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/58/corciano.html",
+        "value": "CORCIANO",
+        "label": "CORCIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/37/cosio-di-arroscia.html",
+        "value": "COSIO DI ARROSCIA",
+        "label": "COSIO DI ARROSCIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/77/cosio-valtellino.html",
+        "value": "COSIO VALTELLINO",
+        "label": "COSIO VALTELLINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/cosoleto.html",
+        "value": "COSOLETO",
+        "label": "COSOLETO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/cossano-belbo.html",
+        "value": "COSSANO BELBO",
+        "label": "COSSANO BELBO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/78/crispiano.html",
+        "value": "CRISPIANO",
+        "label": "CRISPIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/curinga.html",
+        "value": "CURINGA",
+        "label": "CURINGA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/custonaci.html",
+        "value": "CUSTONACI",
+        "label": "CUSTONACI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/17/decimomannu.html",
+        "value": "DECIMOMANNU",
+        "label": "DECIMOMANNU"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/decollatura.html",
+        "value": "DECOLLATURA",
+        "label": "DECOLLATURA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/18/delia.html",
+        "value": "DELIA",
+        "label": "DELIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/103/dinami.html",
+        "value": "DINAMI",
+        "label": "DINAMI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/dipignano.html",
+        "value": "DIPIGNANO",
+        "label": "DIPIGNANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/donori.html",
+        "value": "DONORI",
+        "label": "DONORI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/elva.html",
+        "value": "ELVA",
+        "label": "ELVA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/enego.html",
+        "value": "ENEGO",
+        "label": "ENEGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/faeto.html",
+        "value": "FAETO",
+        "label": "FAETO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/3/falconara-marittima.html",
+        "value": "FALCONARA MARITTIMA",
+        "label": "FALCONARA MARITTIMA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/23/fallo.html",
+        "value": "FALLO",
+        "label": "FALLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/favignana.html",
+        "value": "FAVIGNANA",
+        "label": "FAVIGNANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/feisoglio.html",
+        "value": "FEISOGLIO",
+        "label": "FEISOGLIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/ferentino.html",
+        "value": "FERENTINO",
+        "label": "FERENTINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/61/ferriere.html",
+        "value": "FERRIERE",
+        "label": "FERRIERE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/103/filandari.html",
+        "value": "FILANDARI",
+        "label": "FILANDARI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/filettino.html",
+        "value": "FILETTINO",
+        "label": "FILETTINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/fiuggi.html",
+        "value": "FIUGGI",
+        "label": "FIUGGI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/fiumara.html",
+        "value": "FIUMARA",
+        "label": "FIUMARA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/fiumicino.html",
+        "value": "FIUMICINO",
+        "label": "FIUMICINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/floresta.html",
+        "value": "FLORESTA",
+        "label": "FLORESTA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/fluminimaggiore.html",
+        "value": "FLUMINIMAGGIORE",
+        "label": "FLUMINIMAGGIORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/fondachelli-fantina.html",
+        "value": "FONDACHELLI-FANTINA",
+        "label": "FONDACHELLI-FANTINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/forenza.html",
+        "value": "FORENZA",
+        "label": "FORENZA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/forino.html",
+        "value": "FORINO",
+        "label": "FORINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/forio.html",
+        "value": "FORIO",
+        "label": "FORIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/40/formia.html",
+        "value": "FORMIA",
+        "label": "FORMIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/2/francavilla-bisio.html",
+        "value": "FRANCAVILLA BISIO",
+        "label": "FRANCAVILLA BISIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/16/francavilla-fontana.html",
+        "value": "FRANCAVILLA FONTANA",
+        "label": "FRANCAVILLA FONTANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/76/francofonte.html",
+        "value": "FRANCOFONTE",
+        "label": "FRANCOFONTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/frasso-telesino.html",
+        "value": "FRASSO TELESINO",
+        "label": "FRASSO TELESINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/frazzano.html",
+        "value": "FRAZZANO'",
+        "label": "FRAZZANO'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/23/frisa.html",
+        "value": "FRISA",
+        "label": "FRISA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/2/fubine.html",
+        "value": "FUBINE",
+        "label": "FUBINE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/furci-siculo.html",
+        "value": "FURCI SICULO",
+        "label": "FURCI SICULO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/furtei.html",
+        "value": "FURTEI",
+        "label": "FURTEI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/28/gagliano-castelferrato.html",
+        "value": "GAGLIANO CASTELFERRATO",
+        "label": "GAGLIANO CASTELFERRATO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/44/gagliole.html",
+        "value": "GAGLIOLE",
+        "label": "GAGLIOLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/32/galeata.html",
+        "value": "GALEATA",
+        "label": "GALEATA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/gallicano-nel-lazio.html",
+        "value": "GALLICANO NEL LAZIO",
+        "label": "GALLICANO NEL LAZIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/galluccio.html",
+        "value": "GALLUCCIO",
+        "label": "GALLUCCIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/53/galtelli.html",
+        "value": "GALTELLI'",
+        "label": "GALTELLI'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/galzignano-terme.html",
+        "value": "GALZIGNANO TERME",
+        "label": "GALZIGNANO TERME"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/gasperina.html",
+        "value": "GASPERINA",
+        "label": "GASPERINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/36/gavorrano.html",
+        "value": "GAVORRANO",
+        "label": "GAVORRANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/101/gemmano.html",
+        "value": "GEMMANO",
+        "label": "GEMMANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/genzano-di-lucania.html",
+        "value": "GENZANO DI LUCANIA",
+        "label": "GENZANO DI LUCANIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/geraci-siculo.html",
+        "value": "GERACI SICULO",
+        "label": "GERACI SICULO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/103/gerocarne.html",
+        "value": "GEROCARNE",
+        "label": "GEROCARNE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/77/gerola-alta.html",
+        "value": "GEROLA ALTA",
+        "label": "GEROLA ALTA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/gesturi.html",
+        "value": "GESTURI",
+        "label": "GESTURI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/gesualdo.html",
+        "value": "GESUALDO",
+        "label": "GESUALDO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/102/gignese.html",
+        "value": "GIGNESE",
+        "label": "GIGNESE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/gioiosa-ionica.html",
+        "value": "GIOIOSA IONICA",
+        "label": "GIOIOSA IONICA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/giuliana.html",
+        "value": "GIULIANA",
+        "label": "GIULIANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/giungano.html",
+        "value": "GIUNGANO",
+        "label": "GIUNGANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/giurdignano.html",
+        "value": "GIURDIGNANO",
+        "label": "GIURDIGNANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/gorgonzola.html",
+        "value": "GORGONZOLA",
+        "label": "GORGONZOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/gratteri.html",
+        "value": "GRATTERI",
+        "label": "GRATTERI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/gravina-di-catania.html",
+        "value": "GRAVINA DI CATANIA",
+        "label": "GRAVINA DI CATANIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/greci.html",
+        "value": "GRECI",
+        "label": "GRECI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/gricignano-di-aversa.html",
+        "value": "GRICIGNANO DI AVERSA",
+        "label": "GRICIGNANO DI AVERSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/6/grottammare.html",
+        "value": "GROTTAMMARE",
+        "label": "GROTTAMMARE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/grotte.html",
+        "value": "GROTTE",
+        "label": "GROTTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/gualtieri-sicamino.html",
+        "value": "GUALTIERI SICAMINO'",
+        "label": "GUALTIERI SICAMINO'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/guardavalle.html",
+        "value": "GUARDAVALLE",
+        "label": "GUARDAVALLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/guglionesi.html",
+        "value": "GUGLIONESI",
+        "label": "GUGLIONESI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/50/guiglia.html",
+        "value": "GUIGLIA",
+        "label": "GUIGLIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/iglesias.html",
+        "value": "IGLESIAS",
+        "label": "IGLESIAS"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/13/imola.html",
+        "value": "IMOLA",
+        "label": "IMOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/37/imperia.html",
+        "value": "IMPERIA",
+        "label": "IMPERIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/30/impruneta.html",
+        "value": "IMPRUNETA",
+        "label": "IMPRUNETA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/53/irgoli.html",
+        "value": "IRGOLI",
+        "label": "IRGOLI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/84/istrana.html",
+        "value": "ISTRANA",
+        "label": "ISTRANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/ivrea.html",
+        "value": "IVREA",
+        "label": "IVREA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/86/jerago-con-orago.html",
+        "value": "JERAGO CON ORAGO",
+        "label": "JERAGO CON ORAGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/53/jerzu.html",
+        "value": "JERZU",
+        "label": "JERZU"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/joppolo-giancaxio.html",
+        "value": "JOPPOLO GIANCAXIO",
+        "label": "JOPPOLO GIANCAXIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/laglio.html",
+        "value": "LAGLIO",
+        "label": "LAGLIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/74/laigueglia.html",
+        "value": "LAIGUEGLIA",
+        "label": "LAIGUEGLIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/lambrugo.html",
+        "value": "LAMBRUGO",
+        "label": "LAMBRUGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/52/landiona.html",
+        "value": "LANDIONA",
+        "label": "LANDIONA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/lapio.html",
+        "value": "LAPIO",
+        "label": "LAPIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/larino.html",
+        "value": "LARINO",
+        "label": "LARINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/lauriano.html",
+        "value": "LAURIANO",
+        "label": "LAURIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/lauro.html",
+        "value": "LAURO",
+        "label": "LAURO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/lavello.html",
+        "value": "LAVELLO",
+        "label": "LAVELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/laviano.html",
+        "value": "LAVIANO",
+        "label": "LAVIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/89/lazise.html",
+        "value": "LAZISE",
+        "label": "LAZISE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/104/lazzate.html",
+        "value": "LAZZATE",
+        "label": "LAZZATE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/40/lenola.html",
+        "value": "LENOLA",
+        "label": "LENOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/lenta.html",
+        "value": "LENTA",
+        "label": "LENTA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/28/leonforte.html",
+        "value": "LEONFORTE",
+        "label": "LEONFORTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/lercara-friddi.html",
+        "value": "LERCARA FRIDDI",
+        "label": "LERCARA FRIDDI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/letino.html",
+        "value": "LETINO",
+        "label": "LETINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/licata.html",
+        "value": "LICATA",
+        "label": "LICATA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/lignana.html",
+        "value": "LIGNANA",
+        "label": "LIGNANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/livorno-ferraris.html",
+        "value": "LIVORNO FERRARIS",
+        "label": "LIVORNO FERRARIS"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/78/lizzano.html",
+        "value": "LIZZANO",
+        "label": "LIZZANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/locri.html",
+        "value": "LOCRI",
+        "label": "LOCRI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/86/lonate-pozzolo.html",
+        "value": "LONATE POZZOLO",
+        "label": "LONATE POZZOLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/60/loreto-aprutino.html",
+        "value": "LORETO APRUTINO",
+        "label": "LORETO APRUTINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/lucca-sicula.html",
+        "value": "LUCCA SICULA",
+        "label": "LUCCA SICULA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/38/lucoli.html",
+        "value": "LUCOLI",
+        "label": "LUCOLI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/lurago-derba.html",
+        "value": "LURAGO D'ERBA",
+        "label": "LURAGO D'ERBA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/lusciano.html",
+        "value": "LUSCIANO",
+        "label": "LUSCIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/macchia-valfortore.html",
+        "value": "MACCHIA VALFORTORE",
+        "label": "MACCHIA VALFORTORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/104/macherio.html",
+        "value": "MACHERIO",
+        "label": "MACHERIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/53/macomer.html",
+        "value": "MACOMER",
+        "label": "MACOMER"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/maddaloni.html",
+        "value": "MADDALONI",
+        "label": "MADDALONI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/magisano.html",
+        "value": "MAGISANO",
+        "label": "MAGISANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/36/magliano-in-toscana.html",
+        "value": "MAGLIANO IN TOSCANA",
+        "label": "MAGLIANO IN TOSCANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/magliano-romano.html",
+        "value": "MAGLIANO ROMANO",
+        "label": "MAGLIANO ROMANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/maiera.html",
+        "value": "MAIERA'",
+        "label": "MAIERA'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/maletto.html",
+        "value": "MALETTO",
+        "label": "MALETTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/malito.html",
+        "value": "MALITO",
+        "label": "MALITO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/malonno.html",
+        "value": "MALONNO",
+        "label": "MALONNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/2/malvicino.html",
+        "value": "MALVICINO",
+        "label": "MALVICINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/mandatoriccio.html",
+        "value": "MANDATORICCIO",
+        "label": "MANDATORICCIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/manerbio.html",
+        "value": "MANERBIO",
+        "label": "MANERBIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/mapello.html",
+        "value": "MAPELLO",
+        "label": "MAPELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/17/maracalagonis.html",
+        "value": "MARACALAGONIS",
+        "label": "MARACALAGONIS"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/marano-marchesato.html",
+        "value": "MARANO MARCHESATO",
+        "label": "MARANO MARCHESATO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/84/mareno-di-piave.html",
+        "value": "MARENO DI PIAVE",
+        "label": "MARENO DI PIAVE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/106/margherita-di-savoia.html",
+        "value": "MARGHERITA DI SAVOIA",
+        "label": "MARGHERITA DI SAVOIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/marineo.html",
+        "value": "MARINEO",
+        "label": "MARINEO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/marostica.html",
+        "value": "MAROSTICA",
+        "label": "MAROSTICA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/30/marradi.html",
+        "value": "MARRADI",
+        "label": "MARRADI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/87/martellago.html",
+        "value": "MARTELLAGO",
+        "label": "MARTELLAGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/marzano-di-nola.html",
+        "value": "MARZANO DI NOLA",
+        "label": "MARZANO DI NOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/mascalucia.html",
+        "value": "MASCALUCIA",
+        "label": "MASCALUCIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/masera-di-padova.html",
+        "value": "MASERA' DI PADOVA",
+        "label": "MASERA' DI PADOVA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/46/massa.html",
+        "value": "MASSA",
+        "label": "MASSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/38/massa-dalbe.html",
+        "value": "MASSA D'ALBE",
+        "label": "MASSA D'ALBE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/99/massalengo.html",
+        "value": "MASSALENGO",
+        "label": "MASSALENGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/96/masserano.html",
+        "value": "MASSERANO",
+        "label": "MASSERANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/mathi.html",
+        "value": "MATHI",
+        "label": "MATHI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/53/meana-sardo.html",
+        "value": "MEANA SARDO",
+        "label": "MEANA SARDO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/megliadino-san-vitale.html",
+        "value": "MEGLIADINO SAN VITALE",
+        "label": "MEGLIADINO SAN VITALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/menfi.html",
+        "value": "MENFI",
+        "label": "MENFI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/messina.html",
+        "value": "MESSINA",
+        "label": "MESSINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/mestrino.html",
+        "value": "MESTRINO",
+        "label": "MESTRINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/96/mezzana-mortigliengo.html",
+        "value": "MEZZANA MORTIGLIENGO",
+        "label": "MEZZANA MORTIGLIENGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/57/mezzanino.html",
+        "value": "MEZZANINO",
+        "label": "MEZZANINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/52/miasino.html",
+        "value": "MIASINO",
+        "label": "MIASINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/18/milena.html",
+        "value": "MILENA",
+        "label": "MILENA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/103/mileto.html",
+        "value": "MILETO",
+        "label": "MILETO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/militello-rosmarino.html",
+        "value": "MILITELLO ROSMARINO",
+        "label": "MILITELLO ROSMARINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/milzano.html",
+        "value": "MILZANO",
+        "label": "MILZANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/mineo.html",
+        "value": "MINEO",
+        "label": "MINEO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/65/modica.html",
+        "value": "MODICA",
+        "label": "MODICA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/modolo.html",
+        "value": "MODOLO",
+        "label": "MODOLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/moio-alcantara.html",
+        "value": "MOIO ALCANTARA",
+        "label": "MOIO ALCANTARA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/9/mola-di-bari.html",
+        "value": "MOLA DI BARI",
+        "label": "MOLA DI BARI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/2/molino-dei-torti.html",
+        "value": "MOLINO DEI TORTI",
+        "label": "MOLINO DEI TORTI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/7/monastero-bormida.html",
+        "value": "MONASTERO BORMIDA",
+        "label": "MONASTERO BORMIDA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/monforte-san-giorgio.html",
+        "value": "MONFORTE SAN GIORGIO",
+        "label": "MONFORTE SAN GIORGIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/mongiuffi-melia.html",
+        "value": "MONGIUFFI MELIA",
+        "label": "MONGIUFFI MELIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/9/monopoli.html",
+        "value": "MONOPOLI",
+        "label": "MONOPOLI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/montagnareale.html",
+        "value": "MONTAGNAREALE",
+        "label": "MONTAGNAREALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/2/montaldo-bormida.html",
+        "value": "MONTALDO BORMIDA",
+        "label": "MONTALDO BORMIDA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/37/montalto-carpasio.html",
+        "value": "MONTALTO CARPASIO",
+        "label": "MONTALTO CARPASIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/94/montaquila.html",
+        "value": "MONTAQUILA",
+        "label": "MONTAQUILA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/montauro.html",
+        "value": "MONTAURO",
+        "label": "MONTAURO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/36/monte-argentario.html",
+        "value": "MONTE ARGENTARIO",
+        "label": "MONTE ARGENTARIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/58/monte-santa-maria-tiberina.html",
+        "value": "MONTE SANTA MARIA TIBERINA",
+        "label": "MONTE SANTA MARIA TIBERINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/62/montecatini-val-di-cecina.html",
+        "value": "MONTECATINI VAL DI CECINA",
+        "label": "MONTECATINI VAL DI CECINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/montecorvino-rovella.html",
+        "value": "MONTECORVINO ROVELLA",
+        "label": "MONTECORVINO ROVELLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/18/montedoro.html",
+        "value": "MONTEDORO",
+        "label": "MONTEDORO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/105/montegiorgio.html",
+        "value": "MONTEGIORGIO",
+        "label": "MONTEGIORGIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/78/monteiasi.html",
+        "value": "MONTEIASI",
+        "label": "MONTEIASI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/montemaggiore-belsito.html",
+        "value": "MONTEMAGGIORE BELSITO",
+        "label": "MONTEMAGGIORE BELSITO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/montemezzo.html",
+        "value": "MONTEMEZZO",
+        "label": "MONTEMEZZO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/montesano-salentino.html",
+        "value": "MONTESANO SALENTINO",
+        "label": "MONTESANO SALENTINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/montesarchio.html",
+        "value": "MONTESARCHIO",
+        "label": "MONTESARCHIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/7/montiglio-monferrato.html",
+        "value": "MONTIGLIO MONFERRATO",
+        "label": "MONTIGLIO MONFERRATO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/34/montoggio.html",
+        "value": "MONTOGGIO",
+        "label": "MONTOGGIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/montorio-al-vomano.html",
+        "value": "MONTORIO AL VOMANO",
+        "label": "MONTORIO AL VOMANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/montorio-nei-frentani.html",
+        "value": "MONTORIO NEI FRENTANI",
+        "label": "MONTORIO NEI FRENTANI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/morcone.html",
+        "value": "MORCONE",
+        "label": "MORCONE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/84/moriago-della-battaglia.html",
+        "value": "MORIAGO DELLA BATTAGLIA",
+        "label": "MORIAGO DELLA BATTAGLIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/morlupo.html",
+        "value": "MORLUPO",
+        "label": "MORLUPO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/3/morro-dalba.html",
+        "value": "MORRO D'ALBA",
+        "label": "MORRO D'ALBA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/motta-camastra.html",
+        "value": "MOTTA CAMASTRA",
+        "label": "MOTTA CAMASTRA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/84/motta-di-livenza.html",
+        "value": "MOTTA DI LIVENZA",
+        "label": "MOTTA DI LIVENZA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/mozzate.html",
+        "value": "MOZZATE",
+        "label": "MOZZATE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/mugnano-del-cardinale.html",
+        "value": "MUGNANO DEL CARDINALE",
+        "label": "MUGNANO DEL CARDINALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/murello.html",
+        "value": "MURELLO",
+        "label": "MURELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/muro-lucano.html",
+        "value": "MURO LUCANO",
+        "label": "MURO LUCANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/narbolia.html",
+        "value": "NARBOLIA",
+        "label": "NARBOLIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/nereto.html",
+        "value": "NERETO",
+        "label": "NERETO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/84/nervesa-della-battaglia.html",
+        "value": "NERVESA DELLA BATTAGLIA",
+        "label": "NERVESA DELLA BATTAGLIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/57/nicorvo.html",
+        "value": "NICORVO",
+        "label": "NICORVO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/60/nocciano.html",
+        "value": "NOCCIANO",
+        "label": "NOCCIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/nocera-terinese.html",
+        "value": "NOCERA TERINESE",
+        "label": "NOCERA TERINESE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/9/noci.html",
+        "value": "NOCI",
+        "label": "NOCI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/notaresco.html",
+        "value": "NOTARESCO",
+        "label": "NOTARESCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/104/nova-milanese.html",
+        "value": "NOVA MILANESE",
+        "label": "NOVA MILANESE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/novalesa.html",
+        "value": "NOVALESA",
+        "label": "NOVALESA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/novi-velia.html",
+        "value": "NOVI VELIA",
+        "label": "NOVI VELIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/nughedu-santa-vittoria.html",
+        "value": "NUGHEDU SANTA VITTORIA",
+        "label": "NUGHEDU SANTA VITTORIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/offlaga.html",
+        "value": "OFFLAGA",
+        "label": "OFFLAGA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/olevano-sul-tusciano.html",
+        "value": "OLEVANO SUL TUSCIANO",
+        "label": "OLEVANO SUL TUSCIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/53/oliena.html",
+        "value": "OLIENA",
+        "label": "OLIENA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/98/oliveto-lario.html",
+        "value": "OLIVETO LARIO",
+        "label": "OLIVETO LARIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/oltre-il-colle.html",
+        "value": "OLTRE IL COLLE",
+        "label": "OLTRE IL COLLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/opera.html",
+        "value": "OPERA",
+        "label": "OPERA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/oratino.html",
+        "value": "ORATINO",
+        "label": "ORATINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/orbassano.html",
+        "value": "ORBASSANO",
+        "label": "ORBASSANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/16/oria.html",
+        "value": "ORIA",
+        "label": "ORIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/38/oricola.html",
+        "value": "ORICOLA",
+        "label": "ORICOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/orta-di-atella.html",
+        "value": "ORTA DI ATELLA",
+        "label": "ORTA DI ATELLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/ortacesus.html",
+        "value": "ORTACESUS",
+        "label": "ORTACESUS"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/ospitaletto.html",
+        "value": "OSPITALETTO",
+        "label": "OSPITALETTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/3/ostra-vetere.html",
+        "value": "OSTRA VETERE",
+        "label": "OSTRA VETERE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/ottaviano.html",
+        "value": "OTTAVIANO",
+        "label": "OTTAVIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/pace-del-mela.html",
+        "value": "PACE DEL MELA",
+        "label": "PACE DEL MELA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/paceco.html",
+        "value": "PACECO",
+        "label": "PACECO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/paladina.html",
+        "value": "PALADINA",
+        "label": "PALADINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/78/palagianello.html",
+        "value": "PALAGIANELLO",
+        "label": "PALAGIANELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/73/palau.html",
+        "value": "PALAU",
+        "label": "PALAU"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/76/palazzolo-acreide.html",
+        "value": "PALAZZOLO ACREIDE",
+        "label": "PALAZZOLO ACREIDE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/palma-campania.html",
+        "value": "PALMA CAMPANIA",
+        "label": "PALMA CAMPANIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/pantelleria.html",
+        "value": "PANTELLERIA",
+        "label": "PANTELLERIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/103/parghelia.html",
+        "value": "PARGHELIA",
+        "label": "PARGHELIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/partanna.html",
+        "value": "PARTANNA",
+        "label": "PARTANNA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/partinico.html",
+        "value": "PARTINICO",
+        "label": "PARTINICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/58/passignano-sul-trasimeno.html",
+        "value": "PASSIGNANO SUL TRASIMENO",
+        "label": "PASSIGNANO SUL TRASIMENO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/paterno-calabro.html",
+        "value": "PATERNO CALABRO",
+        "label": "PATERNO CALABRO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/pellezzano.html",
+        "value": "PELLEZZANO",
+        "label": "PELLEZZANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/44/penna-san-giovanni.html",
+        "value": "PENNA SAN GIOVANNI",
+        "label": "PENNA SAN GIOVANNI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/perito.html",
+        "value": "PERITO",
+        "label": "PERITO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/perosa-canavese.html",
+        "value": "PEROSA CANAVESE",
+        "label": "PEROSA CANAVESE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/peschici.html",
+        "value": "PESCHICI",
+        "label": "PESCHICI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/63/pescia.html",
+        "value": "PESCIA",
+        "label": "PESCIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/97/petilia-policastro.html",
+        "value": "PETILIA POLICASTRO",
+        "label": "PETILIA POLICASTRO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/piane-crati.html",
+        "value": "PIANE CRATI",
+        "label": "PIANE CRATI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/60/pianella.html",
+        "value": "PIANELLA",
+        "label": "PIANELLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/pianico.html",
+        "value": "PIANICO",
+        "label": "PIANICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/87/pianiga.html",
+        "value": "PIANIGA",
+        "label": "PIANIGA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/28/piazza-armerina.html",
+        "value": "PIAZZA ARMERINA",
+        "label": "PIAZZA ARMERINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/piazzolo.html",
+        "value": "PIAZZOLO",
+        "label": "PIAZZOLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/pico.html",
+        "value": "PICO",
+        "label": "PICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/piedimonte-etneo.html",
+        "value": "PIEDIMONTE ETNEO",
+        "label": "PIEDIMONTE ETNEO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/pietramontecorvino.html",
+        "value": "PIETRAMONTECORVINO",
+        "label": "PIETRAMONTECORVINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/60/pietranico.html",
+        "value": "PIETRANICO",
+        "label": "PIETRANICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/pietrapertosa.html",
+        "value": "PIETRAPERTOSA",
+        "label": "PIETRAPERTOSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/43/pietrasanta.html",
+        "value": "PIETRASANTA",
+        "label": "PIETRASANTA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/10/pieve-di-cadore.html",
+        "value": "PIEVE DI CADORE",
+        "label": "PIEVE DI CADORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/37/pieve-di-teco.html",
+        "value": "PIEVE DI TECO",
+        "label": "PIEVE DI TECO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/pignataro-interamna.html",
+        "value": "PIGNATARO INTERAMNA",
+        "label": "PIGNATARO INTERAMNA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/pignola.html",
+        "value": "PIGNOLA",
+        "label": "PIGNOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/pila.html",
+        "value": "PILA",
+        "label": "PILA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/piove-di-sacco.html",
+        "value": "PIOVE DI SACCO",
+        "label": "PIOVE DI SACCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/62/pisa.html",
+        "value": "PISA",
+        "label": "PISA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/23/pizzoferrato.html",
+        "value": "PIZZOFERRATO",
+        "label": "PIZZOFERRATO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/100/poggio-a-caiano.html",
+        "value": "POGGIO A CAIANO",
+        "label": "POGGIO A CAIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/poggioreale.html",
+        "value": "POGGIOREALE",
+        "label": "POGGIOREALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/103/polia.html",
+        "value": "POLIA",
+        "label": "POLIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/50/polinago.html",
+        "value": "POLINAGO",
+        "label": "POLINAGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/polla.html",
+        "value": "POLLA",
+        "label": "POLLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/pollena-trocchia.html",
+        "value": "POLLENA TROCCHIA",
+        "label": "POLLENA TROCCHIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/pomezia.html",
+        "value": "POMEZIA",
+        "label": "POMEZIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/pompu.html",
+        "value": "POMPU",
+        "label": "POMPU"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/ponte.html",
+        "value": "PONTE",
+        "label": "PONTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/63/ponte-buggianese.html",
+        "value": "PONTE BUGGIANESE",
+        "label": "PONTE BUGGIANESE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/ponte-di-legno.html",
+        "value": "PONTE DI LEGNO",
+        "label": "PONTE DI LEGNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/pontecagnano-faiano.html",
+        "value": "PONTECAGNANO FAIANO",
+        "label": "PONTECAGNANO FAIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/pontelandolfo.html",
+        "value": "PONTELANDOLFO",
+        "label": "PONTELANDOLFO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/105/porto-santelpidio.html",
+        "value": "PORTO SANT'ELPIDIO",
+        "label": "PORTO SANT'ELPIDIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/71/porto-tolle.html",
+        "value": "PORTO TOLLE",
+        "label": "PORTO TOLLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/76/portopalo-di-capo-passero.html",
+        "value": "PORTOPALO DI CAPO PASSERO",
+        "label": "PORTOPALO DI CAPO PASSERO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/39/portovenere.html",
+        "value": "PORTOVENERE",
+        "label": "PORTOVENERE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/presenzano.html",
+        "value": "PRESENZANO",
+        "label": "PRESENZANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/76/priolo-gargallo.html",
+        "value": "PRIOLO GARGALLO",
+        "label": "PRIOLO GARGALLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/puglianello.html",
+        "value": "PUGLIANELLO",
+        "label": "PUGLIANELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/78/pulsano.html",
+        "value": "PULSANO",
+        "label": "PULSANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/quadrelle.html",
+        "value": "QUADRELLE",
+        "label": "QUADRELLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/quagliuzzo.html",
+        "value": "QUAGLIUZZO",
+        "label": "QUAGLIUZZO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/qualiano.html",
+        "value": "QUALIANO",
+        "label": "QUALIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/quarto.html",
+        "value": "QUARTO",
+        "label": "QUARTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/quinto-vicentino.html",
+        "value": "QUINTO VICENTINO",
+        "label": "QUINTO VICENTINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/quinzano-doglio.html",
+        "value": "QUINZANO D'OGLIO",
+        "label": "QUINZANO D'OGLIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/65/ragusa.html",
+        "value": "RAGUSA",
+        "label": "RAGUSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/randazzo.html",
+        "value": "RANDAZZO",
+        "label": "RANDAZZO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/ravanusa.html",
+        "value": "RAVANUSA",
+        "label": "RAVANUSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/raviscanina.html",
+        "value": "RAVISCANINA",
+        "label": "RAVISCANINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/recoaro-terme.html",
+        "value": "RECOARO TERME",
+        "label": "RECOARO TERME"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/reitano.html",
+        "value": "REITANO",
+        "label": "REITANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/74/rialto.html",
+        "value": "RIALTO",
+        "label": "RIALTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/riardo.html",
+        "value": "RIARDO",
+        "label": "RIARDO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/18/riesi.html",
+        "value": "RIESI",
+        "label": "RIESI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/42/rio.html",
+        "value": "RIO",
+        "label": "RIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/riola-sardo.html",
+        "value": "RIOLA SARDO",
+        "label": "RIOLA SARDO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/ripabottoni.html",
+        "value": "RIPABOTTONI",
+        "label": "RIPABOTTONI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/ripacandida.html",
+        "value": "RIPACANDIDA",
+        "label": "RIPACANDIDA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/6/ripatransone.html",
+        "value": "RIPATRANSONE",
+        "label": "RIPATRANSONE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/riposto.html",
+        "value": "RIPOSTO",
+        "label": "RIPOSTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/rivarossa.html",
+        "value": "RIVAROSSA",
+        "label": "RIVAROSSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/98/robbiate.html",
+        "value": "ROBBIATE",
+        "label": "ROBBIATE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/rocca-san-felice.html",
+        "value": "ROCCA SAN FELICE",
+        "label": "ROCCA SAN FELICE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/69/rocca-sinibalda.html",
+        "value": "ROCCA SINIBALDA",
+        "label": "ROCCA SINIBALDA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/roccafiorita.html",
+        "value": "ROCCAFIORITA",
+        "label": "ROCCAFIORITA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/roccagiovine.html",
+        "value": "ROCCAGIOVINE",
+        "label": "ROCCAGIOVINE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/roccagloriosa.html",
+        "value": "ROCCAGLORIOSA",
+        "label": "ROCCAGLORIOSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/roccalumera.html",
+        "value": "ROCCALUMERA",
+        "label": "ROCCALUMERA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/60/roccamorice.html",
+        "value": "ROCCAMORICE",
+        "label": "ROCCAMORICE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/roccapalumba.html",
+        "value": "ROCCAPALUMBA",
+        "label": "ROCCAPALUMBA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/roccavaldina.html",
+        "value": "ROCCAVALDINA",
+        "label": "ROCCAVALDINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/45/rodigo.html",
+        "value": "RODIGO",
+        "label": "RODIGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/romagnano-al-monte.html",
+        "value": "ROMAGNANO AL MONTE",
+        "label": "ROMAGNANO AL MONTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/76/rosolini.html",
+        "value": "ROSOLINI",
+        "label": "ROSOLINI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/rossano-veneto.html",
+        "value": "ROSSANO VENETO",
+        "label": "ROSSANO VENETO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/roure.html",
+        "value": "ROURE",
+        "label": "ROURE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/ruvo-del-monte.html",
+        "value": "RUVO DEL MONTE",
+        "label": "RUVO DEL MONTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/sacrofano.html",
+        "value": "SACROFANO",
+        "label": "SACROFANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/salcito.html",
+        "value": "SALCITO",
+        "label": "SALCITO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/salerano-canavese.html",
+        "value": "SALERANO CANAVESE",
+        "label": "SALERANO CANAVESE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/56/salsomaggiore-terme.html",
+        "value": "SALSOMAGGIORE TERME",
+        "label": "SALSOMAGGIORE TERME"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/salve.html",
+        "value": "SALVE",
+        "label": "SALVE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/sambuca-di-sicilia.html",
+        "value": "SAMBUCA DI SICILIA",
+        "label": "SAMBUCA DI SICILIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/38/san-benedetto-dei-marsi.html",
+        "value": "SAN BENEDETTO DEI MARSI",
+        "label": "SAN BENEDETTO DEI MARSI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/84/san-biagio-di-callalta.html",
+        "value": "SAN BIAGIO DI CALLALTA",
+        "label": "SAN BIAGIO DI CALLALTA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/san-cesareo.html",
+        "value": "SAN CESAREO",
+        "label": "SAN CESAREO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/san-cono.html",
+        "value": "SAN CONO",
+        "label": "SAN CONO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/57/san-damiano-al-colle.html",
+        "value": "SAN DAMIANO AL COLLE",
+        "label": "SAN DAMIANO AL COLLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/87/san-dona-di-piave.html",
+        "value": "SAN DONA' DI PIAVE",
+        "label": "SAN DONA' DI PIAVE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/16/san-donaci.html",
+        "value": "SAN DONACI",
+        "label": "SAN DONACI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/san-donato-di-lecce.html",
+        "value": "SAN DONATO DI LECCE",
+        "label": "SAN DONATO DI LECCE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/san-filippo-del-mela.html",
+        "value": "SAN FILIPPO DEL MELA",
+        "label": "SAN FILIPPO DEL MELA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/san-fratello.html",
+        "value": "SAN FRATELLO",
+        "label": "SAN FRATELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/san-germano-vercellese.html",
+        "value": "SAN GERMANO VERCELLESE",
+        "label": "SAN GERMANO VERCELLESE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/44/san-ginesio.html",
+        "value": "SAN GINESIO",
+        "label": "SAN GINESIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/san-giovanni-gemini.html",
+        "value": "SAN GIOVANNI GEMINI",
+        "label": "SAN GIOVANNI GEMINI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/san-giuseppe-vesuviano.html",
+        "value": "SAN GIUSEPPE VESUVIANO",
+        "label": "SAN GIUSEPPE VESUVIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/san-gregorio-di-catania.html",
+        "value": "SAN GREGORIO DI CATANIA",
+        "label": "SAN GREGORIO DI CATANIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/san-gregorio-magno.html",
+        "value": "SAN GREGORIO MAGNO",
+        "label": "SAN GREGORIO MAGNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/san-leucio-del-sannio.html",
+        "value": "SAN LEUCIO DEL SANNIO",
+        "label": "SAN LEUCIO DEL SANNIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/san-lorenzo-maggiore.html",
+        "value": "SAN LORENZO MAGGIORE",
+        "label": "SAN LORENZO MAGGIORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/san-lucido.html",
+        "value": "SAN LUCIDO",
+        "label": "SAN LUCIDO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/san-lupo.html",
+        "value": "SAN LUPO",
+        "label": "SAN LUPO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/san-mango-daquino.html",
+        "value": "SAN MANGO D'AQUINO",
+        "label": "SAN MANGO D'AQUINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/san-mango-piemonte.html",
+        "value": "SAN MANGO PIEMONTE",
+        "label": "SAN MANGO PIEMONTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/san-marco-la-catola.html",
+        "value": "SAN MARCO LA CATOLA",
+        "label": "SAN MARCO LA CATOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/45/san-martino-dallargine.html",
+        "value": "SAN MARTINO DALL'ARGINE",
+        "label": "SAN MARTINO DALL'ARGINE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/san-martino-di-finita.html",
+        "value": "SAN MARTINO DI FINITA",
+        "label": "SAN MARTINO DI FINITA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/78/san-marzano-di-san-giuseppe.html",
+        "value": "SAN MARZANO DI SAN GIUSEPPE",
+        "label": "SAN MARZANO DI SAN GIUSEPPE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/89/san-mauro-di-saline.html",
+        "value": "SAN MAURO DI SALINE",
+        "label": "SAN MAURO DI SALINE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/san-michele-mondovi.html",
+        "value": "SAN MICHELE MONDOVI'",
+        "label": "SAN MICHELE MONDOVI'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/san-nicandro-garganico.html",
+        "value": "SAN NICANDRO GARGANICO",
+        "label": "SAN NICANDRO GARGANICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/san-paolo-di-civitate.html",
+        "value": "SAN PAOLO DI CIVITATE",
+        "label": "SAN PAOLO DI CIVITATE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/san-pietro-clarenza.html",
+        "value": "SAN PIETRO CLARENZA",
+        "label": "SAN PIETRO CLARENZA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/san-pietro-di-carida.html",
+        "value": "SAN PIETRO DI CARIDA'",
+        "label": "SAN PIETRO DI CARIDA'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/16/san-pietro-vernotico.html",
+        "value": "SAN PIETRO VERNOTICO",
+        "label": "SAN PIETRO VERNOTICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/68/san-polo-denza.html",
+        "value": "SAN POLO D'ENZA",
+        "label": "SAN POLO D'ENZA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/san-potito-ultra.html",
+        "value": "SAN POTITO ULTRA",
+        "label": "SAN POTITO ULTRA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/san-procopio.html",
+        "value": "SAN PROCOPIO",
+        "label": "SAN PROCOPIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/san-salvatore-telesino.html",
+        "value": "SAN SALVATORE TELESINO",
+        "label": "SAN SALVATORE TELESINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/san-siro.html",
+        "value": "SAN SIRO",
+        "label": "SAN SIRO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/87/san-stino-di-livenza.html",
+        "value": "SAN STINO DI LIVENZA",
+        "label": "SAN STINO DI LIVENZA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/san-tammaro.html",
+        "value": "SAN TAMMARO",
+        "label": "SAN TAMMARO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/san-teodoro.html",
+        "value": "SAN TEODORO",
+        "label": "SAN TEODORO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/60/san-valentino-in-abruzzo-citeriore.html",
+        "value": "SAN VALENTINO IN ABRUZZO CITERIORE",
+        "label": "SAN VALENTINO IN ABRUZZO CITERIORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/san-vitaliano.html",
+        "value": "SAN VITALIANO",
+        "label": "SAN VITALIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/san-vito-lo-capo.html",
+        "value": "SAN VITO LO CAPO",
+        "label": "SAN VITO LO CAPO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/san-zeno-naviglio.html",
+        "value": "SAN ZENO NAVIGLIO",
+        "label": "SAN ZENO NAVIGLIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/sannicola.html",
+        "value": "SANNICOLA",
+        "label": "SANNICOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/santagata-di-militello.html",
+        "value": "SANT'AGATA DI MILITELLO",
+        "label": "SANT'AGATA DI MILITELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/santagnello.html",
+        "value": "SANT'AGNELLO",
+        "label": "SANT'AGNELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/santalfio.html",
+        "value": "SANT'ALFIO",
+        "label": "SANT'ALFIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/santangelo-dalife.html",
+        "value": "SANT'ANGELO D'ALIFE",
+        "label": "SANT'ANGELO D'ALIFE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/santangelo-dei-lombardi.html",
+        "value": "SANT'ANGELO DEI LOMBARDI",
+        "label": "SANT'ANGELO DEI LOMBARDI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/santangelo-muxaro.html",
+        "value": "SANT'ANGELO MUXARO",
+        "label": "SANT'ANGELO MUXARO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/santa-caterina-dello-ionio.html",
+        "value": "SANTA CATERINA DELLO IONIO",
+        "label": "SANTA CATERINA DELLO IONIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/santa-cesarea-terme.html",
+        "value": "SANTA CESAREA TERME",
+        "label": "SANTA CESAREA TERME"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/santa-cristina-daspromonte.html",
+        "value": "SANTA CRISTINA D'ASPROMONTE",
+        "label": "SANTA CRISTINA D'ASPROMONTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/santa-domenica-vittoria.html",
+        "value": "SANTA DOMENICA VITTORIA",
+        "label": "SANTA DOMENICA VITTORIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/santa-lucia-del-mela.html",
+        "value": "SANTA LUCIA DEL MELA",
+        "label": "SANTA LUCIA DEL MELA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/62/santa-maria-a-monte.html",
+        "value": "SANTA MARIA A MONTE",
+        "label": "SANTA MARIA A MONTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/santa-marinella.html",
+        "value": "SANTA MARINELLA",
+        "label": "SANTA MARINELLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/santa-ninfa.html",
+        "value": "SANTA NINFA",
+        "label": "SANTA NINFA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/santa-venerina.html",
+        "value": "SANTA VENERINA",
+        "label": "SANTA VENERINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/1/santo-stefano-quisquina.html",
+        "value": "SANTO STEFANO QUISQUINA",
+        "label": "SANTO STEFANO QUISQUINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/32/sarsina.html",
+        "value": "SARSINA",
+        "label": "SARSINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/39/sarzana.html",
+        "value": "SARZANA",
+        "label": "SARZANA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/74/sassello.html",
+        "value": "SASSELLO",
+        "label": "SASSELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/sasso-di-castalda.html",
+        "value": "SASSO DI CASTALDA",
+        "label": "SASSO DI CASTALDA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/satriano.html",
+        "value": "SATRIANO",
+        "label": "SATRIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/97/savelli.html",
+        "value": "SAVELLI",
+        "label": "SAVELLI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/72/scala.html",
+        "value": "SCALA",
+        "label": "SCALA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/scalenghe.html",
+        "value": "SCALENGHE",
+        "label": "SCALENGHE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/scaletta-zanclea.html",
+        "value": "SCALETTA ZANCLEA",
+        "label": "SCALETTA ZANCLEA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/97/scandale.html",
+        "value": "SCANDALE",
+        "label": "SCANDALE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/38/scanno.html",
+        "value": "SCANNO",
+        "label": "SCANNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/81/scarmagno.html",
+        "value": "SCARMAGNO",
+        "label": "SCARMAGNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/sciara.html",
+        "value": "SCIARA",
+        "label": "SCIARA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/scisciano.html",
+        "value": "SCISCIANO",
+        "label": "SCISCIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/sclafani-bagni.html",
+        "value": "SCLAFANI BAGNI",
+        "label": "SCLAFANI BAGNI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/scopello.html",
+        "value": "SCOPELLO",
+        "label": "SCOPELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/73/sedini.html",
+        "value": "SEDINI",
+        "label": "SEDINI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/segni.html",
+        "value": "SEGNI",
+        "label": "SEGNI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/seminara.html",
+        "value": "SEMINARA",
+        "label": "SEMINARA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/36/semproniano.html",
+        "value": "SEMPRONIANO",
+        "label": "SEMPRONIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/senorbi.html",
+        "value": "SENORBI'",
+        "label": "SENORBI'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/104/seregno.html",
+        "value": "SEREGNO",
+        "label": "SEREGNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/serina.html",
+        "value": "SERINA",
+        "label": "SERINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/serra-daiello.html",
+        "value": "SERRA D'AIELLO",
+        "label": "SERRA D'AIELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/50/serramazzoni.html",
+        "value": "SERRAMAZZONI",
+        "label": "SERRAMAZZONI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/67/serrata.html",
+        "value": "SERRATA",
+        "label": "SERRATA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/serravalle-sesia.html",
+        "value": "SERRAVALLE SESIA",
+        "label": "SERRAVALLE SESIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/serrone.html",
+        "value": "SERRONE",
+        "label": "SERRONE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/94/sessano-del-molise.html",
+        "value": "SESSANO DEL MOLISE",
+        "label": "SESSANO DEL MOLISE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/34/sestri-levante.html",
+        "value": "SESTRI LEVANTE",
+        "label": "SESTRI LEVANTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/seui.html",
+        "value": "SEUI",
+        "label": "SEUI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/104/seveso.html",
+        "value": "SEVESO",
+        "label": "SEVESO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/75/siena.html",
+        "value": "SIENA",
+        "label": "SIENA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/silvi.html",
+        "value": "SILVI",
+        "label": "SILVI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/simala.html",
+        "value": "SIMALA",
+        "label": "SIMALA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/53/sindia.html",
+        "value": "SINDIA",
+        "label": "SINDIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/76/siracusa.html",
+        "value": "SIRACUSA",
+        "label": "SIRACUSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/soddi.html",
+        "value": "SODDI'",
+        "label": "SODDI'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/soiano-del-lago.html",
+        "value": "SOIANO DEL LAGO",
+        "label": "SOIANO DEL LAGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/solesino.html",
+        "value": "SOLESINO",
+        "label": "SOLESINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/56/solignano.html",
+        "value": "SOLIGNANO",
+        "label": "SOLIGNANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/57/sommo.html",
+        "value": "SOMMO",
+        "label": "SOMMO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/89/sona.html",
+        "value": "SONA",
+        "label": "SONA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/77/sondrio.html",
+        "value": "SONDRIO",
+        "label": "SONDRIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/40/sonnino.html",
+        "value": "SONNINO",
+        "label": "SONNINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/99/sordio.html",
+        "value": "SORDIO",
+        "label": "SORDIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/24/sorico.html",
+        "value": "SORICO",
+        "label": "SORICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/10/sospirolo.html",
+        "value": "SOSPIROLO",
+        "label": "SOSPIROLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/58/spoleto.html",
+        "value": "SPOLETO",
+        "label": "SPOLETO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/spongano.html",
+        "value": "SPONGANO",
+        "label": "SPONGANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/squinzano.html",
+        "value": "SQUINZANO",
+        "label": "SQUINZANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/22/staletti.html",
+        "value": "STALETTI'",
+        "label": "STALETTI'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/summonte.html",
+        "value": "SUMMONTE",
+        "label": "SUMMONTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/18/sutera.html",
+        "value": "SUTERA",
+        "label": "SUTERA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/91/sutri.html",
+        "value": "SUTRI",
+        "label": "SUTRI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/taormina.html",
+        "value": "TAORMINA",
+        "label": "TAORMINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/teano.html",
+        "value": "TEANO",
+        "label": "TEANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/77/teglio.html",
+        "value": "TEGLIO",
+        "label": "TEGLIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/79/teramo.html",
+        "value": "TERAMO",
+        "label": "TERAMO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/terme-vigliatore.html",
+        "value": "TERME VIGLIATORE",
+        "label": "TERME VIGLIATORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/96/ternengo.html",
+        "value": "TERNENGO",
+        "label": "TERNENGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/80/terni.html",
+        "value": "TERNI",
+        "label": "TERNI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/25/terravecchia.html",
+        "value": "TERRAVECCHIA",
+        "label": "TERRAVECCHIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/teulada.html",
+        "value": "TEULADA",
+        "label": "TEULADA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/7/tonengo.html",
+        "value": "TONENGO",
+        "label": "TONENGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/16/torchiarolo.html",
+        "value": "TORCHIAROLO",
+        "label": "TORCHIAROLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/23/torino-di-sangro.html",
+        "value": "TORINO DI SANGRO",
+        "label": "TORINO DI SANGRO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/9/toritto.html",
+        "value": "TORITTO",
+        "label": "TORITTO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/torre-del-greco.html",
+        "value": "TORRE DEL GRECO",
+        "label": "TORRE DEL GRECO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/torre-le-nocelle.html",
+        "value": "TORRE LE NOCELLE",
+        "label": "TORRE LE NOCELLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/16/torre-santa-susanna.html",
+        "value": "TORRE SANTA SUSANNA",
+        "label": "TORRE SANTA SUSANNA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/torretta.html",
+        "value": "TORRETTA",
+        "label": "TORRETTA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/torrice.html",
+        "value": "TORRICE",
+        "label": "TORRICE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/toscolano-maderno.html",
+        "value": "TOSCOLANO-MADERNO",
+        "label": "TOSCOLANO-MADERNO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/trapani.html",
+        "value": "TRAPANI",
+        "label": "TRAPANI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/71/trecenta.html",
+        "value": "TRECENTA",
+        "label": "TRECENTA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/trentola-ducenta.html",
+        "value": "TRENTOLA DUCENTA",
+        "label": "TRENTOLA DUCENTA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/15/trenzano.html",
+        "value": "TRENZANO",
+        "label": "TRENZANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/26/trescore-cremasco.html",
+        "value": "TRESCORE CREMASCO",
+        "label": "TRESCORE CREMASCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/58/trevi.html",
+        "value": "TREVI",
+        "label": "TREVI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/84/treviso.html",
+        "value": "TREVISO",
+        "label": "TREVISO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/47/tricarico.html",
+        "value": "TRICARICO",
+        "label": "TRICARICO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/88/trino.html",
+        "value": "TRINO",
+        "label": "TRINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/37/triora.html",
+        "value": "TRIORA",
+        "label": "TRIORA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/tripi.html",
+        "value": "TRIPI",
+        "label": "TRIPI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/28/troina.html",
+        "value": "TROINA",
+        "label": "TROINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/99/turano-lodigiano.html",
+        "value": "TURANO LODIGIANO",
+        "label": "TURANO LODIGIANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/60/turrivalignani.html",
+        "value": "TURRIVALIGNANI",
+        "label": "TURRIVALIGNANI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/tusa.html",
+        "value": "TUSA",
+        "label": "TUSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/ucria.html",
+        "value": "UCRIA",
+        "label": "UCRIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/58/umbertide.html",
+        "value": "UMBERTIDE",
+        "label": "UMBERTIDE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/44/ussita.html",
+        "value": "USSITA",
+        "label": "USSITA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/ustica.html",
+        "value": "USTICA",
+        "label": "USTICA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/64/vaglio-basilicata.html",
+        "value": "VAGLIO BASILICATA",
+        "label": "VAGLIO BASILICATA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/26/vaiano-cremasco.html",
+        "value": "VAIANO CREMASCO",
+        "label": "VAIANO CREMASCO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/valderice.html",
+        "value": "VALDERICE",
+        "label": "VALDERICE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/48/valdina.html",
+        "value": "VALDINA",
+        "label": "VALDINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/91/valentano.html",
+        "value": "VALENTANO",
+        "label": "VALENTANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/8/vallata.html",
+        "value": "VALLATA",
+        "label": "VALLATA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/37/vallecrosia.html",
+        "value": "VALLECROSIA",
+        "label": "VALLECROSIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/91/vallerano.html",
+        "value": "VALLERANO",
+        "label": "VALLERANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/valmontone.html",
+        "value": "VALMONTONE",
+        "label": "VALMONTONE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/98/valvarrone.html",
+        "value": "VALVARRONE",
+        "label": "VALVARRONE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/valverde.html",
+        "value": "VALVERDE",
+        "label": "VALVERDE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/69/varco-sabino.html",
+        "value": "VARCO SABINO",
+        "label": "VARCO SABINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/84/vedelago.html",
+        "value": "VEDELAGO",
+        "label": "VEDELAGO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/70/velletri.html",
+        "value": "VELLETRI",
+        "label": "VELLETRI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/94/venafro.html",
+        "value": "VENAFRO",
+        "label": "VENAFRO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/86/venegono-superiore.html",
+        "value": "VENEGONO SUPERIORE",
+        "label": "VENEGONO SUPERIORE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/ventimiglia-di-sicilia.html",
+        "value": "VENTIMIGLIA DI SICILIA",
+        "label": "VENTIMIGLIA DI SICILIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/vernante.html",
+        "value": "VERNANTE",
+        "label": "VERNANTE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/41/vernole.html",
+        "value": "VERNOLE",
+        "label": "VERNOLE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/21/viagrande.html",
+        "value": "VIAGRANDE",
+        "label": "VIAGRANDE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/vicari.html",
+        "value": "VICARI",
+        "label": "VICARI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/90/vicenza.html",
+        "value": "VICENZA",
+        "label": "VICENZA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/31/vico-del-gargano.html",
+        "value": "VICO DEL GARGANO",
+        "label": "VICO DEL GARGANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/91/vignanello.html",
+        "value": "VIGNANELLO",
+        "label": "VIGNANELLO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/12/villa-dogna.html",
+        "value": "VILLA D'OGNA",
+        "label": "VILLA D'OGNA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/villa-latina.html",
+        "value": "VILLA LATINA",
+        "label": "VILLA LATINA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/33/villa-santa-lucia.html",
+        "value": "VILLA SANTA LUCIA",
+        "label": "VILLA SANTA LUCIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/23/villa-santa-maria.html",
+        "value": "VILLA SANTA MARIA",
+        "label": "VILLA SANTA MARIA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/95/villa-verde.html",
+        "value": "VILLA VERDE",
+        "label": "VILLA VERDE"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/102/villadossola.html",
+        "value": "VILLADOSSOLA",
+        "label": "VILLADOSSOLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/89/villafranca-di-verona.html",
+        "value": "VILLAFRANCA DI VERONA",
+        "label": "VILLAFRANCA DI VERONA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/55/villafrati.html",
+        "value": "VILLAFRATI",
+        "label": "VILLAFRATI"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/54/villanova-di-camposampiero.html",
+        "value": "VILLANOVA DI CAMPOSAMPIERO",
+        "label": "VILLANOVA DI CAMPOSAMPIERO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/27/villanova-mondovi.html",
+        "value": "VILLANOVA MONDOVI'",
+        "label": "VILLANOVA MONDOVI'"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/111/villaspeciosa.html",
+        "value": "VILLASPECIOSA",
+        "label": "VILLASPECIOSA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/19/vinchiaturo.html",
+        "value": "VINCHIATURO",
+        "label": "VINCHIATURO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/57/vistarino.html",
+        "value": "VISTARINO",
+        "label": "VISTARINO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/82/vita.html",
+        "value": "VITA",
+        "label": "VITA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/91/viterbo.html",
+        "value": "VITERBO",
+        "label": "VITERBO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/11/vitulano.html",
+        "value": "VITULANO",
+        "label": "VITULANO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/20/vitulazio.html",
+        "value": "VITULAZIO",
+        "label": "VITULAZIO"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/51/volla.html",
+        "value": "VOLLA",
+        "label": "VOLLA"
+    },
+    {
+        "url": "/elezioni-amministrative-2018/risultati/49/zibido-san-giacomo.html",
+        "value": "ZIBIDO SAN GIACOMO",
+        "label": "ZIBIDO SAN GIACOMO"
+    }
+]
